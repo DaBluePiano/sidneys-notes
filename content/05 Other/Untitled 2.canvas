@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"1256e5668a0c88ed","x":-299,"y":10,"width":250,"height":60,"type":"text","text":""},
+		{"id":"81d02f2f2272ff5b","x":-140,"y":-180,"width":250,"height":60,"type":"text","text":"[[02 School]]"},
+		{"id":"c19f88b55d21c550","x":-265,"y":-120,"width":250,"height":60,"type":"text","text":"[[03 Music]]"},
+		{"id":"0551d9bb0af7c2fd","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[]
+}
