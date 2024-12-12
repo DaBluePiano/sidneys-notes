@@ -1,6 +1,7 @@
 ---
 draft: false
 tags:
+  - "#schoolnote"
 classroom-link: https://classroom.google.com/c/NjU0MzM3MDYzNjk4/m/NzE1OTI5NzcwNjM5/details
 share_link: https://share.note.sx/2dijhvp7
 share_updated: 2024-12-11T19:10:42+11:00

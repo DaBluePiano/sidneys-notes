@@ -1,11 +1,12 @@
 ---
+draft: false
+tags:
+  - "#cheatsheet"
 quickshare-date: N/A
 quickshare-url: 
 share_link: https://share.note.sx/h3mn0ltd
-share_updated: 2024-12-09T20:52:23+11:00
-title: Yearly Assessment Cheatsheet Year 8 Maths
-draft: false
-tags:
+share_updated: 2024-12-07T21:00:57+11:00
+title: Yearly Assessment Notes
 ---
 # Properties of Geometrical Figures
 ## Quadrilaterals
@@ -45,19 +46,12 @@ A cross section of a prism  is where however many times you cut it, the 2-dimens
 
 ## Various **Cross Section** Formulas for other solids (multiply everything by the height ($h$) of the object)
 Cube: $A=l^{2}$
-
 Rectangular Prism: $A=bh$
-
 Rhombic Prism: $A=\frac{1}{2}xy$
-
 Trapezoidal Prism: $A=\frac{1}{2}(a+b)h$
-
 Triangular Prism: $A=\frac{1}{2}bh$
-
 Cylinder: $A=\pi r^2$
-
 Semi-Cylinder?: $A=\frac{1}{2}\pi r^2$
-
 Sector: $A=\frac{\theta}{360}\pi r^2$
 
 ## Composite Solids
