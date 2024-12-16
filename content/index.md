@@ -1,11 +1,12 @@
 ---
 title: Welcome to Sidney's notes :)
 ---
-# School
-## [[Cheatsheets]]
 
-## [[Class Notes]]
+
+# School
+## [[02 School|School :D]]
+
+## [[07 Cheatsheets|Cheatsheets :)]]
 
 # Music
- [[Musicianship]]
- 
+## [[03 Music|Music 🎼]]
