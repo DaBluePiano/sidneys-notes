@@ -5,6 +5,6 @@ title: Piano
 ---
 %% Begin Waypoint %%
 - **[[AMusA]]**
-- **[[Lesson Notes]]**
+- [[Stylistic Contrasts]]
 
 %% End Waypoint %%

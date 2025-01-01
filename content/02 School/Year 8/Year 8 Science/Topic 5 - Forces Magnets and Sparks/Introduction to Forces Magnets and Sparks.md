@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+title: Introduction to Forces Magnets and Sparks
+---
 # Vocabulary 
 ## Force
 Any of various factors that cause a body to change its speed, direction, or shape.

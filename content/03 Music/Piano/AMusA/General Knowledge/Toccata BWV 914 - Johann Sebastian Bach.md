@@ -1,5 +1,8 @@
 ---
+draft: false
+tags:
 list:
+title: Toccata BWV 914 - Johann Sebastian Bach
 ---
 
 # Title of Piece

@@ -1,8 +1,12 @@
 ---
+draft: false
+tags:
 list: A
+title: Sonata in C Major - Wolfgang Amadeus Mozart
 ---
 # Title of Piece
 ## Significance of Title
+
 # Markings of the Score
 ## Signs
 
@@ -13,7 +17,7 @@ list: A
 ## Nationality
 ## Dates
 ## Brief Biography
-## Sources of Infeluence
+## Sources of Influence
 ## Impact upon late generations of composers and repertoire output
 # Historical and Stylistic Context
 ## How this work relates to the period (Characteristics)

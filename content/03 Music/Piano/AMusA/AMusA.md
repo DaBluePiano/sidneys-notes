@@ -5,6 +5,6 @@ title: AMusA
 ---
 %% Begin Waypoint %%
 - **[[General Knowledge]]**
-- [[Stylistic Contrasts]]
+- **[[Practical]]**
 
 %% End Waypoint %%

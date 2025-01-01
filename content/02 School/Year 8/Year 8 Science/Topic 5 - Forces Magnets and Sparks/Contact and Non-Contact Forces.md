@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+title: Contact and Non-Contact Forces
+---
 # Contact Forces
 Often, forces can act between two objects that are in contact with one another. Familiar examples of contact force include the force of your hand pulling your shoelaces, the force of your hand on a bottle top as you unscrew it, and the force of your schoolbag pulling down on your shoulders.
 

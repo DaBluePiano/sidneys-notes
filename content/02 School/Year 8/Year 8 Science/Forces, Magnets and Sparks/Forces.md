@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+title: Forces
+---
 # What is a Force?
 > [!Summary] What is a Force?
 > A force can be a push, a pull or a twist. We tell them apart by talking about directions. 
