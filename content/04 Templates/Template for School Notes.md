@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 date: "{{date:YYYY-MM-DD}}"
 day: "{{day}}"
 period: 

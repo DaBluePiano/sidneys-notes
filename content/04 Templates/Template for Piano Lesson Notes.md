@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 tags:
 date:
 title: Template for Piano Lesson Notes

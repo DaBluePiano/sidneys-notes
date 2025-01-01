@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 tags:
 list:
 title: Template for General Knowledge

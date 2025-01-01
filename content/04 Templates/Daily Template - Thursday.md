@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 tags:
 title: Daily Template - Thursday
 ---
