@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 tags:
 date: 2024-11-06
 title: 2024 11 06 Wednesday
