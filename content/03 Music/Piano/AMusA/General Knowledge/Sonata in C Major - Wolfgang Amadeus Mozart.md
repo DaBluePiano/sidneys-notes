@@ -50,14 +50,14 @@ In 1781, Mozart visited Vienna, where he was dismissed from his position in Salz
 In Vienna, Mozart wrote some of his most famous works, including the operas _The Abduction from the Seraglio_ (Die Entführung aus dem Serail), _Don Giovanni_, _The Magic Flute_, and _The Marriage of Figaro_. His operas are known for their deep emotional expression, complex characters, and beautiful melodies.
 
 In addition to operas, Mozart wrote many piano concertos, symphonies, string quartets, and chamber music. Some of his best-known works in these genres include his _Piano Concerto No. 21_, _Symphony No. 40_, and _String Quartet No. 17_ in D minor. He also developed the piano concerto as a genre, showcasing his talents as both a composer and a virtuoso pianist.  
-[Wikipedia](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart?utm_source=chatgpt.com)
+[Wikipedia](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
 
 ---
 
 ### **Personal Life**
 
 In 1782, Mozart married **Constanze Weber**, the daughter of a well-known musician. The couple had six children, but only two survived to adulthood. Despite his success as a composer, Mozart often struggled with money. He lived a lavish lifestyle and frequently found himself in debt, relying on commissions from aristocrats and the sale of his music to survive financially.  
-[Wikipedia](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart?utm_source=chatgpt.com)
+[Wikipedia](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
 
 ---
 
@@ -68,7 +68,7 @@ Mozart passed away on **December 5, 1791**, at the age of 35. His death is often
 Even though he died young, Mozart's music has had an enormous influence on classical music. His works are admired for their beauty, complexity, and emotional depth. His operas, such as _The Marriage of Figaro_, _Don Giovanni_, and _The Magic Flute_, are still performed all over the world. His symphonies, like _Symphony No. 41_ ("Jupiter"), remain some of the most beloved works in the orchestral repertoire.
 
 Mozart’s ability to combine technical skill with emotional expression has inspired generations of composers, and his works continue to be a central part of classical music.  
-[Encyclopedia Britannica](https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart?utm_source=chatgpt.com)
+[Encyclopedia Britannica](https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart)
 ## Sources of Influence
 ### **What Influenced Mozart’s Music?**
 
@@ -123,6 +123,27 @@ Mozart also borrowed ideas from the folk and dance music of his time. This made 
 Mozart’s music was inspired by his family, the places he traveled, the composers he admired, and the styles of music he encountered. He took all these influences and combined them in a way that made his music unique, emotional, and timeless.
 
 ## Impact upon late generations of composers and repertoire output
+### **How Mozart Influenced Later Composers**
+
+1. **Improving the Classical Style**  
+    Mozart perfected the balance, clarity, and structure of Classical music. Composers like Ludwig van Beethoven admired his music and used it as a foundation for their own work. For example, Beethoven studied Mozart's symphonies and piano concertos, learning how to blend emotion with technical precision.
+    
+    [Classics Today](https://www.classicstoday.com)
+    
+2. **Transforming Opera**  
+    Mozart made opera more emotional and dramatic. His operas, like _The Marriage of Figaro_ and _Don Giovanni_, featured complex characters and situations. These ideas influenced later opera composers like Giuseppe Verdi, who admired how Mozart used music to tell a story.
+    
+3. **Creating Better Concertos**  
+    Mozart elevated the concerto, especially for piano. He combined dazzling performances with deep emotion, inspiring composers like Johannes Brahms and Sergei Rachmaninoff to write their own masterpieces in this form.
+    
+4. **Inspiring Romantic Composers**  
+    Mozart’s melodies and expressive harmonies influenced Romantic-era composers such as Franz Schubert and Felix Mendelssohn. Schubert even called Mozart "the image of a pure artist."
+    
+5. **Modern Influence**  
+    Mozart’s music remains essential today. It’s used in music education, and his works are often performed in concerts worldwide. His ability to mix beauty with structure continues to be a benchmark for excellence.
+    
+
+[^13]
 # Historical and Stylistic Context
 ## How this work relates to the period (Characteristics)
 ## Compositional Style
@@ -135,7 +156,69 @@ Mozart’s music was inspired by his family, the places he traveled, the compose
 # Instrument
 ## The Construction and Development of the Piano
 
+### The History and Development of the Piano
 
+The modern piano has a long history, evolving from earlier stringed and keyboard instruments. Each stage of its development added new ideas, leading to the dynamic and versatile instrument we know today.
+
+---
+
+#### **Early Instruments**
+
+1. **Monochord**  
+    The monochord, used in ancient Greece, was a single string stretched over a box to study pitch and sound. It wasn’t a performance instrument, but it helped people understand how strings work to create music.  [^14]
+3. **Hammered Dulcimer**  
+    This instrument, from around 500 BCE, had many strings struck by small hammers. The idea of hitting strings to make sound later inspired the piano’s hammer mechanism.  [^15]
+3. **Clavichord**  
+    Invented in the 1400s, the clavichord struck strings with small metal pieces when keys were pressed. It allowed players to control volume (soft or loud), but the sound was too quiet for large rooms. [^16]
+4. **Harpsichord**  
+    The harpsichord, popular in the 1500s and 1600s, plucked strings when keys were pressed. It was louder than the clavichord but couldn’t change volume based on how the keys were played.  [^17]
+
+---
+
+#### **The First Piano**
+
+The piano was invented around 1700 by Bartolomeo Cristofori in Italy. He called it the _gravicembalo col piano e forte_, which means “harpsichord with soft and loud.”
+
+Cristofori made two big changes:
+
+- He used hammers instead of plucking strings, which allowed players to control volume.
+- He added a mechanism (called escapement) so the hammers bounced back after hitting the strings, letting them vibrate freely.
+
+This new instrument could play both soft and loud, making it more expressive than earlier instruments.  
+[Piano Closeouts](https://pianocloseouts.com/how-the-piano-was-invented-a-brief-history-of-the-piano/)
+
+---
+
+#### **Improving the Piano**
+
+Between 1790 and 1860, the piano improved in many ways:
+
+1. **Stronger Frames**
+    
+    - A cast iron frame was added, letting strings hold more tension for a louder and richer sound.
+2. **Better Strings**
+    
+    - Bass strings were arranged diagonally (called cross-stringing) over the middle and treble strings, making the sound fuller.
+3. **More Keys**
+    
+    - Early pianos had about 5 octaves (61 keys). The modern piano has 88 keys, allowing for more complex music.
+
+[Kawai](https://kawai.com.au/2020/07/27/a-very-brief-history-of-the-piano/)
+
+---
+
+#### **Modern Changes**
+
+In recent times, new types of pianos have been created:
+
+1. **Hybrid Pianos**
+    
+    - These combine traditional piano mechanics with digital technology, like recording and sound effects.
+2. **Digital Pianos**
+    
+    - These fully electronic pianos simulate the sound and feel of a real piano while being more portable.
+
+[Yamaha](https://www.yamaha.com/en/musical_instrument_guide/piano/structure/)
 ## Footnotes
 [^1]: [Flametree Piano - Biography of Mozart](https://flametreepiano.com/2018/12/30/biography-wolfgang-amadeus-mozart/)
 [^2]: [WFMT - Composers Inspired by Travel](https://www.wfmt.com/2024/08/23/10-composers-who-were-inspired-by-their-travels/)
@@ -146,6 +229,11 @@ Mozart’s music was inspired by his family, the places he traveled, the compose
 [^7]: [Flametree Piano - Biography of Mozart](https://flametreepiano.com/2018/12/30/biography-wolfgang-amadeus-mozart/)
 [^8]: [Opera Philadelphia - Composer of Figaro](https://www.operaphila.org/whats-on/on-stage-2016-2017/figaro/composer/)
 [^9]: [Opera Philadelphia - Composer of Figaro](https://www.operaphila.org/whats-on/on-stage-2016-2017/figaro/composer/)
-[^10]: [Encyclopedia Britannica](https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart?utm_source=chatgpt.com)
-[^11]: [ENO](https://www.eno.org/composers/wolfgang-amadeus-mozart/?utm_source=chatgpt.com)
-[^12]: [Classics For Kids](https://www.classicsforkids.com/composer/wolfgang-amadeus-mozart/?utm_source=chatgpt.com)
+[^10]: [Encyclopedia Britannica](https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart)
+[^11]: [ENO](https://www.eno.org/composers/wolfgang-amadeus-mozart/)
+[^12]: [Classics For Kids](https://www.classicsforkids.com/composer/wolfgang-amadeus-mozart/)
+[^13]: [Encyclopedia Britannica](https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart)
+[^14]: [Yamaha](https://www.yamaha.com/en/musical_instrument_guide/piano/structure/)
+[^15]: [Kawai](https://kawai.com.au/2020/07/27/a-very-brief-history-of-the-piano/)
+[^16]: [Kawai](https://kawai.com.au/2020/07/27/a-very-brief-history-of-the-piano/)
+[^17]: [Kawai](https://kawai.com.au/2020/07/27/a-very-brief-history-of-the-piano/)
