@@ -8,12 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴Sidney's Obsidian Notes :)",
+    pageTitle: "Sidney's Obsidian Notes :)",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "{ provider: 'google', tagId: 'G-G16ZWP0FLH' }",
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Lexend",
-        body: "Lexend",
+        header: "lexend",
+        body: "lexend",
         code: "IBM Plex Mono",
       },
       colors: {
