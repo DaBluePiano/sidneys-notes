@@ -1,5 +1,6 @@
 ---
 title: Welcome to Sidney's notes :)
+font: Lexend
 ---
 Hi :)
 This is where I (Sidney) keep my notes hosted on a digital garden. 
