@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "dm-sans",
+        header: "DM Sans",
         body: "lexend",
         code: "jetbrains-mono",
       },
