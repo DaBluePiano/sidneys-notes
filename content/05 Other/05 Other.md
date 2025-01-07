@@ -13,6 +13,7 @@ title: 05 Other
 - [[Home]]
 - [[Lessons+Teaching Tracking]]
 - [[Merged - Untitled 1 1234567]]
+- [[Online Style Sample Test Writing Test 1]]
 - [[PC to PC Test]]
 - [[PC to Phone Test]]
 - [[Phone to PC test]]
@@ -27,7 +28,7 @@ title: 05 Other
 - [[Untitled 4]]
 - [[Untitled Kanban]]
 - [[Untitled.canvas]]
-- [[05 Other/Untitled]]
+- [[Untitled]]
 - [[Vault]]
 
 %% End Waypoint %%
