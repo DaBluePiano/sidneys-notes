@@ -14,6 +14,7 @@ title: 04 Templates
 - [[Daily Template - Wednesday]]
 - [[Quartz Template]]
 - [[Template for Daily Notes]]
+- [[Template for Folder Notes]]
 - [[Template for General Knowledge]]
 - [[Template for Piano Lesson Notes]]
 - [[Template for School Notes]]

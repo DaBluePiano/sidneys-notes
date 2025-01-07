@@ -1,15 +1,15 @@
 ---
-title: Welcome to Sidney's notes :)
-font:
+draft: true
+tags:
+cssclass:
+  - dashboard
+title: Dashboard
 ---
-This is the collection of Sidney's Notes for you to look at and to study from 
-
-
-Please address any errors, issues, etc. to [this link](https://forms.gle/kkBXSJDbRs5bUK3G7). :)
-
-
-# ~~01 Daily Notes~~
-- ~~[[2024]]~~
+```widgets
+type: clock
+```
+# 01 Daily Notes
+- [[2024]]
 # 02 School
 - [[Year 8]]
 	- [[02 School/Year 8/Year 8 English/Year 8 English|Year 8 English]]
@@ -33,14 +33,18 @@ Please address any errors, issues, etc. to [this link](https://forms.gle/kkBXSJD
 	- [[Musicianship Grade 5]]
 - [[Piano]]
 	- [[AMusA]]
-# ~~04 Templates~~
-- ~~[[04 Templates]]~~
-# ~~05 Other~~
-- ~~[[05 Other]]~~
+# 04 Templates
+- [[04 Templates]]
+# 05 Other
+- [[05 Other]]
 # 06 Tags
 - [[06 Tags]]
 
 # 07 Cheatsheets
 - [[07 Cheatsheets]]
-# ~~08 Attachments~~
-- ~~[[08 Attachments]]~~
+# 08 Attachments
+- [[08 Attachments]]
+# 09 Unique Notes
+[[09 Unique Notes]]
+# Clippings
+[[Clippings]]
