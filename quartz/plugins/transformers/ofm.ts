@@ -45,10 +45,10 @@ const defaultOptions: Options = {
   parseTags: true,
   parseArrows: true,
   parseBlockReferences: true,
-  enableInHtmlEmbed: false,
+  enableInHtmlEmbed: true,
   enableYouTubeEmbed: true,
   enableVideoEmbed: true,
-  enableCheckbox: false,
+  enableCheckbox: true,
 }
 
 const calloutMapping = {
