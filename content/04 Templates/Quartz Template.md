@@ -1,6 +1,6 @@
 ---
-draft: true
-title: Quartz Template
+draft: false
+title: <% tp.file.title %>
 tags:
 ---
  
