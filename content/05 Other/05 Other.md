@@ -28,7 +28,7 @@ title: 05 Other
 - [[Untitled 4]]
 - [[Untitled Kanban]]
 - [[Untitled.canvas]]
-- [[Untitled]]
+- [[05 Other/Untitled]]
 - [[Vault]]
 
 %% End Waypoint %%
