@@ -4,13 +4,11 @@ font:
 ---
 This is the collection of Sidney's Notes for you to look at and to study from 
 
-
 Please address any errors, issues, etc. to [this link](https://forms.gle/kkBXSJDbRs5bUK3G7). :)
 
+Anything that is crossed out is either private or unavailable 
 
-# ~~01 Daily Notes~~
-- ~~[[2024]]~~
-# 02 School
+# [[02 School|School 🏫]]
 - [[Year 8]]
 	- [[02 School/Year 8/Year 8 English/Year 8 English|Year 8 English]]
 	- [[02 School/Year 8/Year 8 HSIE/Year 8 HSIE|Year 8 HSIE]]
@@ -28,19 +26,9 @@ Please address any errors, issues, etc. to [this link](https://forms.gle/kkBXSJD
 	- [[Year 9 STEM]]
 	- [[Year 9 Electronics]]
 	- [[Year 9 Music]]
-# 03 Music
+# [[07 Cheatsheets|Cheatsheets :)]]
+# [[03 Music|Music 🎼]]
 - [[Musicianship]]
 	- [[Musicianship Grade 5]]
 - [[Piano]]
 	- [[AMusA]]
-# ~~04 Templates~~
-- ~~[[04 Templates]]~~
-# ~~05 Other~~
-- ~~[[05 Other]]~~
-# 06 Tags
-- [[06 Tags]]
-
-# 07 Cheatsheets
-- [[07 Cheatsheets]]
-# ~~08 Attachments~~
-- ~~[[08 Attachments]]~~
