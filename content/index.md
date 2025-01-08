@@ -5,9 +5,6 @@ font:
 This is the collection of Sidney's Notes for you to look at and to study from 
 
 Please address any errors, issues, etc. to [this link](https://forms.gle/kkBXSJDbRs5bUK3G7). :)
-
-Anything that is crossed out is either private or unavailable 
-
 # [[02 School|School 🏫]]
 - [[Year 8]]
 	- [[02 School/Year 8/Year 8 English/Year 8 English|Year 8 English]]
