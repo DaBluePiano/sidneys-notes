@@ -1,7 +1,8 @@
 ---
-draft: false
-tags:
-Aliases: [ "#Year8/PDH" ]
+draft: true
+tags: 
+aliases:
+  - "#Year8/PDH"
 title: PDH8
 ---
 ```dataview

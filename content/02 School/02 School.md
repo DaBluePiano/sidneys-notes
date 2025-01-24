@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 tags: 
 title: 02 School
 ---

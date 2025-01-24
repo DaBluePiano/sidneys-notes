@@ -1,6 +1,6 @@
 ---
-draft: false
-tags:
+draft: true
+tags: 
 title: A Happier Me
 ---
 %% Begin Waypoint %%

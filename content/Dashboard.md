@@ -1,7 +1,7 @@
 ---
-draft: false
-tags:
-cssclass:
+draft: true
+tags: 
+cssclasses:
   - dashboard
 title: Dashboard
 ---

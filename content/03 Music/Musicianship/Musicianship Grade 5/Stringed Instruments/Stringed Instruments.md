@@ -1,6 +1,6 @@
 ---
-draft: false
-tags:
+draft: true
+tags: 
 title: Stringed Instruments
 ---
 %% Begin Waypoint %%

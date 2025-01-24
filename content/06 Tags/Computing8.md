@@ -1,7 +1,8 @@
 ---
-draft: false
-tags:
-Aliases: [ "#Computing" ]
+draft: true
+tags: 
+aliases:
+  - "#Computing"
 title: Computing8
 ---
 ```dataview

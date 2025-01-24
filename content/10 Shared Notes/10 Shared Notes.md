@@ -1,6 +1,6 @@
 ---
-draft: false
-tags:
+draft: true
+tags: 
 title: 10 Shared Notes
 ---
 %% Begin Waypoint %%

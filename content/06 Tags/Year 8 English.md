@@ -1,7 +1,8 @@
 ---
-draft: false
-tags:
-Aliases: [ "#Year8/English" ]
+draft: true
+tags: 
+aliases:
+  - "#Year8/English"
 title: Year 8 English
 ---
 ```dataview

@@ -1,6 +1,6 @@
 ---
-draft: false
-tags:
+draft: true
+tags: 
 title: Properties of Geometrical Figures
 ---
 %% Begin Waypoint %%

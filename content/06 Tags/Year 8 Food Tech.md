@@ -1,7 +1,8 @@
 ---
-draft: false
-tags:
-Aliases: [ "#Year8/FoodTech" ]
+draft: true
+tags: 
+aliases:
+  - "#Year8/FoodTech"
 title: Year 8 Food Tech
 ---
 ```dataview

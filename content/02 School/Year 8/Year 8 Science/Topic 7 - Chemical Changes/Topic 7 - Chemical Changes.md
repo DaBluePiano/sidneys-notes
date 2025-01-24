@@ -1,6 +1,6 @@
 ---
-draft: false
-tags:
+draft: true
+tags: 
 title: Topic 7 - Chemical Changes
 ---
 %% Begin Waypoint %%
