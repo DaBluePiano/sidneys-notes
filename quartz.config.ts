@@ -30,28 +30,28 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#edf5ff", // Soft, cool blue for page background
-          lightgray: "#cddff7", // Light bluish-gray for borders
-          gray: "#97b3d8", // Subtle blue-gray for graph links and heavier borders
-          darkgray: "#5e779f", // Muted blue with a hint of purple for body text
-          dark: "#3c4f6e", // Deep blue for header text and icons
-          secondary: "#5e84f2", // Vibrant blue with a touch of purple for link colors and current graph node
-          tertiary: "#8898f7", // Cool bluish-purple for hover states and visited graph nodes
-          highlight: "rgba(94, 132, 242, 0.15)", // Soft blue for internal link background and highlights
-          textHighlight: "#d3e3f7", // Very light blue for markdown highlighted text background
+          light: "#d0e4ff", // Soft, cool blue for page background
+          lightgray: "#c2d4f9", // Light bluish-gray for borders
+          gray: "#8aa3d3", // Subtle blue-gray for graph links and heavier borders
+          darkgray: "#4e5c7a", // Muted blue with a hint of purple for body text
+          dark: "#2e4063", // Deep blue with purple undertones for header text and icons
+          secondary: "#5e7ef2", // Vibrant blue with a more pronounced purple for link colors and current graph node
+          tertiary: "#7367f7", // Bluish-purple for hover states and visited graph nodes
+          highlight: "rgba(94, 132, 242, 0.25)", // Soft blue for internal link background and highlights
+          textHighlight: "#b4c9f7", // Very light blue with a hint of purple for markdown highlighted text background
         },
         darkMode: {
-          light: "#121a2b", // Deep blue-black for page background
-          lightgray: "#202e49", // Muted dark blue for borders
-          gray: "#314a70", // Cool blue-gray for graph links and heavier borders
-          darkgray: "#5e7699", // Subtle blue for body text
-          dark: "#94aedb", // Softer light blue for header text and icons
-          secondary: "#5e84f2", // Vibrant blue with subtle purple undertones for link colors and current graph node
-          tertiary: "#8898f7", // Cool bluish-purple for hover states and visited graph nodes
-          highlight: "rgba(94, 132, 242, 0.15)", // Light blue for internal link background and highlights
-          textHighlight: "#3a4c70", // Deep blue for markdown highlighted text background
+          light: "#101831", // Deep blue-black for page background
+          lightgray: "#1b2d49", // Muted dark blue for borders
+          gray: "#2b3f65", // Cool blue-gray for graph links and heavier borders
+          darkgray: "#4f6788", // Subtle blue with a hint of purple for body text
+          dark: "#758cd9", // Softer light blue with purple undertones for header text and icons
+          secondary: "#5e7ef2", // Vibrant blue with purple undertones for link colors and current graph node
+          tertiary: "#7367f7", // Cool bluish-purple for hover states and visited graph nodes
+          highlight: "rgba(94, 132, 242, 0.25)", // Light blue for internal link background and highlights
+          textHighlight: "#314a70", // Deep blue with purple undertones for markdown highlighted text background
         },
-      },
+      },      
     },
   },
   plugins: {
