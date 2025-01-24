@@ -16,7 +16,7 @@ title: 04 Templates
 - [[Template for Daily Notes]]
 - [[Template for Folder Notes]]
 - [[Template for General Knowledge]]
-- [[Template for Piano Lesson Notes]]
+- [[Template for Music]]
 - [[Template for School Notes]]
 - [[Template for Unique Notes]]
 

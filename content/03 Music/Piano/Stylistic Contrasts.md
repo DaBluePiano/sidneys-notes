@@ -1,6 +1,6 @@
 ---
 draft: false
-tags:
+tags: [ToccataBWV914, SonataK330, RondoCapricciosoOp14, GeneralLavine-Eccentric]
 title: Stylistic Contrasts
 ---
 #ToccataBWV914

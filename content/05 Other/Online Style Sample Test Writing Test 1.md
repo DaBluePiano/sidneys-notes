@@ -1,3 +1,6 @@
+---
+title: Online Style Sample Test Writing Test 1
+---
 # Excessive Internet usage is bad for teenagers
 ## Planning
 ### **Introduction**

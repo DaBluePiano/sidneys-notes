@@ -1,6 +1,6 @@
 ---
 draft: true
-tags:
+tags: [Year8/PE, Year8/Science, Year8/Japanese, Year8/Maths, Year8/Sport]
 date: 2024-11-06
 title: 2024 11 06 Wednesday
 ---

@@ -1,6 +1,6 @@
 ---
 draft: true
-tags:
+tags: [Year8/Science, Year8/English, Year8/FoodTech, Year8/Sport]
 date: 
 this-week's-piano-lesson: "[[Piano Week 46]]"
 title: 2024 11 27 Wednesday
