@@ -1,7 +1,7 @@
 ---
 draft: true
 tags: 
-title: <% tp.file.title %>
+title: Template for Music
 ---
 
 # Piano

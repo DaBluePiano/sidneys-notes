@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Quartz Template
+title: Writing Test 2 Page 154
 tags:
 ---
 The soft hum of my laptop had been mny constant compaion for the past three hours, a stady background noise as I pounded away at the keyboard. The assignment was due at midnight, and I had finally reached the last paragraph. Relief washed over me as I reread my work, a sense of accomplishment settling in. Just a few more sentences, a quick proofread, and I could submit it. 

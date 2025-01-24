@@ -1,6 +1,6 @@
 ---
 draft: true
-tags: 
+tags: [SonataK330, ToccataBWV914, GeneralLavine-Eccentric]
 title: Music Week 04 2025
 ---
 

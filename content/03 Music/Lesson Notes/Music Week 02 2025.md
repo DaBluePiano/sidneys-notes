@@ -1,6 +1,6 @@
 ---
 draft: true
-tags: [RondoCapricciosoOp14]
+tags: [RondoCapricciosoOp14, SonataK330, GeneralLavine-Eccentric]
 title: Music Week 02 2025
 ---
 
