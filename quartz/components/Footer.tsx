@@ -11,6 +11,15 @@ export default ((opts?: Options) => {
   const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
+
+    // Get today's date and format it
+    const today = new Date()
+    const formattedDate = today.toLocaleDateString(cfg.locale, {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric'
+    })
+
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
@@ -24,6 +33,7 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <p>Updated {formattedDate}</p> {/* Added line for updated date */}
       </footer>
     )
   }
