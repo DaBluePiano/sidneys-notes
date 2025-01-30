@@ -4,68 +4,68 @@ tags:
 title: Untitled
 ---
 CATEGORY I: 23-24 WEEKS (575-600 HOURS)
-Afrikaans 
+Afrikaans
 Danish
 Dutch
 French
-Italian 
-Norwegian 
+Italian
+Norwegian
 Spanish
-Swedish 
-Portuguese 
-Romanian 
+Swedish
+Portuguese
+Romanian
 CATEGORY II: 30 WEEKS (750 HOURS)
 German
 CATEGORY III: 36 WEEKS (900 HOURS)
-Indonesian 
-Swahili 
-Malaysian 
+Indonesian
+Swahili
+Malaysian
 CATEGORY IV: 44 WEEKS (1100 HOURS)
-Albanian 
+Albanian
 Amharic
-Armenian 
-Azerbaijani 
-Bengali 
+Armenian
+Azerbaijani
+Bengali
 Bosnian
-Bulgarian 
-Burmese 
-Croatian 
+Bulgarian
+Burmese
+Croatian
 Czech
-Estonian 
+Estonian
 Finnish
-Georgian 
-Greek 
-Hebrew 
+Georgian
+Greek
+Hebrew
 Hindi
-Hungarian 
-Icelandic 
+Hungarian
+Icelandic
 Khmer
 Lao
 Latvian
-Lithuanian 
-Macedonian 
-Mongolian 
-Nepali 
-Pashto 
-Persian (Dari, Farsi, Tajik) 
+Lithuanian
+Macedonian
+Mongolian
+Nepali
+Pashto
+Persian (Dari, Farsi, Tajik)
 Polish
 Russian
-Serbian 
+Serbian
 Sinhala
-Slovak 
-Slovenian 
-Tagalog 
+Slovak
+Slovenian
+Tagalog
 Thai
-Turkish 
-Ukrainian 
-Urdu 
-Uzbek 
+Turkish
+Ukrainian
+Urdu
+Uzbek
 Vietnamese
 Xhosa
-Zulu 
-CATEGORY V: 88 WEEKS (2200 HOURS) 
+Zulu
+CATEGORY V: 88 WEEKS (2200 HOURS)
 Arabic
 Cantonese (Chinese)
 Mandarin (Chinese)
-Japanese 
+Japanese
 Korean

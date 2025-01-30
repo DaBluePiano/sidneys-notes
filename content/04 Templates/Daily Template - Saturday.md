@@ -4,8 +4,11 @@ tags:
 title: Daily Template - Saturday
 ---
 # [[03 Music]]
+
 ## Piano
+
 ### Practical
+
 #### Exercises
 
 #### List A - Mozart Sonata in C K330
@@ -15,16 +18,17 @@ title: Daily Template - Saturday
 #### List C - Chopin Nocturne in B Op 9 No 2 / Mendelssohn Rondo Capriccioso Op 14
 
 #### List D - Lutoslawski Bukoliki / Debussy 'General Lavine' - Eccentric
+
 #### Extra List
 
 ### Musicianship
 
-### Notes 
+### Notes
 
 ```todoist
 name: Homework
 filter: /Homework
-``` 
+```
 
 ```todoist
 name: Assessments

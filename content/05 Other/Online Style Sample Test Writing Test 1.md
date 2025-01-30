@@ -2,7 +2,9 @@
 title: Online Style Sample Test Writing Test 1
 ---
 # Excessive Internet usage is bad for teenagers
+
 ## Planning
+
 ### **Introduction**
 
 	- **Hook**: Did you know that the average teenager spends over seven hours a day online, excluding time for schoolwork?
@@ -49,5 +51,3 @@ title: Online Style Sample Test Writing Test 1
 - **Restate Thesis**: Excessive internet usage has a profoundly negative impact on teenagers’ social interactions, academic performance, and emotional well-being.
 - **Summary of Key Points**: Highlight the dangers of social isolation, academic struggles, and emotional distress caused by internet overuse.
 - **Call to Action**: Encourage teenagers to find a healthier balance by setting boundaries for screen time and engaging in offline activities.
-	
-

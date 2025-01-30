@@ -12,5 +12,6 @@ title: Types of Cadences
 | interrupted cadence | V → vi (dominant to submediant)                                                                                                                                                                                                                             |
 
 ## Perfect Cadence
+
 An authentic cadence is a cadence from the [dominant](https://en.wikipedia.org/wiki/Dominant_(music) "Dominant (music)") chord (V) to the [root chord](https://en.wikipedia.org/wiki/Root_(chord) "Root (chord)") (I). During the dominant chord, a [seventh](https://en.wikipedia.org/wiki/Seventh_(interval) "Seventh (interval)") above the dominant may be added to create a [dominant seventh chord](https://en.wikipedia.org/wiki/Dominant_seventh_chord "Dominant seventh chord") (V7); the dominant chord may also be preceded by a [cadential 6  
 4 chord](https://en.wikipedia.org/wiki/Cadential_six-four "Cadential six-four").

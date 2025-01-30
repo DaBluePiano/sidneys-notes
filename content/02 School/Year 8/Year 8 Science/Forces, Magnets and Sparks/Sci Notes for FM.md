@@ -8,12 +8,12 @@ title: Sci Notes for FM
 
 - **Definition**: A force is any interaction that, when unopposed, changes the motion of an object. In simple terms, it's a push or a pull.
 - **Effects of Force**:
-    - Forces can cause objects to **start moving**, **stop moving**, **change direction**, **speed up**, or **slow down**.
-    - They can also change the **shape** of an object (e.g., squeezing a sponge).
+  - Forces can cause objects to **start moving**, **stop moving**, **change direction**, **speed up**, or **slow down**.
+  - They can also change the **shape** of an object (e.g., squeezing a sponge).
 - **Examples**:
-    - **Pushing** a door to open it (a push).
-    - **Pulling** a wagon (a pull).
-    - **Kicking** a ball (causes the ball to move and change speed).
+  - **Pushing** a door to open it (a push).
+  - **Pulling** a wagon (a pull).
+  - **Kicking** a ball (causes the ball to move and change speed).
 
 ### Forces in Action
 
@@ -62,18 +62,18 @@ title: Sci Notes for FM
 ### Contact and Non-Contact Forces
 
 - **Contact Forces**: These forces occur when two objects physically touch each other.
-    - **Examples**: Friction, tension, air resistance, and normal force.
-    - When you push a door, you exert a contact force on it.
+  - **Examples**: Friction, tension, air resistance, and normal force.
+  - When you push a door, you exert a contact force on it.
 - **Non-Contact Forces**: These forces act over a distance and do not require physical contact between objects.
-    - **Examples**: Gravity, magnetic force, and electrostatic force.
-    - When you drop an object, gravity pulls it toward the ground without needing physical contact.
+  - **Examples**: Gravity, magnetic force, and electrostatic force.
+  - When you drop an object, gravity pulls it toward the ground without needing physical contact.
 
 ### Representing Forces (Using Arrows)
 
 - **Arrows** are used to visually represent forces in diagrams.
-    - The **length** of the arrow represents the **magnitude** (strength) of the force. A longer arrow indicates a stronger force.
-    - The **direction** of the arrow shows the **direction** in which the force is acting.
-    - **Example**: In a diagram showing a box being pushed, the arrow would point in the direction of the push and the size of the arrow would represent how strong the push is.
+  - The **length** of the arrow represents the **magnitude** (strength) of the force. A longer arrow indicates a stronger force.
+  - The **direction** of the arrow shows the **direction** in which the force is acting.
+  - **Example**: In a diagram showing a box being pushed, the arrow would point in the direction of the push and the size of the arrow would represent how strong the push is.
 
 ### Balanced and Unbalanced Forces
 
@@ -104,29 +104,26 @@ title: Sci Notes for FM
 ### Magnetic Forces
 
 - **Magnetic Force**:
-    - A force that magnets exert on each other or on certain metals, like iron. Magnets have two poles: north and south. Opposite poles attract, while like poles repel.
-    - **Example**: A compass works because the Earth acts like a giant magnet, attracting the needle to point toward the Earth's magnetic north pole.
+  - A force that magnets exert on each other or on certain metals, like iron. Magnets have two poles: north and south. Opposite poles attract, while like poles repel.
+  - **Example**: A compass works because the Earth acts like a giant magnet, attracting the needle to point toward the Earth's magnetic north pole.
 
 ### Electrostatic Forces
 
 - **Electrostatic Force**:
-    - The force between electrically charged objects. Positive and negative charges attract each other, while like charges repel.
-    - **Example**: When you rub a balloon on your hair, your hair stands up because the balloon becomes negatively charged and attracts your positively charged hair.
+  - The force between electrically charged objects. Positive and negative charges attract each other, while like charges repel.
+  - **Example**: When you rub a balloon on your hair, your hair stands up because the balloon becomes negatively charged and attracts your positively charged hair.
 
 ### Measuring a Force (N)
 
 - **Unit of Force**: The standard unit for measuring force is the **Newton (N)**, named after Sir Isaac Newton.
-    - 1 Newton is the amount of force required to give a 1 kg mass an acceleration of 1 m/s².
-    - **Example**: If you lift a 1 kg object, you are exerting a force of approximately 9.8 N because of Earth's gravity.
+  - 1 Newton is the amount of force required to give a 1 kg mass an acceleration of 1 m/s².
+  - **Example**: If you lift a 1 kg object, you are exerting a force of approximately 9.8 N because of Earth's gravity.
 
 ### Sparks and Lightning
 
 - **Sparks**:
-    - A spark occurs when a large electric field causes electrons to jump between two surfaces, resulting in a sudden discharge of energy.
-    - **Example**: When you touch a metal doorknob after walking on carpet, you might feel a small spark due to the buildup of static electricity.
+  - A spark occurs when a large electric field causes electrons to jump between two surfaces, resulting in a sudden discharge of energy.
+  - **Example**: When you touch a metal doorknob after walking on carpet, you might feel a small spark due to the buildup of static electricity.
 - **Lightning**:
-    - Lightning is a large-scale electrostatic discharge that occurs when there is a buildup of electrical charge in clouds. This discharge balances the difference in charges between the cloud and the ground or between different parts of a cloud.
-    - **Example**: During a thunderstorm, lightning strikes are the result of an imbalance in charge between the Earth's surface and the cloud above.
-
-
-
+  - Lightning is a large-scale electrostatic discharge that occurs when there is a buildup of electrical charge in clouds. This discharge balances the difference in charges between the cloud and the ground or between different parts of a cloud.
+  - **Example**: During a thunderstorm, lightning strikes are the result of an imbalance in charge between the Earth's surface and the cloud above.

@@ -5,7 +5,7 @@ tags:
 ---
 
 The Meetings
-The event that you must base your recount on is THE MEETING. Your recount might be about them eting between a first-time surfer and a great white shark, a meting between two boys in a pie-eating competition or a meeting between an adopted child and his or her birth mother. It could be about a meeting at the United Nations to discuss the end of the world or meeting yourself for the first time after suffering amnesia for fifteen years. 
+The event that you must base your recount on is THE MEETING. Your recount might be about them eting between a first-time surfer and a great white shark, a meting between two boys in a pie-eating competition or a meeting between an adopted child and his or her birth mother. It could be about a meeting at the United Nations to discuss the end of the world or meeting yourself for the first time after suffering amnesia for fifteen years.
 
 I had never considered competitive eating as a sport, but when my best friend dared me to enter the annual pie-eating competition, I couldn’t say no. It was a small-town event with a big reputation. Legends had been made here. And today, I was about to meet one of them.
 
@@ -31,4 +31,4 @@ The crowd erupted. I had won. Sure, it was mostly thanks to Tommy’s unexpected
 
 “Not bad, rookie,” he said. “Next year, though, you’re going down.”
 
-I grinned, wiping blueberry off my chin. “We’ll see, Tornado. We’ll see.” 
+I grinned, wiping blueberry off my chin. “We’ll see, Tornado. We’ll see.”

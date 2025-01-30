@@ -5,5 +5,4 @@ title: Rudiments
 ---
 %% Begin Waypoint %%
 
-
 %% End Waypoint %%

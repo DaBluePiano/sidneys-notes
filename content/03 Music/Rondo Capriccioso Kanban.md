@@ -20,31 +20,20 @@ title: Rondo Capriccioso Kanban
 - [ ] 82-96
 - [ ] 97-101/1
 
-
 ## Sight Read
-
-
 
 ## Learn Notes and Articulation
 
-
-
 ## Speeed
-
-
 
 ## Check
 
-
-
 ## Done
 
-
-
-
-
 %% kanban:settings
+
 ```
 {"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
+
 %%

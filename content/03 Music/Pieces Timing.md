@@ -11,7 +11,7 @@ IV. Fuga: 02:32
 ~6:30
 
 Mozart
-I. Allegro: 04:04 
+I. Allegro: 04:04
 II. Andante: 03:18
 III. Allegro: 03:27
 ~11
@@ -21,5 +21,3 @@ Chopin
 
 Lutoslawski
 ~6
-
-

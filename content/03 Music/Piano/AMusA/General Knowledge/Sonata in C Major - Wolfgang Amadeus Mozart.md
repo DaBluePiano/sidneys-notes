@@ -5,9 +5,11 @@ list: A
 title: Sonata in C Major - Wolfgang Amadeus Mozart
 ---
 # Title of Piece
+
 ## Significance of Title
 
 # Markings of the Score
+
 ## Signs
 
 ## Terms
@@ -15,25 +17,30 @@ title: Sonata in C Major - Wolfgang Amadeus Mozart
 # Composer
 
 ## Name
+
 Wolfgang Amadeus Mozart
+
 ## Nationality
+
 Austrian
+
 ## Dates
+
 Born January 27, 1756; Died December 5, 1791
+
 ## Brief Biography
+
 ### Wolfgang Amadeus Mozart (1756–1791)
 
 ### **Introduction**
 
 Wolfgang Amadeus Mozart (1756–1791) was an Austrian composer and musician, known as one of the most important figures in the history of classical music. Born in Salzburg, he showed incredible musical talent from a very young age, composing over 600 works in his short life. His works include symphonies, operas, concertos, chamber music, and choral pieces. [^1]
 
-
 ---
 
 ### **Early Life and Education**
 
 Mozart was born on **January 27, 1756**, in Salzburg, Austria, to Leopold and Anna Maria Mozart. He was the youngest of seven children, though only he and his sister Maria Anna (known as Nannerl) survived childhood.  [^2]
-
 
 Mozart's father, Leopold, was a professional violinist and composer who recognized his son's extraordinary musical ability very early. Leopold pushed his son to perform and compose from a very young age, and by the age of five, Mozart was already able to play both the keyboard and violin. He also began composing small pieces of music, which was remarkable for someone so young.
 
@@ -68,6 +75,7 @@ Even though he died young, Mozart's music has had an enormous influence on class
 Mozart’s ability to combine technical skill with emotional expression has inspired generations of composers, and his works continue to be a central part of classical music.  [^6]
 
 ## Sources of Influence
+
 ### **What Influenced Mozart’s Music?**
 
 Mozart’s music was shaped by many things he experienced throughout his life. He had a rare gift for taking ideas from different places, blending them together, and creating something entirely new and beautiful.
@@ -79,6 +87,7 @@ Mozart’s music was shaped by many things he experienced throughout his life. H
 Mozart’s father, Leopold, was one of his first and biggest influences. Leopold was a talented musician and teacher who taught Mozart how to play and write music. His sister, Nannerl, was also a skilled musician, and the two performed together when they were young. Leopold’s guidance was crucial in nurturing Mozart’s extraordinary talent. [^7]
 
 ---
+
 #### **2. Travel and Different Cultures**
 
 Mozart traveled across Europe as a child and picked up ideas from the places he visited:
@@ -113,7 +122,6 @@ Mozart worked for wealthy patrons and royal courts, writing music for their even
 
 Mozart also borrowed ideas from the folk and dance music of his time. This made his music lively and relatable, even for everyday people. [^15]
 
-
 ---
 
 ### **Summary**
@@ -121,35 +129,46 @@ Mozart also borrowed ideas from the folk and dance music of his time. This made 
 Mozart’s music was inspired by his family, the places he traveled, the composers he admired, and the styles of music he encountered. He took all these influences and combined them in a way that made his music unique, emotional, and timeless.
 
 ## Impact upon late generations of composers and repertoire output
+
 ### **How Mozart Influenced Later Composers**
 
 1. **Improving the Classical Style**  
     Mozart perfected the balance, clarity, and structure of Classical music. Composers like Ludwig van Beethoven admired his music and used it as a foundation for their own work. For example, Beethoven studied Mozart's symphonies and piano concertos, learning how to blend emotion with technical precision. [^16]
-    
+
 2. **Transforming Opera**  
     Mozart made opera more emotional and dramatic. His operas, like _The Marriage of Figaro_ and _Don Giovanni_, featured complex characters and situations. These ideas influenced later opera composers like Giuseppe Verdi, who admired how Mozart used music to tell a story.
-    
+
 3. **Creating Better Concertos**  
     Mozart elevated the concerto, especially for piano. He combined dazzling performances with deep emotion, inspiring composers like Johannes Brahms and Sergei Rachmaninoff to write their own masterpieces in this form.
-    
+
 4. **Inspiring Romantic Composers**  
     Mozart’s melodies and expressive harmonies influenced Romantic-era composers such as Franz Schubert and Felix Mendelssohn. Schubert even called Mozart "the image of a pure artist."
-    
+
 5. **Modern Influence**  
     Mozart’s music remains essential today. It’s used in music education, and his works are often performed in concerts worldwide. His ability to mix beauty with structure continues to be a benchmark for excellence.
-    
 
 [^17]
+
 # Historical and Stylistic Context
+
 ## How this work relates to the period (Characteristics)
+
 ## Compositional Style
-## Performance Conventions 
+
+## Performance Conventions
+
 # Structure
+
 ## Formal Layout
+
 ## Key of the Piece
+
 ## Melodic/Harmonic Language
+
 ## Climax Points
+
 # Instrument
+
 ## The Construction and Development of the Piano
 
 ### The History and Development of the Piano
@@ -182,7 +201,6 @@ Cristofori made two big changes:
 
 This new instrument could play both soft and loud, making it more expressive than earlier instruments.  [^22]
 
-
 ---
 
 #### **Improving the Piano**
@@ -190,16 +208,14 @@ This new instrument could play both soft and loud, making it more expressive tha
 Between 1790 and 1860, the piano improved in many ways:
 
 1. **Stronger Frames**
-    
+
     - A cast iron frame was added, letting strings hold more tension for a louder and richer sound.
 2. **Better Strings**
-    
+
     - Bass strings were arranged diagonally (called cross-stringing) over the middle and treble strings, making the sound fuller.
 3. **More Keys**
-    
+
     - Early pianos had about 5 octaves (61 keys). The modern piano has 88 keys, allowing for more complex music. [^23]
-
-
 
 ---
 
@@ -208,12 +224,14 @@ Between 1790 and 1860, the piano improved in many ways:
 In recent times, new types of pianos have been created:
 
 1. **Hybrid Pianos**
-    
+
     - These combine traditional piano mechanics with digital technology, like recording and sound effects.
 2. **Digital Pianos**
-    
+
     - These fully electronic pianos simulate the sound and feel of a real piano while being more portable. [^24]
+
 ## Footnotes
+
 [^1]: [Encyclopedia Britannica](https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart)
 [^2]: [ENO](https://www.eno.org/composers/wolfgang-amadeus-mozart/)
 [^3]: [Classics For Kids](https://www.classicsforkids.com/composer/wolfgang-amadeus-mozart/)

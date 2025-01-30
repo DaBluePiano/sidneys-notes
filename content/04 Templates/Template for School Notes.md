@@ -7,5 +7,7 @@ tags:
 title: Template for School Notes
 ---
 # Learning Intentions
+
 # Success Criteria
+
 # Notes

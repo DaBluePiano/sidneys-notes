@@ -7,10 +7,9 @@ The earliest instrument consisted of one piece of wood. Today, the Violin has 84
 
 The violin is played with a bow about 73.7cm long and about 120 horse-hairs are attached. A screw enables the violinist to tighten or loosen the tension of the hair. The hair is rubbed with resin to prevent the bow from slipping on the strings. the notes, other than those of the open strings, are obtained by pressing the strings to the finger board with the fingers of the left hand, thus making the strings shorter. The bow, held in the right hand, is drawn across the strings between the bridge and the finger board. The Violin is held under the chin of the player. The player's left hand is concerned with the pitched of the notes, while the right hand actually produces the tone. IN bowing, ∏ means down bow and ⋁ means up bow. There are many complex styles of bowing.
 
-Until recently, the three upper strings of the Violin were made of gut (D A E) and only the lowest (G) was gut covered with thin wire which lasts longer and gives exact perfect fifths. Now the other strings are invariably of steel and performers have welcomed the change as there was the possibility of the gut string breaking during a performance. The tone of each string varies from richness at low G to brightness at high E. Three conditions affect the pitch of the note that any string will produce; its thickness, its length and its tension. The thicker the strings are, the more slowly they vibrate and the deeper the tone. Thus the four strings of graded thickness produce a wide range of notes. 
+Until recently, the three upper strings of the Violin were made of gut (D A E) and only the lowest (G) was gut covered with thin wire which lasts longer and gives exact perfect fifths. Now the other strings are invariably of steel and performers have welcomed the change as there was the possibility of the gut string breaking during a performance. The tone of each string varies from richness at low G to brightness at high E. Three conditions affect the pitch of the note that any string will produce; its thickness, its length and its tension. The thicker the strings are, the more slowly they vibrate and the deeper the tone. Thus the four strings of graded thickness produce a wide range of notes.
 
 ![[Pasted image 20241208193655.png|Violin Range]]
-
 
 ![[Pasted image 20241208194152.png|Violin Tuning]]
 

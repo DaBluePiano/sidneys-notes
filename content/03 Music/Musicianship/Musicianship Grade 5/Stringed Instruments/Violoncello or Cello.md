@@ -22,8 +22,6 @@ the construction is the same as for Violin.
 
 Basically the technique is similar to that of the Violin, and it has a large compss. The four strings are tuned an octave lower than those of the Viola. The Cello part is normally written in the bass clef, wupper notes in the tenor clef (having Middle C on the fourth line) and the highest notes in the treble clef.
 
-
 ![[Pasted image 20241208200556.png|Cello Range|525]]
-
 
 ![[Pasted image 20241208200632.png|Cello Tunings|500]]

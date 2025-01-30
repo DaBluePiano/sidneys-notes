@@ -15,27 +15,22 @@ title: Food Tech Assessment Kanban
 - [ ] Deserts?
 - [ ] Mango Pudding
 
-
 ## Making Ingredients and Method
 
 - [ ] Boba Tea
 
-
 ## Adding a Nutritional Panel
 
 - [ ] Sour Plum Juice
-
 
 ## Adding Pictures
 
 - [ ] Nasi Goreng
 - [ ] Scallion Pancakes
 
-
 ## Link
 
 - [ ] Mango Sago
-
 
 ## Finishing off the Nutritional Panel
 
@@ -46,20 +41,16 @@ title: Food Tech Assessment Kanban
 - [ ] Fried Rice with Chinese
 - [ ] Chinese Crepes
 
-
 ## Formatting
-
-
 
 ## Done
 
-**Complete**
-
-
-
+Complete
 
 %% kanban:settings
+
 ```
 {"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false]}
 ```
+
 %%

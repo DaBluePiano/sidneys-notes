@@ -6,8 +6,11 @@ this-week's-piano-lesson:
 title: Template for Daily Notes
 ---
 # [[03 Music]]
+
 ## Piano
+
 ### Practical
+
 #### Exercises
 
 #### List A - Mozart Sonata in C K330
@@ -17,14 +20,15 @@ title: Template for Daily Notes
 #### List C - Chopin Nocturne in B Op 9 No 2 / Mendelssohn Rondo Capriccioso Op 14
 
 #### List D - Lutoslawski Bukoliki / Debussy 'General Lavine' - Eccentric
+
 #### Extra List
 
 ### Musicianship
 
-### Notes 
-
+### Notes
 
 # [[02 School]]
+
 ## Period 1
 
 ## Period 2
@@ -38,10 +42,11 @@ title: Template for Daily Notes
 ## Period 6
 
 ## Homework
+
 ```todoist
 name: Homework
 filter: /Homework
-``` 
+```
 
 ```todoist
 name: Assessments

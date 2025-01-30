@@ -4,60 +4,60 @@ tags:
 title: Science Notes to Study for Topic
 ---
 - What is a force?
-	- A push pull or twist
-		- Push keeps things apart or makes them move apart
-		- A pull keeps things together or makes them move cloer together
-		- A twist makes things turn
+ 	- A push pull or twist
+  		- Push keeps things apart or makes them move apart
+  		- A pull keeps things together or makes them move cloer together
+  		- A twist makes things turn
 - Forces in Action
-	- A Force Can
-		- Change the shape of an object
-		- Change or stop of the movement of an object
-		- Or do both
-	- when a force changes the motion of an object
-		- Make the object start moving or make it go faster
-		- Make the object move more slowly or make it stop
-		- Change the direction of the motion
-		- Change the way that the object is spinning
-		- Often more than one of these happens at a time
+ 	- A Force Can
+  		- Change the shape of an object
+  		- Change or stop of the movement of an object
+  		- Or do both
+ 	- when a force changes the motion of an object
+  		- Make the object start moving or make it go faster
+  		- Make the object move more slowly or make it stop
+  		- Change the direction of the motion
+  		- Change the way that the object is spinning
+  		- Often more than one of these happens at a time
 - Types of Forces
-	- Define every type of force and also examples and also if it is contact or non contact
+ 	- Define every type of force and also examples and also if it is contact or non contact
 - Contact and Non Contact Forces
-	- Contact
-		- Contact forces happen when a force comes into contact with something. Give examples
-	- Non Contact
-		- Non Contact forces happen when forces does not need to come into contact with something. Give examples
+ 	- Contact
+  		- Contact forces happen when a force comes into contact with something. Give examples
+ 	- Non Contact
+  		- Non Contact forces happen when forces does not need to come into contact with something. Give examples
 - Representing forces
-	- We use arrows in a diagam to represent forces
-		- The longer the arrow is, the bigger the force is. 
+ 	- We use arrows in a diagam to represent forces
+  		- The longer the arrow is, the bigger the force is.
 - Balanced and Unbalanced Forces
-	- Balanced Forces are balanced because they try to move the object in opposite directions and they are the same size, therefore no movemennt occurs. Give examples
-	- Unbalanced forces are unbalanced when the forces are unequal.
-		- An object will chnage its motion only if an unbalanced force is exerted on it
+ 	- Balanced Forces are balanced because they try to move the object in opposite directions and they are the same size, therefore no movemennt occurs. Give examples
+ 	- Unbalanced forces are unbalanced when the forces are unequal.
+  		- An object will chnage its motion only if an unbalanced force is exerted on it
 - Using Friction
-	- Advantages and disadvantages of Friction
-		- Advantages: Give examples
-		- Disadvantages: Give examples
-	- What Causes Friction?
-	- Reducing Friction 
-	- Useful Friction
+ 	- Advantages and disadvantages of Friction
+  		- Advantages: Give examples
+  		- Disadvantages: Give examples
+ 	- What Causes Friction?
+ 	- Reducing Friction
+ 	- Useful Friction
 - Magnetic Forces
-	- Magnets pull objects without actually touching them.
-	- The close the magnet is to the object, the greater the size of the pulling force
-	- Permanent Magnets and Temporary Magnets
-		- Permanent Magnets: explain
-			- The only three metals that can form a magnet ferro magnetic
-		- Temporary Magnets: explain
-	- Opposites Attract
+ 	- Magnets pull objects without actually touching them.
+ 	- The close the magnet is to the object, the greater the size of the pulling force
+ 	- Permanent Magnets and Temporary Magnets
+  		- Permanent Magnets: explain
+   			- The only three metals that can form a magnet ferro magnetic
+  		- Temporary Magnets: explain
+ 	- Opposites Attract
 - Electrostatic Force
-	- explain
+ 	- explain
 - Measuring a Force
-	- Unit for force is the Newton (N) after Sir Isaac Newton
-	- A spring balanced is a device used to measure forces. 
-		- An internal spring stretches as a force is applied to the spring balanced
-		- Spring balances that contain stronger springs can measure larger forces
+ 	- Unit for force is the Newton (N) after Sir Isaac Newton
+ 	- A spring balanced is a device used to measure forces.
+  		- An internal spring stretches as a force is applied to the spring balanced
+  		- Spring balances that contain stronger springs can measure larger forces
 - Laws of Motion
-	- Explain and Define all of them
-	- ESPECIALLY NEWTON's THIRD
-		- For every action, there is an equal and opposite reaction.
+ 	- Explain and Define all of them
+ 	- ESPECIALLY NEWTON's THIRD
+  		- For every action, there is an equal and opposite reaction.
 - Difference between Mass and Weight
-- 
+-

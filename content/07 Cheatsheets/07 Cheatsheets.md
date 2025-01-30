@@ -5,5 +5,4 @@ title: 07 Cheatsheets
 ---
 %% Begin Waypoint %%
 
-
 %% End Waypoint %%

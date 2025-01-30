@@ -8,6 +8,3 @@ title: Linear Relationships
 - [[Using Graphs to Solve Linear Equations]]
 
 %% End Waypoint %%
-
-
-

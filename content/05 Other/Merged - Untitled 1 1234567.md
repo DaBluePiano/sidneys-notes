@@ -6,6 +6,7 @@ title: Merged - Untitled 1 1234567
 ---
 
 # Untitled 2
+
 {
 	"nodes":[
 		{"id":"1256e5668a0c88ed","x":-299,"y":10,"width":250,"height":60,"type":"text","text":""},
@@ -16,8 +17,8 @@ title: Merged - Untitled 1 1234567
 	"edges":[]
 }
 
-
 # Untitled 3
+
 {
 	"nodes":[
 		{"id":"7687ee3684ae2b90","type":"text","text":"=AnotherExample!:)=","x":-520,"y":80,"width":250,"height":60},
@@ -27,5 +28,3 @@ title: Merged - Untitled 1 1234567
 		{"id":"9483a056a9053df6","fromNode":"dfc29c4bda9a4145","fromSide":"bottom","toNode":"7687ee3684ae2b90","toSide":"right"}
 	]
 }
-
-

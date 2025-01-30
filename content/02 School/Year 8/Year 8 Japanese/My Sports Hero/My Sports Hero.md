@@ -10,4 +10,3 @@ title: My Sports Hero
 - [[Japanese Sporting Hero Assessment]]
 
 %% End Waypoint %%
-

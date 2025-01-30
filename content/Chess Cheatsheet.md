@@ -54,7 +54,7 @@ a. The attacking value of a king is surprisingly high. Unfortunately, the king c
 
 **b. Example:** Material is even, but white wins easily because his king is active.
 
-![](https://miro.medium.com/v2/resize:fit:375/0*KXawWs-dQed4bXnu)
+á![](https://miro.medium.com/v2/resize:fit:375/0*KXawWs-dQed4bXnu)
 
 ii. Create a passed pawn.
 
@@ -128,7 +128,7 @@ King
 2. Castle early
 3. Avoid moving the pawns in front of your king (after castling)
 
-# *Concepts (batteries, forks, safe squares etc.):
+# *Concepts (batteries, forks, safe squares etc.)
 
 - **Battery:** a configuration of heavy pieces (rooks or queens) that occupy the same file. It can also refer to long-range pieces (queens and bishops) that occupy the same diagonal.
 - **Discovered attack:** a direct attack revealed when one piece moves out of the way of another.
@@ -148,7 +148,7 @@ ii. You can use your time effectively by slowly improving your position and plac
 
 **3. Open position:** a position with no locked pawns and typically 3 or more pawns have been traded. The vast majority of play in open positions will involve pieces with a lot less emphasis on pawns because they are in less supply. These types of positions are usually full of tactical ideas because piece movement is at its highest at this point. Bishops are very valuable because their diagonals are wide open to be used effectively. There are less pawns on the board to block the pieces which allows them to move much more freely.
 
-# Checkmate types (smother checkmate, en passant checkmate, etc.):
+# Checkmate types (smother checkmate, en passant checkmate, etc.)
 
 - **smother checkmate:** a checkmate delivered by a knight in which the mated king is unable to move because it is completely surrounded (or smothered) by its own pieces.
 - **en passant checkmate:** checkmate caused by an en passant
@@ -177,4 +177,4 @@ ii. You can use your time effectively by slowly improving your position and plac
 
 - smith mora
 - Queen’s Gambit Declined; Albin, Lasker Trap
-- Fried Liver Attack 
+- Fried Liver Attack

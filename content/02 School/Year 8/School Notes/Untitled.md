@@ -7,5 +7,7 @@ period:
 title: Untitled
 ---
 # Learning Intentions
+
 # Success Criteria
+
 # Notes

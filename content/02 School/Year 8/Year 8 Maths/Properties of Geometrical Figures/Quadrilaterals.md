@@ -6,4 +6,3 @@ title: Quadrilaterals
 
 
 ![[8S notes (1).pdf]]
-

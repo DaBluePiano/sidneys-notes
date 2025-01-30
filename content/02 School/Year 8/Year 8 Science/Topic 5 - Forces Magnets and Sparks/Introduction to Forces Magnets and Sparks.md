@@ -3,19 +3,32 @@ draft: false
 tags:
 title: Introduction to Forces Magnets and Sparks
 ---
-# Vocabulary 
+# Vocabulary
+
 ## Force
+
 Any of various factors that cause a body to change its speed, direction, or shape.
+
 ## Contact
+
 the act or state of touching physically
+
 ## Non-Contact
+
 the act or state of not touching physically
+
 ## Unbalanced
+
  balanced balanced or not properly balanced
+
 ## Field
+
 A distribution in a region of space of the strength and direction of a force, such as the electrostatic force near an electrically charged object, that would act on a body at any given point in that region.
+
 ## Magnet
+
 A material or object that produces a magnetic field. Lodestones are natural magnets, though many materials, especially metals, can be made into magnets by exposing them to a magnetic field.
+
 ## Electromagnetic
 
 Relating to the magnetic field created by electric currents and the forces they exert.
