@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Quartz Template
+title: {{title}}
 tags:
 ---
  

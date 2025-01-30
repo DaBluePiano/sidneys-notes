@@ -30,6 +30,8 @@ title: 05 Other
 - [[Untitled.canvas]]
 - [[Untitled]]
 - [[Vault]]
+- [[Writing Recount 1 Page 127]]
+- [[Writing Recount 2 Page 128]]
 - [[Writing Test 2 Page 154]]
 
 %% End Waypoint %%
