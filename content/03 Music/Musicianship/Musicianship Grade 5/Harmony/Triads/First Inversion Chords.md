@@ -3,6 +3,7 @@ draft: false
 tags:
 title: First Inversion Chords
 ---
+
 A first inversion chord is composed by placing the **root** of the chord in an upper voice and the 3rd of the root position chord then becomes the **bass** note.
 
 CEGC chord becomes ~~C~~EGCC - the root 'crossed out' and placed on the other side. This chord in harmony is called the 'chord of the <sup>6</sup><sub>3</sub>' which is simple to understand. The *new* chord created is:
@@ -18,7 +19,9 @@ There are 2 possibilities of doubling in a first inversion chord - the 6th may b
 > DON'T DOUBLE the new bass note (which is the original 3rd)
 
 Two possible chords:
+
 a)
+
 <center>E  G  C  C</center>
 <center>6th doubled (C)</center>
 b)

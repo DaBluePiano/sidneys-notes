@@ -3,9 +3,11 @@ draft: false
 tags:
 title: Background Notes
 ---
+
 The Orchestra is made up of four groups of instruments - strings, woodwind, brass and percussion. The string section consists of Violins, divided into firsts and seconds, Violas, Violoncellos and Double Basses. The normal layout of the music for the string section is in four part harmony. The strings can provide the most expressive medium in the whole range of music - and degree of nuance is possible from the softest pianissimo to the most solid forte.
 
 Contrasts of tone are also available by mechanical means -
+
 1. The plucking of the strings (*pizzicato*)
 2. The *ponticello tremolo* (bowing the strings nearer to the bridge)
 3. use of the mute (*con sordino*), a small clamp fitted over the bridge

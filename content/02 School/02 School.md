@@ -3,8 +3,10 @@ draft: true
 tags: 
 title: 02 School
 ---
+
 %% Begin Waypoint %%
-- [[02 School/Untitled]]
+
+- [[Untitled]]
 - **[[Year 8]]**
 - **[[Year 9]]**
 

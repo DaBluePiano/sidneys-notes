@@ -6,4 +6,3 @@ kanban-plugin: board
 
 title: Untitled Kanban
 ---
-

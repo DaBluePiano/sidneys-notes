@@ -1,7 +1,8 @@
 ---
 title: Online Style Sample Test Writing Test 1
 ---
-# Excessive Internet usage is bad for teenagers
+
+# Excessive Internet Usage is Bad for Teenagers
 
 ## Planning
 
@@ -16,10 +17,10 @@ title: Online Style Sample Test Writing Test 1
 ### **Body Paragraph 1: Social Well-Being**
 
 - **Topic Sentence**: Excessive internet usage isolates teenagers and undermines their social skills.
-- **Point 1**: Online communication often replaces face-to-face interactions, leading to weaker interpersonal connections.  
-    _Evidence_: Studies show that teenagers who spend more time online have fewer meaningful friendships.
-- **Point 2**: Overuse of social media creates an environment of comparison and competition, which can harm self-esteem.  
-    _Example_: Platforms like Instagram foster unrealistic beauty standards and social pressures.
+- **Point 1**: Online communication often replaces face-to-face interactions, leading to weaker interpersonal connections.
+    *Evidence*: Studies show that teenagers who spend more time online have fewer meaningful friendships.
+- **Point 2**: Overuse of social media creates an environment of comparison and competition, which can harm self-esteem.
+    *Example*: Platforms like Instagram foster unrealistic beauty standards and social pressures.
 - **Concluding Sentence**: Instead of fostering connections, excessive internet use can hinder teenagers’ ability to build authentic relationships.
 
 ---
@@ -27,10 +28,10 @@ title: Online Style Sample Test Writing Test 1
 ### **Body Paragraph 2: Academic Well-Being**
 
 - **Topic Sentence**: Spending too much time online hampers teenagers’ academic success.
-- **Point 1**: Constant notifications and internet distractions reduce focus during study time.  
-    _Evidence_: Research indicates that multitasking with digital devices lowers productivity and retention rates.
-- **Point 2**: Sleep deprivation caused by late-night internet use negatively impacts school performance.  
-    _Example_: A survey found that 60% of teens stay up past bedtime using their phones, affecting their ability to concentrate in class.
+- **Point 1**: Constant notifications and internet distractions reduce focus during study time.
+    *Evidence*: Research indicates that multitasking with digital devices lowers productivity and retention rates.
+- **Point 2**: Sleep deprivation caused by late-night internet use negatively impacts school performance.
+    *Example*: A survey found that 60% of teens stay up past bedtime using their phones, affecting their ability to concentrate in class.
 - **Concluding Sentence**: The digital world often competes with education, leaving teenagers struggling to balance their studies.
 
 ---
@@ -38,10 +39,10 @@ title: Online Style Sample Test Writing Test 1
 ### **Body Paragraph 3: Emotional Well-Being**
 
 - **Topic Sentence**: Excessive internet usage leads to emotional challenges like anxiety and depression.
-- **Point 1**: Constant exposure to curated lives online fosters feelings of inadequacy and low self-worth.  
-    _Evidence_: Studies link high social media usage with increased rates of teen anxiety and depression.
-- **Point 2**: Overuse of digital devices diminishes opportunities for relaxation and mindfulness.  
-    _Example_: Instead of unwinding, many teens turn to the internet, which can overstimulate their minds and increase stress levels.
+- **Point 1**: Constant exposure to curated lives online fosters feelings of inadequacy and low self-worth.
+    *Evidence*: Studies link high social media usage with increased rates of teen anxiety and depression.
+- **Point 2**: Overuse of digital devices diminishes opportunities for relaxation and mindfulness.
+    *Example*: Instead of unwinding, many teens turn to the internet, which can overstimulate their minds and increase stress levels.
 - **Concluding Sentence**: The emotional toll of excessive internet use cannot be underestimated, as it deeply affects teenagers’ mental health.
 
 ---

@@ -11,17 +11,25 @@ title: Music Week 04 2025
 ### List A - Mozart Sonata in C K330
 
 #SonataK330
+
 	1st Movement
+
 		**21** RH Rhythm
+
 		**129** RH Fingering
+
 	2nd Movement
+
 		NOTE LENGTHS
 
-### List B - Bach Toccata in e BWV 914
+### List B - Bach Toccata in E BWV 914
 
 #ToccataBWV914
+
 	Always have a direction
+
 	Carefully observe markings
+
 	Fuga  - **84**, **138/9**
 
 ### List C - Mendelssohn Rondo Capriccioso Op 14
@@ -29,6 +37,7 @@ title: Music Week 04 2025
 ### List D - Debussy 'General Lavine' - Eccentric
 
 #GeneralLavine-Eccentric
+
 	Be flexible and add breaths
 
 ## Notes

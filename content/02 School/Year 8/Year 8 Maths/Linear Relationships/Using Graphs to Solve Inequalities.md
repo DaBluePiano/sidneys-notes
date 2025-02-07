@@ -3,7 +3,7 @@ draft: false
 tags:
 title: Using Graphs to Solve Inequalities
 ---
- 
+
 
 - A horizontal line (parallel to the x-axis) has the rule in the form of $y=c$ where $c$ is any number
 

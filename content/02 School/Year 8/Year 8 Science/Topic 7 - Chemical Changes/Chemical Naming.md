@@ -38,7 +38,7 @@ Sodium Chloride, aka salt, has the formula NaCl. You read the formula like so ('
 
 A chemical formula is a shorthand way of showing which elements are in a compound. It also tells you how many atoms of each element are present in one molecule of the compound. For example, water has the formula H<sub>2</sub>O. This tells you that each molecule of water contains two atoms of hydrogen (H) and one atom of oxygen (O).
 
-## 2.2 How do we name compounds?
+## 2.2 How Do We name Compounds?
 
 > [!NOTE] Hydroxide
 > A compound that contains hydroxide ions, OH<sup>-</sup> (a negatively charged ion made up of oxygen and hydrogen) is named a **hydroxide**.
@@ -61,7 +61,7 @@ A chemical formula is a shorthand way of showing which elements are in a compoun
 > NaCl - Sodium Chloride
 > MgBr<sub>2</sub> - Magnesium Bromide
 
-#### 2.3.1.2 Three or more elements
+#### 2.3.1.2 Three or More Elements
 
 > [!Rules]
 > 1. The **metallic** element is named first.
@@ -94,6 +94,7 @@ The common names of particular elements have to be memorized.
 > H<sub>2</sub>O - Water
 
 ## 2.4 -ate Endings
+
 >
 > [!NOTE] -ate endings
 > A compound that contains a negatively charged polyatomic ion containing oxygen usually has a name ending in **-ate**.

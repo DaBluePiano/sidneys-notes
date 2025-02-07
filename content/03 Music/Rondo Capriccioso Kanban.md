@@ -7,7 +7,7 @@ kanban-plugin: board
 title: Rondo Capriccioso Kanban
 ---
 
-## Sections
+# Sections
 
 - [ ] 1-10/2
 - [ ] 10/3-17
@@ -20,15 +20,15 @@ title: Rondo Capriccioso Kanban
 - [ ] 82-96
 - [ ] 97-101/1
 
-## Sight Read
+# Sight Read
 
-## Learn Notes and Articulation
+# Learn Notes and Articulation
 
-## Speeed
+# Speeed
 
-## Check
+# Check
 
-## Done
+# Done
 
 %% kanban:settings
 

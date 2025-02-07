@@ -25,13 +25,13 @@ title: Template for General Knowledge
 
 ## Brief Biography
 
-## Sources of Infeluence
+## Sources of Influence
 
-## Impact upon late generations of composers and repertoire output
+## Impact upon Late Generations of Composers and Repertoire Output
 
 # Historical and Stylistic Context
 
-## How this work relates to the period (Characteristics)
+## How This Work Relates to the Period (Characteristics)
 
 ## Compositional Style
 

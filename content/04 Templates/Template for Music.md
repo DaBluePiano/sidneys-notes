@@ -10,7 +10,7 @@ title: Template for Music
 
 ### List A - Mozart Sonata in C K330
 
-### List B - Bach Toccata in e BWV 914
+### List B - Bach Toccata in E BWV 914
 
 ### List C - Mendelssohn Rondo Capriccioso Op 14
 

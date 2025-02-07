@@ -3,6 +3,7 @@ draft: false
 tags:
 title: Plagal Cadence
 ---
+
 The Plagal Cadence is occasionally used to end a musical composition. It is largely used in sacred music as the 'Amen' at the conclusion of a hymn. It is a relatively simple cadence to compose - IV-I.
 
 > [!Rules]

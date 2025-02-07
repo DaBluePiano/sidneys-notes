@@ -3,12 +3,16 @@ draft: true
 tags: 
 title: 05 Other
 ---
+
 %% Begin Waypoint %%
+
 - [[78ikmnbvfr5]]
 - [[2024-11-15]]
 - [[2024-11-18]]
 - [[2024-11-30]]
 - [[2024-12-09]]
+- [[Camping]]
+- [[Chess Cheatsheet]]
 - [[Daily Notes]]
 - [[Home]]
 - [[Lessons+Teaching Tracking]]
@@ -28,7 +32,7 @@ title: 05 Other
 - [[Untitled 4]]
 - [[Untitled Kanban]]
 - [[Untitled.canvas]]
-- [[Untitled]]
+- [[05 Other/Untitled]]
 - [[Vault]]
 - [[Writing Recount 1 Page 127]]
 - [[Writing Recount 2 Page 128]]

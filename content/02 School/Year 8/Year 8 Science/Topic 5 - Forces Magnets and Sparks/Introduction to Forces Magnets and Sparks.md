@@ -3,6 +3,7 @@ draft: false
 tags:
 title: Introduction to Forces Magnets and Sparks
 ---
+
 # Vocabulary
 
 ## Force

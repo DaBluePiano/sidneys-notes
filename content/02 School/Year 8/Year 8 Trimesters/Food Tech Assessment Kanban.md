@@ -7,7 +7,7 @@ kanban-plugin: board
 title: Food Tech Assessment Kanban
 ---
 
-## Food Tech
+# Food Tech
 
 - [ ] Main Dishes
 - [ ] Street FOod
@@ -15,24 +15,24 @@ title: Food Tech Assessment Kanban
 - [ ] Deserts?
 - [ ] Mango Pudding
 
-## Making Ingredients and Method
+# Making Ingredients and Method
 
 - [ ] Boba Tea
 
-## Adding a Nutritional Panel
+# Adding a Nutritional Panel
 
 - [ ] Sour Plum Juice
 
-## Adding Pictures
+# Adding Pictures
 
 - [ ] Nasi Goreng
 - [ ] Scallion Pancakes
 
-## Link
+# Link
 
 - [ ] Mango Sago
 
-## Finishing off the Nutritional Panel
+# Finishing off the Nutritional Panel
 
 - [ ] Red Bean Milk with Ice Cream
 - [ ] Sachima
@@ -41,9 +41,9 @@ title: Food Tech Assessment Kanban
 - [ ] Fried Rice with Chinese
 - [ ] Chinese Crepes
 
-## Formatting
+# Formatting
 
-## Done
+# Done
 
 Complete
 

@@ -3,7 +3,9 @@ draft: true
 tags:
 title: 08 Attachments
 ---
+
 %% Begin Waypoint %%
+
 - [[8S notes (3).pdf]]
 - [[8S notes (4).pdf]]
 - [[8S notes (5).pdf]]

@@ -5,6 +5,7 @@ share_link: https://share.note.sx/boqjhzbh
 share_updated: 2024-12-07T20:41:23+11:00
 title: Perfect Cadence
 ---
+
 The most important of the 4 cadences. It is used to end almost every musical composition and is the cadence used in modulation. A few basic rules will ensure accuracy in composing.
 
 > [!Rules]

@@ -16,7 +16,7 @@ title: 2024 11 20 Wednesday
 
 #### List A - Mozart Sonata in C K330
 
-#### List B - Bach Toccata in e BWV 914
+#### List B - Bach Toccata in E BWV 914
 
 #### List C - Chopin Nocturne in B Op 9 No 2 / Mendelssohn Rondo Capriccioso Op 14
 
@@ -33,32 +33,39 @@ title: 2024 11 20 Wednesday
 ## Period 1
 
 #Year8/PE
+
 Dodgeball
 
 ## Period 2
 
 #Year8/Science
+
 New Topic
+
 Chemical Changes
 
 ## Period 3
 
 #Year8/Japanese
+
 Lunches from around the world
 
 ## Period 4
 
 #Year8/Maths
+
 Test Back
 
 ## Period 5
 
 #Year8/Sport
+
 Frisbee
 
 ## Period 6
 
 #Year8/Sport
+
 Netball
 
 ## Homework

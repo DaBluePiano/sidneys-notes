@@ -3,9 +3,11 @@ draft: false
 tags:
 title: Organisation of Living Things
 ---
+
 # 1 Levels of Organisation of Living Things
 
 There are in all four levels of organisation of living things. The levels or organisation of living thins in sequence are the cells, tissues, organs, and organ systems.
+
 Cells -> tissues -> organs -> (organ) systems -> Organism
 
 ## 1.1 Cell

@@ -3,6 +3,7 @@ draft: false
 tags:
 title: Physical and Chemical Changes
 ---
+
 # Physical Change
 
 > [!Summary] What is a Physical change?
@@ -11,6 +12,7 @@ title: Physical and Chemical Changes
 > - It is generally reversible
 > - Don't make new substances
 >
+
 # Chemical Change
 
 > [!Summary] What is a Chemical change
@@ -32,6 +34,7 @@ A **new** substance is formed. These changes are **irreversible** or **permanent
 > - Endothermic reactions absorb energy, a temperature drop is measured during the reaction
 > - Endothermic reactions are characterized by positive heat flow (into the reaction)
 >
+
 ## Exothermic Chemical Reactions
 
 > [!summary] What is an Exothermic chemical reaction?
@@ -41,6 +44,7 @@ A **new** substance is formed. These changes are **irreversible** or **permanent
 ## Evidence of a Chemical Reaction
 
 A chemical reaction is the process by which the atoms in one or more chemicals are rearranged to form new chemicals. Chemical reactions change substances into other substances. Evidence of a chemical reaction is said to have occured if you can observe one or more of the folliwing things when chemicals are mixed.
+
 - A temperature change
 - A change in colour
 - A new substance forming like a gas or a solid precipitate

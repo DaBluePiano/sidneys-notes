@@ -3,6 +3,7 @@ draft: false
 tags:
 title: Interrupted Cadence
 ---
+
 The Interrupted Cadence (V-VI) interrupts a [[Perfect Cadence]] ending; instead of moving V-I, the music moves to V-VI and disturbs the natural tone wanting to hear a proper ending. In a major key, chord VI is a minor triad; in a minor key, chord VI is a major triad. In both cases, the **3rd** of chord VI is the **note** which is **doubled** to avoid consecutive 5ths and 8ths.
 
 > [!Important] Important

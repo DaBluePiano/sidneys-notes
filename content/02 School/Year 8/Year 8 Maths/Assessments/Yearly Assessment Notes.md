@@ -7,6 +7,7 @@ share_link: https://share.note.sx/h3mn0ltd
 share_updated: 2024-12-07T21:00:57+11:00
 title: Yearly Assessment Notes
 ---
+
 # Properties of Geometrical Figures
 
 ## Quadrilaterals
@@ -14,10 +15,12 @@ title: Yearly Assessment Notes
 ### Convex and Concave Triangles
 
 CONVEX
+
 - All angles less than 180 degrees
 - All vertices point OUTward
 
 CONCAVE
+
 - One internal reflect angle
 - One vertex points INward
 
@@ -45,22 +48,31 @@ Acute Triangles: Abt triangles that has three acute angles.
 ## Volume Formula
 
 $$V=Ah$$Where $V$ is the volume of the object
+
 $A$ is the cross sectional area of the object
+
 $h$ is the height of the object
 
 ## Cross Sections
 
 A cross section of a prism  is where however many times you cut it, the 2-dimensional shape stays the same.
 
-## Various **Cross Section** Formulas for other solids (multiply everything by the height ($h$) of the object)
+## Various **Cross Section** Formulas for other Solids (multiply Everything by the Height ($h$) of the object)
 
 Cube: $A=l^{2}$
+
 Rectangular Prism: $A=bh$
+
 Rhombic Prism: $A=\frac{1}{2}xy$
+
 Trapezoidal Prism: $A=\frac{1}{2}(a+b)h$
+
 Triangular Prism: $A=\frac{1}{2}bh$
+
 Cylinder: $A=\pi r^2$
+
 Semi-Cylinder?: $A=\frac{1}{2}\pi r^2$
+
 Sector: $A=\frac{\theta}{360}\pi r^2$
 
 ## Composite Solids
@@ -74,9 +86,11 @@ Split the solid into various recognizable solids, and then add them together
 ## Units and Conversions of Capacity and Volume
 
 Capacity - mL, L, kL etc.
+
 Volume - mm<sup>3</sup>, cm<sup>3</sup>, m<sup>3</sup> etc.
 
 1cm<sup>3</sup> is 1mL
+
 1m<sup>3</sup> is 1 kL (1000000cm<sup>3</sup> is 1kL)
 
 # Linear Relationships
@@ -100,16 +114,21 @@ Volume - mm<sup>3</sup>, cm<sup>3</sup>, m<sup>3</sup> etc.
 ## $y=mx+c$
 
 $$y=mx+c$$
+
 $y$ is the $y$ value
+
 $m$ is the slope/gradient, also called the coefficient of $x$
+
 $x$ is the $x$ value
+
 $c$ is the $y$ intercept (where $y$ crosses the $x$ axis when $x=0$)
 
-## Ways to solve a linear equation
+## Ways to Solve a Linear Equation
 
-### 1. Using table of value
+### 1. Using Table of Value
 
 Draw up a table of values with $x$ being -2, -1, 0, 1, 2 (or whatever is suitable)
+
 eg. $y=2x+1$
 
 | $y$ | -2  | -1  | 0   | 1   | 2   |
@@ -123,6 +142,7 @@ Plot the points, join the line and add arrows and label the line.
 $c$ is the y-intercept so, plot (0, $c$)
 
 $m$ is the gradient of the line, so convert it to a fraction, so if $m$ is a whole number, then make it $\frac{m}{1}$ and if it is fractional, keep it the same.
+
 This fractional form is basically $\frac{rise}{run}$ so rise is how much the line is going up for every 1 $x$. So, from your y-intercept, count $rise$ number of units up and $run$ number of units across.
 
 Join the line and add arrows and label the line.

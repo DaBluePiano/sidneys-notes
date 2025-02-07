@@ -3,7 +3,9 @@ draft: true
 tags: 
 title: Topic 7 - Chemical Changes
 ---
+
 %% Begin Waypoint %%
+
 - [[Chemical Naming]]
 - [[Chemical Reactions]]
 - [[Introduction to Chemical Changes]]

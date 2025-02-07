@@ -3,6 +3,7 @@ draft: false
 tags:
 title: Introduction to Chemical Changes
 ---
+
 # Vocabulary
 
 ## Chemical Change

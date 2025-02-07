@@ -15,14 +15,6 @@ type: clock
 
 # 02 School
 
-- [[Year 8]]
- 	- [[02 School/Year 8/Year 8 English/Year 8 English|Year 8 English]]
- 	- [[02 School/Year 8/Year 8 HSIE/Year 8 HSIE|Year 8 HSIE]]
- 	- [[02 School/Year 8/Year 8 Japanese/Year 8 Japanese|Year 8 Japanese]]
- 	- [[02 School/Year 8/Year 8 Maths/Year 8 Maths|Year 8 Maths]]
- 	- [[Year 8 PDHPE]]
- 	- [[02 School/Year 8/Year 8 Science/Year 8 Science|Year 8 Science]]
- 	- [[Year 8 Trimesters]]
 - [[Year 9]]
  	- [[Year 9 English]]
  	- [[Year 9 HSIE]]

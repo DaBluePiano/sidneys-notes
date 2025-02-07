@@ -5,11 +5,12 @@ tags:
 ---
 
 The Meetings
+
 The event that you must base your recount on is THE MEETING. Your recount might be about them eting between a first-time surfer and a great white shark, a meting between two boys in a pie-eating competition or a meeting between an adopted child and his or her birth mother. It could be about a meeting at the United Nations to discuss the end of the world or meeting yourself for the first time after suffering amnesia for fifteen years.
 
 I had never considered competitive eating as a sport, but when my best friend dared me to enter the annual pie-eating competition, I couldn’t say no. It was a small-town event with a big reputation. Legends had been made here. And today, I was about to meet one of them.
 
-As I took my seat at the long table covered in glistening blueberry pies, I glanced to my right and almost dropped my spoon. Seated next to me was none other than _Tommy "The Tornado" Thompson_, the undefeated champion of the past five years. He was famous for inhaling pies at speeds that defied the laws of physics.
+As I took my seat at the long table covered in glistening blueberry pies, I glanced to my right and almost dropped my spoon. Seated next to me was none other than *Tommy "The Tornado" Thompson*, the undefeated champion of the past five years. He was famous for inhaling pies at speeds that defied the laws of physics.
 
 “Hey, rookie,” Tommy said with a smirk, stretching his fingers like an athlete warming up for a marathon. “Hope you didn’t eat breakfast.”
 

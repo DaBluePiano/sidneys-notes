@@ -3,20 +3,23 @@ draft: false
 tags:
 title: Nutrition
 ---
+
 # 1 Nutritional Requirements
 
 ## 1.1 Human Dietary Needs
 
 The human diet must provide the following:
+
 - **calories**; enough to meet our daily energy needs.
 - **amino acids**; There are nine, or so, "essential" amino acids that we need for protein synthesis.
 - **fatty acids**; There are three "essential" fatty acids.
 - **minerals**; We need 18 different minerals, eg. Calcium in large amounts and zinc in small amounts.
 - **vitamins**; There is about a dozen different vitamins that our bodies require. Eg. Vitamin C.
 
-## 1.2 Tests for nutrients
+## 1.2 Tests for Nutrients
 
 ### 1.2.1 Test for Starch
+
 >
 > [!Experiment] Test for Starch
 >Procedure
@@ -27,7 +30,9 @@ The human diet must provide the following:
 >5. Swirl each tube.
 >6. Record result.
 >
+
 ### 1.2.2 Test for Fat
+
 >
 > [!experiment] Test for Fat
 > Procedure
@@ -38,7 +43,9 @@ The human diet must provide the following:
 > 5. Hold both pieces of paper up to the light.
 > 6. Record result.
 >
+
 ### 1.2.3 Test for Protein
+
 >
 > [!experiment] Test for a Protein
 > Procedure
@@ -49,7 +56,9 @@ The human diet must provide the following:
 > 5. Swirl both tubes.
 > 6. Record result.
 >
+
 ### 1.2.4 Test for Glucose
+
 >
 > [!experiment] Test for Gloucose
 > Procedure
@@ -62,6 +71,7 @@ The human diet must provide the following:
 > 7. Using the test-tube holder, carefully remove both tubes from the water bath and place in the test-tube rack.
 > 8. Record result.
 >
+
 # 2 Nutritional Diseases
 
 Nutritional diseases in humans are disorders caused by an imbalance in nutrition. There are nutritional diseases caused by a lack of nutrients, while others that have excess nutrients. Other nutritional diseases are the result of poisonous components in foods. Nutritional diseases can result in death.
@@ -76,6 +86,7 @@ Nutritional diseases in humans are disorders caused by an imbalance in nutrition
 ## 3.2 Sugar
 
 Consuming a lot of added sugars, especially from foods like lollies, chocolate, cakes, biscuits, desserts and soft drink, can add extra kilojoules to your diet.
+
 - This can lead to weight gain and increase your risk of developing type 2 diabetes, cardiovascular disease and some cancers.
 - Too much sugar can also cause dental cavities.
 - Most fruits, vegetables, legumes and unsweetened dairy foods contain small amounts of naturally- occurring sugars which are not harmful.

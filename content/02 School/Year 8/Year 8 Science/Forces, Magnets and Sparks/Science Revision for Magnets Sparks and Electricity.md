@@ -6,14 +6,14 @@ title: Science Revision for Magnets Sparks and Electricity
 
 ---
 
-### **What is a Force?**
+# **What Is a Force?**
 
 - **Definition**: A force is a push, pull, or twist that can cause an object to change shape or motion.
   - **Push**: Moves objects apart or causes separation.
   - **Pull**: Brings objects closer together or moves them towards a point.
   - **Twist**: Rotates or changes the orientation of an object.
 
-### **Forces in Action**
+# **Forces In Action**
 
 - **A Force Can**:
   - Change the shape of an object.
@@ -28,13 +28,13 @@ title: Science Revision for Magnets Sparks and Electricity
 
 ---
 
-### **Types of Forces**
+# **Types Of Forces**
 
 Forces can be classified as **contact** or **non-contact** forces.
 
 ---
 
-#### **Contact Forces**
+## **Contact Forces**
 
 These forces occur when two objects physically touch each other.
 
@@ -82,7 +82,7 @@ These forces occur when two objects physically touch each other.
 
 ---
 
-#### **Non-Contact Forces**
+## **Non-Contact Forces**
 
 These forces act at a distance without physical contact between objects.
 
@@ -109,7 +109,7 @@ These forces act at a distance without physical contact between objects.
 
 ---
 
-### **Contact and Non-Contact Forces Summary**
+# **Contact And Non-Contact Forces Summary**
 
 - **Contact Forces**:
   - Require physical contact.
@@ -121,7 +121,7 @@ These forces act at a distance without physical contact between objects.
 
 ---
 
-### **Representing Forces**
+# **Representing Forces**
 
 - **Diagrammatic Representation**:
   - Forces are represented by arrows in diagrams.
@@ -130,7 +130,7 @@ These forces act at a distance without physical contact between objects.
 
 ---
 
-### **Balanced and Unbalanced Forces**
+# **Balanced And Unbalanced Forces**
 
 - **Balanced Forces**:
   - Forces are equal and opposite, causing no change in motion.
@@ -142,7 +142,7 @@ These forces act at a distance without physical contact between objects.
 
 ---
 
-### **Using Friction**
+# **Using Friction**
 
 - **Advantages**:
   - Enables walking without slipping.
@@ -158,7 +158,7 @@ These forces act at a distance without physical contact between objects.
 
 ---
 
-### **Magnetic Forces**
+# **Magnetic Forces**
 
 - **Definition**: A force acting between magnetic materials without contact.
   - **Properties**: The force is stronger as objects get closer.
@@ -166,7 +166,7 @@ These forces act at a distance without physical contact between objects.
 
 ---
 
-### **Electrostatic Force**
+# **Electrostatic Force**
 
 - **Definition**: Attraction or repulsion between charged objects without physical contact.
   - **Properties**: Opposite charges attract, like charges repel.
@@ -174,14 +174,14 @@ These forces act at a distance without physical contact between objects.
 
 ---
 
-### **Measuring a Force**
+# **Measuring A Force**
 
 - **Unit**: The Newton (N), measuring the force’s strength.
 - **Devices**: A spring balance measures force by stretching an internal spring based on the force applied.
 
 ---
 
-### **Laws of Motion**
+# **Laws Of Motion**
 
 1. **Newton's First Law (Inertia)**: Objects remain at rest or in motion unless acted upon by an external force.
 2. **Newton's Second Law**: Force equals mass times acceleration (F = ma), meaning acceleration depends on the object’s mass and applied force.
@@ -189,7 +189,7 @@ These forces act at a distance without physical contact between objects.
 
 ---
 
-### **Difference between Mass and Weight**
+# **Difference Between Mass and Weight**
 
 - **Mass**: The amount of matter in an object (in kg); constant regardless of location.
 - **Weight**: The gravitational force on an object (in Newtons); changes with gravity, e.g., on Earth versus the Moon

@@ -3,84 +3,87 @@ draft: false
 tags:
 title: Japanese Sporting Hero Assessment  Print
 ---
-## 1. What is your name?
+
+# 1. What is Your Name?
 
 お{名前|なまえ}は{何|なん}ですか。
 
-### My name is Alex De Minaur
+## My name is Alex De Minaur
 
 私の{名前|なまえ}は アレックス ド ミニューアー です。
 
-## 2. How old are you?
+# 2. How Old Are You?
 
 {何|なん}さいですか。
 
-### I am 25 years old
+## I Am 25 Years Old
 
 二十五 さいです。
 
-## 3. Where do you come from?
+# 3. Where Do You come From?
 
 どこからきましたか。
 
-### I come from Australia
+## I come from Australia
 
 オーストラリア からきました。
 
-## 4. What kind of person are you?
+# 4. What Kind of Person Are You?
 
 どんな{人|ひと}ですか。
 
-### I am a fun, kind and funny person
+## I Am a Fun, Kind and Funny Person
 
 {私|わたし} はたのしくて、やさしくて、おもしろい{人|ひと}です。
 
-## 5. What hobbies do you have?
+# 5. What Hobbies Do You Have?
 
 しゅみは{何|なん}ですか。
 
-### My hobbies are music, soccer and reading
+## My Hobbies Are Music, Soccer and Reading
 
 {私|わたし} のしゅみは おんがくとサッカとどくしょです。
+
 <div class="page-break" style="page-break-before: always;"></div>
 
-## 6. What sport/subjects do you like?
+# 6. What sport/subjects Do You Like?
 
 どんなスポーツ・かもくが{好|す}きですか。
 
-### I like music and science. Becuase it is interesting
+## I like Music and Science. Becuase it is Interesting
 
 おんがくとかがくが好きです。おもしろいからです。
 
-## 7. What sport/subjects do you dislike?
+# 7. What sport/subjects Do You Dislike?
 
 どんなスポーツ・かもくが好きじゃないですか。
 
-### I dislike geography and english. Because it is boring
+## I Dislike Geography and English. Because it is Boring
 
 ちりとえいごは好きじゃないです。つまらないからです。
 
-## 8. What kind of subject/sport are you good at?
+# 8. What Kind of subject/sport Are You Good At?
 
 どんなかもく・スポーツが{上手|じょうず}ですか。
 
-### I am very good at tennis. I am also good music and golf
+## I Am Very Good at Tennis. I Am also Good Music and Golf
 
 テニス が{上手|じょうず}です。おんがくとゴルフがとくいです。
 
-## 9. What are you bad at?
+# 9. What Are You Bad At?
 
 どんなかもく・スポーツが{下手|へた}ですか。
+
 donna kamoku/supottsu ga heta desu ka?
 
-### I am bad at english, baseball and cooking
+## I Am Bad at English, Baseball and Cooking
 
 えいごとやきゅうとりようり は{下手|へた}です。
 
-## CONNECT THE TWO GOOD/BAD SENTENCES
+# CONNECT THE TWO GOOD/BAD SENTENCES
 
 テニス が{上手|じょうず}です。おんがくとゴルフがとくいです**けど** えいごとやきゅうとりようり は{下手|へた}です。
 
-## CONNECT THE TWO LIKES/DISLIKES SENTENCES
+# CONNECT THE TWO LIKES/DISLIKES SENTENCES
 
 テニスとかがくが好きです。おもしろいからです**けど**ちりとえいごは好きじゃないです。つまらないからです。

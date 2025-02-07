@@ -3,6 +3,7 @@ draft: true
 tags:
 title: Home
 ---
+
 # [[01 Daily Notes]]
 
 # [[02 School]]

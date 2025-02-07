@@ -4,6 +4,7 @@ tags:
 date:
 title: Daily Temp
 ---
+
 <%*
 
 const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];

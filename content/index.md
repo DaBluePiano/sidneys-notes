@@ -1,5 +1,5 @@
 ---
-title: Sidneys Notes :D
+title: :D
 font:
 ---
 This is the collection of Sidney's Notes for you to look at and to study from

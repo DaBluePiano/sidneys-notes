@@ -69,7 +69,7 @@ the speed at which a chemical reaction proceeds.
 - **Chemical equations** are a way to write out a chemical reaction. They can be written in word form, or in symbol form.
 - **The Law of Conservation of Mass** - states that the total amount of mass is the same before and after a chemical reaction.
 
-## 2.1 How do Chemicals React and Combine?
+## 2.1 How Do Chemicals React and Combine?
 
 > [!Summary] How do Chemicals React and Combine?
 > - Chemical reactions are happening all the time around us.
@@ -93,6 +93,7 @@ the speed at which a chemical reaction proceeds.
 > - It is generally reversible
 > - Don't make new substances
 >
+
 # 4 Chemical Change
 
 > [!Summary] What is a Chemical change
@@ -114,6 +115,7 @@ A **new** substance is formed. These changes are **irreversible** or **permanent
 > - Endothermic reactions absorb energy, a temperature drop is measured during the reaction
 > - Endothermic reactions are characterized by positive heat flow (into the reaction)
 >
+
 ## 4.2 Exothermic Chemical Reactions
 
 > [!summary] What is an Exothermic chemical reaction?
@@ -123,6 +125,7 @@ A **new** substance is formed. These changes are **irreversible** or **permanent
 ## 4.3 Evidence of a Chemical Reaction
 
 A chemical reaction is the process by which the atoms in one or more chemicals are rearranged to form new chemicals. Chemical reactions change substances into other substances. Evidence of a chemical reaction is said to have occured if you can observe one or more of the folliwing things when chemicals are mixed.
+
 - A temperature change
 - A change in colour
 - A new substance forming like a gas or a solid precipitate
@@ -143,7 +146,7 @@ Sodium Chloride, aka salt, has the formula NaCl. You read the formula like so ('
 
 A chemical formula is a shorthand way of showing which elements are in a compound. It also tells you how many atoms of each element are present in one molecule of the compound. For example, water has the formula H<sub>2</sub>O. This tells you that each molecule of water contains two atoms of hydrogen (H) and one atom of oxygen (O).
 
-## 5.2 How do we name compounds?
+## 5.2 How Do We name Compounds?
 
 > [!NOTE] Hydroxide
 > A compound that contains hydroxide ions, OH<sup>-</sup> (a negatively charged ion made up of oxygen and hydrogen) is named a **hydroxide**.
@@ -166,7 +169,7 @@ A chemical formula is a shorthand way of showing which elements are in a compoun
 > NaCl - Sodium Chloride
 > MgBr<sub>2</sub> - Magnesium Bromide
 
-#### 5.3.1.2 Three or more elements
+#### 5.3.1.2 Three or More Elements
 
 > [!Rules]
 > 1. The **metallic** element is named first.
@@ -199,6 +202,7 @@ The common names of particular elements have to be memorized.
 > H<sub>2</sub>O - Water
 
 ## 5.4 -ate Endings
+
 >
 > [!NOTE] -ate endings
 > A compound that contains a negatively charged polyatomic ion containing oxygen usually has a name ending in **-ate**.

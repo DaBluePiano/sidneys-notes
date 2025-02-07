@@ -3,7 +3,9 @@ draft: false
 tags:
 title: Forces
 ---
+
 # What is a Force?
+
 >
 > [!Summary] What is a Force?
 > A force can be a push, a pull or a twist. We tell them apart by talking about directions.
@@ -20,11 +22,13 @@ Force is just a fancy word for pushing or pulling. If I push on something or pul
 # Forces in Action
 
 A force can:
+
 1. Change the shape of an object
 2. Change or stop movement of an object.
 3. Or do both.
 
 When a force changes the motion of an object, it may:
+
 1. Make the object start moving or make it go faster.
 2. Make the object move more slowly or make it stop
 3. Change direction of the motion

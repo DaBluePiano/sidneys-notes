@@ -85,6 +85,7 @@ Effective against bacteria
 # 2 Levels of Organisation of Living Things
 
 There are in all four levels of organisation of living things. The levels or organisation of living thins in sequence are the cells, tissues, organs, and organ systems.
+
 Cells -> tissues -> organs -> (organ) systems -> Organism
 
 ## 2.1 Cell
@@ -140,6 +141,7 @@ Amongst the different levels of organization of living things, this is the highe
 > etc.
 
 # 3 The Digestive System
+
 >
 > [!Definition] What is the Digestive System?
 > The human digestive system is a complex series of organs and glands that processes food. In order to use the food we eat, our body has to break the food down into smaller molecules that it can process; it also has to excrete waste. The digestive system is essentially a long, twisting tube that runs from the mouth to the anus, plus a few other organs (like the liver and pancreas) that produce or store digestive chemicals.
@@ -165,12 +167,15 @@ Chemical digestion: where enzymes break down food into the small molecules the b
 #### 4.2.1.1 Enzymes in the Digestive System
 
 Enzymes are what the body uses to break down food items. Without enzymes, no food would get broken down or absorbed into the bloodstream.
+
 It is the bloodstream that carries nutrients to every single cell in the body and the nutrients are the only thing that keeps the cells alive.
+
 Enzymes are sort of the 'key' to getting all our nutrients back out of the food we eat. Without this 'key' our bodies would not be able to live. Water helps clean the stomach and helps digestion. Other fluids do not replace water as a digestive aid. Anything added to the water at all changes the function it has in the digestive system.
 
 ## 4.3 The Digestive Process
 
 The digestive process is as follows
+
 The Mouth -> The Esophagus -> The Stomach -> The Small Intestine -> The Large Intestine -> The End (Anus)
 
 ### 4.3.1 The Mouth
@@ -223,11 +228,11 @@ Stores the waste until it leaves the body through the anus
 
 Is a muscular tube down which food travels from the mouth to the stomach secretes juices that get digestion under way pancreas secretes enzymes into the small intestine
 
-## 6.6 Small intestine
+## 6.6 Small Intestine
 
 Is the main site where food is digested
 
-## 6.7 Large intestine
+## 6.7 Large Intestine
 
 Absorbs water from digestive waste
 
@@ -236,6 +241,7 @@ Absorbs water from digestive waste
 # 7 Teeth
 
 Teeth come in four main types: incisors, canines, premolars, and molars. Each is shaped for a specific function. People have two sets of teeth during their lives: the 20 milk teeth emerge between the ages of about six months and three years. The 32 permanent teeth emerge from the age of about six years into the early twenties.
+
 ![[Pasted image 20241214192329.png]]
 
 # 8 Nutritional Requirements
@@ -243,15 +249,17 @@ Teeth come in four main types: incisors, canines, premolars, and molars. Each is
 ## 8.1 Human Dietary Needs
 
 The human diet must provide the following:
+
 - **calories**; enough to meet our daily energy needs.
 - **amino acids**; There are nine, or so, "essential" amino acids that we need for protein synthesis.
 - **fatty acids**; There are three "essential" fatty acids.
 - **minerals**; We need 18 different minerals, eg. Calcium in large amounts and zinc in small amounts.
 - **vitamins**; There is about a dozen different vitamins that our bodies require. Eg. Vitamin C.
 
-## 8.2 Tests for nutrients
+## 8.2 Tests for Nutrients
 
 ### 8.2.1 Test for Starch
+
 >
 > [!Experiment] Test for Starch
 >Procedure
@@ -262,7 +270,9 @@ The human diet must provide the following:
 >5. Swirl each tube.
 >6. Record result.
 >
+
 ### 8.2.2 Test for Fat
+
 >
 > [!experiment] Test for Fat
 > Procedure
@@ -273,7 +283,9 @@ The human diet must provide the following:
 > 5. Hold both pieces of paper up to the light.
 > 6. Record result.
 >
+
 ### 8.2.3 Test for Protein
+
 >
 > [!experiment] Test for a Protein
 > Procedure
@@ -284,7 +296,9 @@ The human diet must provide the following:
 > 5. Swirl both tubes.
 > 6. Record result.
 >
+
 ### 8.2.4 Test for Glucose
+
 >
 > [!experiment] Test for Gloucose
 > Procedure
@@ -297,6 +311,7 @@ The human diet must provide the following:
 > 7. Using the test-tube holder, carefully remove both tubes from the water bath and place in the test-tube rack.
 > 8. Record result.
 >
+
 # 9 Nutritional Diseases
 
 Nutritional diseases in humans are disorders caused by an imbalance in nutrition. There are nutritional diseases caused by a lack of nutrients, while others that have excess nutrients. Other nutritional diseases are the result of poisonous components in foods. Nutritional diseases can result in death.
@@ -311,6 +326,7 @@ Nutritional diseases in humans are disorders caused by an imbalance in nutrition
 ## 10.2 Sugar
 
 Consuming a lot of added sugars, especially from foods like lollies, chocolate, cakes, biscuits, desserts and soft drink, can add extra kilojoules to your diet.
+
 - This can lead to weight gain and increase your risk of developing type 2 diabetes, cardiovascular disease and some cancers.
 - Too much sugar can also cause dental cavities.
 - Most fruits, vegetables, legumes and unsweetened dairy foods contain small amounts of naturally- occurring sugars which are not harmful.

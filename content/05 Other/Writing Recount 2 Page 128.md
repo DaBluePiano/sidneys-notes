@@ -3,11 +3,12 @@ draft: true
 title: Writing Recount 2 Page 128
 tags:
 ---
+
 The idea that you must base your recount on is CELEBRATION. Your recount might be about celebrating something simple and everyday, such as passing a test or turning thirteen. It could be about something more significant such as graduating from university or celebrating an event such as Christmas or Easter.
 
 I had never considered myself a fan of surprises, but when my best friend convinced me to celebrate my birthday with a surprise party, I couldn’t say no. It was a small gathering with a big reputation. Legends had been made at our birthday parties. And today, I was about to meet one of them.
 
-As I walked into my house, I glanced around and almost dropped my phone. Seated in my living room was none other than _Grandpa "The Prankster" Thompson_, the undefeated champion of birthday surprises for the past five years. He was famous for orchestrating pranks that defied the laws of common sense.
+As I walked into my house, I glanced around and almost dropped my phone. Seated in my living room was none other than *Grandpa "The Prankster" Thompson*, the undefeated champion of birthday surprises for the past five years. He was famous for orchestrating pranks that defied the laws of common sense.
 
 “Hey, birthday kid,” Grandpa said with a smirk, stretching his fingers like a magician preparing for his grand act. “Hope you didn’t expect a normal party.”
 

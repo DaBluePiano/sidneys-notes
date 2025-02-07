@@ -3,6 +3,7 @@ draft: false
 tags:
 title: Imperfect Cadence
 ---
+
 The Imperfect Cadence is used as a half-close or a cadence half way through a musical sentence. It always ends with chord V but many different chords may be used to precede chord V. For example, an Imperfect Cadence may be I-V, Ib-V, II-V, IIb-V, IV-V, IVb-V, VI-V. The most satisfactory Imperfect Cadence is IIb-V. When writing an Imperfect Cadence, always remember to move to the **nearest** notes and keep a **common** note in the same voice-part.
 
 > [!Caution]

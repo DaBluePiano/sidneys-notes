@@ -6,6 +6,7 @@ day: "{{day}}"
 period:
 title: Untitled
 ---
+
 # Learning Intentions
 
 # Success Criteria

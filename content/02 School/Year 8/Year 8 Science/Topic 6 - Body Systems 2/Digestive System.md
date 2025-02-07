@@ -3,7 +3,9 @@ draft: false
 tags:
 title: Digestive System
 ---
+
 # 1 The Digestive System
+
 >
 > [!Definition] What is the Digestive System?
 > The human digestive system is a complex series of organs and glands that processes food. In order to use the food we eat, our body has to break the food down into smaller molecules that it can process; it also has to excrete waste. The digestive system is essentially a long, twisting tube that runs from the mouth to the anus, plus a few other organs (like the liver and pancreas) that produce or store digestive chemicals.
@@ -29,12 +31,15 @@ Chemical digestion: where enzymes break down food into the small molecules the b
 #### 2.2.1.1 Enzymes in the Digestive System
 
 Enzymes are what the body uses to break down food items. Without enzymes, no food would get broken down or absorbed into the bloodstream.
+
 It is the bloodstream that carries nutrients to every single cell in the body and the nutrients are the only thing that keeps the cells alive.
+
 Enzymes are sort of the 'key' to getting all our nutrients back out of the food we eat. Without this 'key' our bodies would not be able to live. Water helps clean the stomach and helps digestion. Other fluids do not replace water as a digestive aid. Anything added to the water at all changes the function it has in the digestive system.
 
 ## 2.3 The Digestive Process
 
 The digestive process is as follows
+
 The Mouth -> The Esophagus -> The Stomach -> The Small Intestine -> The Large Intestine -> The End (Anus)
 
 ### 2.3.1 The Mouth
@@ -87,11 +92,11 @@ Stores the waste until it leaves the body through the anus
 
 Is a muscular tube down which food travels from the mouth to the stomach secretes juices that get digestion under way pancreas secretes enzymes into the small intestine
 
-## 4.6 Small intestine
+## 4.6 Small Intestine
 
 Is the main site where food is digested
 
-## 4.7 Large intestine
+## 4.7 Large Intestine
 
 Absorbs water from digestive waste
 
@@ -100,4 +105,5 @@ Absorbs water from digestive waste
 # 5 Teeth
 
 Teeth come in four main types: incisors, canines, premolars, and molars. Each is shaped for a specific function. People have two sets of teeth during their lives: the 20 milk teeth emerge between the ages of about six months and three years. The 32 permanent teeth emerge from the age of about six years into the early twenties.
+
 ![[Pasted image 20241214192329.png]]

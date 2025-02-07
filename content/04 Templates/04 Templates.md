@@ -3,7 +3,9 @@ draft: true
 tags: 
 title: 04 Templates
 ---
+
 %% Begin Waypoint %%
+
 - [[Daily Temp]]
 - [[Daily Template - Friday]]
 - [[Daily Template - Monday]]
