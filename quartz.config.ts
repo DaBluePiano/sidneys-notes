@@ -29,29 +29,29 @@ const config: QuartzConfig = {
         code: "jetbrains-mono",
       },
       colors: {
-        lightMode: {
-          light: "#d0e4ff", // Soft, cool blue for page background
-          lightgray: "#c2d4f9", // Light bluish-gray for borders
-          gray: "#8aa3d3", // Subtle blue-gray for graph links and heavier borders
-          darkgray: "#4e5c7a", // Muted blue with a hint of purple for body text
-          dark: "#2e4063", // Deep blue with purple undertones for header text and icons
-          secondary: "#5e7ef2", // Vibrant blue with a more pronounced purple for link colors and current graph node
-          tertiary: "#7367f7", // Bluish-purple for hover states and visited graph nodes
-          highlight: "rgba(94, 132, 242, 0.25)", // Soft blue for internal link background and highlights
-          textHighlight: "#b4c9f7", // Very light blue with a hint of purple for markdown highlighted text background
-        },
-        darkMode: {
-          light: "#101831", // Deep blue-black for page background
-          lightgray: "#1b2d49", // Muted dark blue for borders
-          gray: "#2b3f65", // Cool blue-gray for graph links and heavier borders
-          darkgray: "#4f6788", // Subtle blue with a hint of purple for body text
-          dark: "#758cd9", // Softer light blue with purple undertones for header text and icons
-          secondary: "#5e7ef2", // Vibrant blue with purple undertones for link colors and current graph node
-          tertiary: "#7367f7", // Cool bluish-purple for hover states and visited graph nodes
-          highlight: "rgba(94, 132, 242, 0.25)", // Light blue for internal link background and highlights
-          textHighlight: "#314a70", // Deep blue with purple undertones for markdown highlighted text background
-        },
-      },      
+      lightMode: {
+        light: "#fbf1c7", // Warm cream background
+        lightgray: "#ebdbb2", // Soft light brownish-gray for borders
+        gray: "#d5c4a1", // Muted beige-gray for graph links and borders
+        darkgray: "#7c6f47", // Warm olive-brown for body text
+        dark: "#3c3822", // Deep brown for header text and icons
+        secondary: "#458588", // Soft teal for link colors and current graph node
+        tertiary: "#b8bb26", // Olive-greenish-yellow for hover states and visited graph nodes
+        highlight: "rgba(72, 150, 120, 0.25)", // Soft green for internal link background and highlights
+        textHighlight: "#bdae93", // Pale beige with a hint of yellow for markdown highlighted text background
+      },
+      darkMode: {
+        light: "#282828", // Very dark gray background
+        lightgray: "#3c3836", // Dark muted brown for borders
+        gray: "#504945", // Soft gray-brown for graph links and borders
+        darkgray: "#ebdbb2", // Light cream for body text (contrast for dark mode)
+        dark: "#d5c4a1", // Soft beige for header text and icons
+        secondary: "#83a598", // Muted teal for link colors and current graph node
+        tertiary: "#b8bb26", // Olive-greenish-yellow for hover states and visited graph nodes
+        highlight: "rgba(72, 150, 120, 0.25)", // Soft green for internal link background and highlights
+        textHighlight: "#3c3836", // Deep dark brown for markdown highlighted text background
+      },
+    },
     },
   },
   plugins: {
