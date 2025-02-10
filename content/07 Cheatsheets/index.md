@@ -1,7 +1,9 @@
 ---
 draft: false
-title: 
+title: index
 tags:
 ---
+
 :)
+
 No files yet
