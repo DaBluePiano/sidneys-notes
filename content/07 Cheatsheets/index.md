@@ -1,6 +1,6 @@
 ---
 draft: false
-title: index
+title: 
 tags:
 ---
 :)
