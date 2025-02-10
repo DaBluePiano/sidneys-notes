@@ -6,7 +6,7 @@ title: 02 School
 
 %% Begin Waypoint %%
 
-- [[Untitled]]
+- [[02 School/Untitled]]
 - **[[Year 8]]**
 - **[[Year 9]]**
 

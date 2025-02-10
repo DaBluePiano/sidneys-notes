@@ -2,10 +2,6 @@
 title: :D
 font:
 ---
-This is the collection of Sidney's Notes for you to look at and to study from
-
-Please address any errors, issues, etc. to [this link](https://forms.gle/kkBXSJDbRs5bUK3G7). :)
-
 # [[02 School|School 🏫]]
 
 - [[Year 8]]
