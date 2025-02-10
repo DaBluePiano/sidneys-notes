@@ -1,6 +1,0 @@
-{
-	"nodes":[
-		{"id":"6844d85c96ac92ee","x":-125,"y":-30,"width":425,"height":310,"type":"text","text":"```todoist\nname: Today\nfilter: today\n```"}
-	],
-	"edges":[]
-}

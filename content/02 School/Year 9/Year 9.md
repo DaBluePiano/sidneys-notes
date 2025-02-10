@@ -5,9 +5,7 @@ title: Year 9
 ---
 
 %% Begin Waypoint %%
-
 - **[[Organisation]]**
-- [[02 School/Year 9/Untitled]]
 - **[[Year 9 Electronics]]**
 - **[[Year 9 English]]**
 - **[[Year 9 HSIE]]**
