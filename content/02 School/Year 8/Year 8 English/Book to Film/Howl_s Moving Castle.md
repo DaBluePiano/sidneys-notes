@@ -4,8 +4,6 @@ tags:
 title: Howl_s Moving Castle
 ---
 
-
-
 # Introduction
 
 Today, I will talk about one of the most important scenes in Howl’s Moving Castle: the moment when Sofi heals Howl’s heart with the help of Calcifer. This scene is important, as it covers the film's main themes, transformation and love. Sofi returns Howl’s heart, breaks her curse, and helps him reconnect with love and a sense of self. In the movie, this scene is made to connect with the viewers through the use of camera angles, the use of lighting and music.

@@ -4,7 +4,6 @@ title: Recorder Grade 8
 tags:
 ---
 
-
 | List | Title                                                | Composer     | Recorder | Solo? | Book? |
 | ---- | ---------------------------------------------------- | ------------ | -------- | ----- | ----- |
 | A    | No 5 from *15 Solos by Eighteenth Century Composers* | Waechter, W. | Treble   | Y     | Y     |

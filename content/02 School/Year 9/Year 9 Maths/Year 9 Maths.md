@@ -5,7 +5,6 @@ title: Year 9 Maths
 ---
 
 %% Begin Waypoint %%
-
 - **[[Area, Surface Area A and Volume A]]**
 - **[[Data Analysis A]]**
 - **[[Equations A, B and C]]**

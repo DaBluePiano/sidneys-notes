@@ -5,6 +5,7 @@ title: 05 Other
 ---
 
 %% Begin Waypoint %%
+
 - [[78ikmnbvfr5]]
 - [[2024-11-15]]
 - [[2024-11-18]]

@@ -5,6 +5,7 @@ title: Year 8
 ---
 
 %% Begin Waypoint %%
+
 - **[[School Notes]]**
 - **[[Year 8 English]]**
 - **[[Year 8 HSIE]]**
