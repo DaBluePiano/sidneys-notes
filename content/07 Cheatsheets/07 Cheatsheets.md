@@ -6,6 +6,7 @@ title: 07 Cheatsheets
 
 %% Begin Waypoint %%
 
-- [[index]]
+- **[[Maths]]**
+- **[[Science]]**
 
 %% End Waypoint %%

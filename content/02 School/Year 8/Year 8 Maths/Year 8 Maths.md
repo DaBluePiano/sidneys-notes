@@ -6,7 +6,7 @@ title: Year 8 Maths
 
 %% Begin Waypoint %%
 
-- **[[Assessments]]**
+- **[[02 School/Year 8/Year 8 Maths/Assessments/Assessments]]**
 - **[[Linear Relationships]]**
 - **[[Properties of Geometrical Figures]]**
 - **[[Volume]]**
