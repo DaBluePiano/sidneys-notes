@@ -5,7 +5,6 @@ title: 08 Attachments
 ---
 
 %% Begin Waypoint %%
-
 - [[8S notes (3).pdf]]
 - [[8S notes (4).pdf]]
 - [[8S notes (5).pdf]]
@@ -38,6 +37,9 @@ title: 08 Attachments
 - [[Pasted image 20250109112708.png]]
 - [[Pasted image 20250109112839.png]]
 - [[Pasted image 20250109113200.png]]
+- [[Pasted image 20250215132824.png]]
+- [[Pasted image 20250215182849.png]]
+- [[Pasted image 20250215203510.png]]
 - [[PowerToys_Paste_20241214191244.png]]
 - [[Yearly Assessment Notes Math.pdf]]
 - [[Yearly Assessment Notes.pdf]]
