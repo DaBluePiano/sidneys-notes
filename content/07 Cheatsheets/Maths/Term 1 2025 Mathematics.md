@@ -6,7 +6,11 @@ tags:
 
 Topics Tested on:
 
-[[Indices A, B and C]]
+[[ORIGINAL YR 9 INDICES A-C CUSTOM TASKS  BOOKLET REDUCED.pdf|Indices A, B and C Worksheet]]
+
+[[2025 YR 9 PATH LESSON OUTLINE INDICES A-C (MATHSPACE) (1).pdf|Indices A, B and C Lesson Plans]]
+
+[[indieces]]
 
 # Indices A and B
 
@@ -67,4 +71,3 @@ When the exponent is a **fraction**, it can be expressed as a **surd**:
 > The **numerator** becomes the *exponent* of the pronumeral
 
 > The **denominator** becomes *index* (the number just outside of the square root sign)
-

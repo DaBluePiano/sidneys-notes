@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: 'google', tagId: 'G-G16ZWP0FLH'
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://dabluepiano.github.io/sidneys-notes/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
