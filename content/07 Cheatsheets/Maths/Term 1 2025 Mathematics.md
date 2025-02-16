@@ -121,4 +121,5 @@ $$a^{\frac{1}{2}}=\sqrt[(2)]{a^{(1)}}$$
 When the exponent is a **fraction**, it can be expressed as a **surd**:
 
 > The **numerator** becomes the *exponent* of the pronumeral
+>
 > The **denominator** becomes *index* (the number just outside of the square root sign)
