@@ -35,19 +35,33 @@ Can I do the following?
 # Indices A and B
 
 >[!Important] Parts of an expression
+>
 >eg. $5x^3+9$
+>
 >$5$ is the **coefficient**
+>
 >$x$ is the **base**
->$3$ is the **power/exponent/indice**
+>
+>$3$ is the **power/exponent/index**
+>
 >$9$ is the **constant term**
+>
 
 >[!Warning] Like Terms
+>
 > Make sure you know what like terms are
+>
 > Like terms have the **same** bases,
+>
 > (eg. $3x$ and $12x$ are like terms because they have the same base, $x$)
+>
 > Like terms also have the **same** exponents,
-> (eg. $4y^2$ and $3y^2$ are like terms because they have the same base and exponent, $x^2$)
+>
+> (eg. $4y^2$ and $3y^2$ are like terms because they have the same base and
+> exponent, $x^2$)
+>
 > Like terms also have the **same** base combinations,
+>
 > (eg. $9xy^2$ and $15xy^2$ are like terms because they have the same two bases and exponent, $xy^2$)
 
 Also remember that $x$ is the same as $x^1$
