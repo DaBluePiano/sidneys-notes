@@ -182,3 +182,33 @@ $3+2\sqrt{ 3 }, 7-\sqrt{ 10 }$ etc.
 A surd that is made of two or more surds
 
 $(3\sqrt{ 2 }-3)(5+3\sqrt{ 2 })$ etc.
+
+# Example Questions
+## Indices A and B
+Example 1. 
+Simplify the following expression, expressing your answer with positive indices only.
+$$\frac{(2x^3 y^{-2})^4 \times (x^{-5} y^6)}{(4x^{-2} y)^3}$$
+**Step 1. Apply the power of a power rule**
+$$\frac{(2x^3 y^{-2})^4 \times (x^{-5} y^6)}{(4x^{-2} y)^3}$$
+Multiply the indices:
+$$\frac{(2^4x^{3\times{4}} y^{-2\times{-4}})\times (x^{-5} y^6)}{(4^3x^{-2\times{3}} y^3)}$$
+Now, this is what the expression simplifies to:
+$$\frac{16x^{12} y^{-8} \times x^{-5} y^6}{64x^{-6} y^3}$$
+**Step 2. Apply the multiplication rule**
+Multiply the numerator so that we can simplify it:
+$$16x^{12} y^{-8} \times x^{-5} y^6 = 16x^{12 + (-5)} y^{-8 + 6} = 16x^7 y^{-2}$$
+Now we put $16x^7y^{-2}$ back into the numerator of the expression:
+$$\frac{16x^7 y^{-2}}{64x^{-6} y^3}$$
+**Step 3. Apply the division rule**
+Subtract the indices when dividing:
+$$\frac{16}{64} \times x^{7 - (-6)} \times y^{-2 - 3}$$
+Simplify every term:
+$$\frac{16}{64} = \frac{1}{4}, \quad x^{7+6} = x^{13}, \quad y^{-5}$$
+Simplified:
+$$\frac{x^{13} y^{-5}}{4}$$
+**Step 4: Express with Positive Indices**
+Rewrite $y^{-5}$ to become $\frac {1}{y^5}$
+Simplified:
+$$\frac{x^{13}}{4y^5}$$
+**Final Answer**
+$$\frac{x^{13}}{4y^5}$$
