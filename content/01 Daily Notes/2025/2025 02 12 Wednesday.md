@@ -56,6 +56,8 @@ Index Law Worksheets
 
 Context of *To Kill A Mockingbird*
 
+[Lesson 5-6: Novel, Author and Reader Context of 'To Kill a Mockingbird'](https://classroom.google.com/c/NzQyMDEwNTQ1NDIx/m/NzM4MDM0NDcxMTg1/details)
+
 ## Period 4
 
 #Year9/PE

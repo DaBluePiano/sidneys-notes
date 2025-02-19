@@ -4,6 +4,8 @@ title: O Mistress Mine Finzi Analysis
 tags:
 ---
 
+# Stanza I
+
 O mistress mine, where are you roaming?
 
 O stay and hear, your true love's coming,
@@ -15,6 +17,8 @@ Trip no further, pretty sweeting.
 Journeys end in lovers meeting,
 
 Every wise man's son doth know.
+
+# Stanza II
 
 What is love? 'Tis not hereafter,
 
