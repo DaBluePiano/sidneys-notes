@@ -1,6 +1,6 @@
 ---
 draft: true
-tags: [Year9/Maths, Year9/ITE, Year9/English, Year9/PE]
+tags: [Year9/Maths, Year9/Electronics, Year9/English, Year9/PE]
 date: "2025-02-12"
 this-week's-piano-lesson: 
 title: 2025 02 12 Wednesday
@@ -46,7 +46,7 @@ Index Law Worksheets
 
 ## Period 2
 
-#Year9/ITE
+#Year9/Electronics
 
 [Classwork, Components Identification](https://classroom.google.com/c/NzM3NDAyOTI0MTQ0/a/NzQ5OTgzNDAxNjU0/details)
 

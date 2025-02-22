@@ -1,6 +1,6 @@
 ---
 draft: true
-tags: [Year9/Music, Year9/Maths, Year9/ITE, Year9/Science, Year9/Sport]
+tags: [Year9/Music, Year9/Maths, Year9/Electronics, Year9/Science, Year9/Sport]
 date: "2025-02-19"
 this-week's-piano-lesson: 
 title: 2025 02 19 Wednesday
@@ -46,7 +46,7 @@ Surd Laws
 
 ## Period 3
 
-#Year9/ITE
+#Year9/Electronics
 
 Assessment Task 1
 
