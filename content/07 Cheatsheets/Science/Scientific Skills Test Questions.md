@@ -1,9 +1,9 @@
 ---
 draft: false
-title: Quartz Template
+title: Scientific Skills Test Questions
 tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
+last_edit_date: Monday, February 24th 2025, 5:47:49 pm
 ---
 > [!question] What type of variable is manipulated by the experimenter?
 > a) Dependent Variable
