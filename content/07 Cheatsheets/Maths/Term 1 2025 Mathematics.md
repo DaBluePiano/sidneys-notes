@@ -3,7 +3,7 @@ draft: false
 title: Term 1 2025 Mathematics
 tags:
 creation_date: Wednesday, February 12th 2025, 8:01:46 pm
-last_edit_date: Monday, February 24th 2025, 11:33:30 am
+last_edit_date: Monday, February 24th 2025, 7:47:45 pm
 ---
 
 Topics Tested on:
@@ -185,6 +185,17 @@ $3+2\sqrt{ 3 }, 7-\sqrt{ 10 }$ etc.
 A surd that is made of two or more surds
 
 $(3\sqrt{ 2 }-3)(5+3\sqrt{ 2 })$ etc.
+
+## Rationalising the Denominator
+
+> [!Note] Conjugate
+> The conjugate = opposite
+
+When we are rationalising the denominator, we are making the denominator rational by means of multiplying by the
+
+## Binomial Expansions with Surds
+
+Binomial Expansions with surds are fundamentally the same as normal Binomial Expansions with algebra.
 
 # Example Questions
 

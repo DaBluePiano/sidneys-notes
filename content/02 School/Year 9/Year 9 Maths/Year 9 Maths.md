@@ -7,8 +7,8 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 %% Begin Waypoint %%
-
 - **[[Area, Surface Area A and Volume A]]**
+- **[[Assessments]]**
 - **[[Data Analysis A]]**
 - **[[Equations A, B and C]]**
 - **[[Indices A, B and C]]**

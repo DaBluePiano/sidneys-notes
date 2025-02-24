@@ -7,7 +7,6 @@ last_edit_date: Monday, February 24th 2025, 5:50:56 pm
 ---
 
 %% Begin Waypoint %%
-
 - **[[Maths]]**
 - **[[Science]]**
 

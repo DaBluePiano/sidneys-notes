@@ -5,7 +5,7 @@ date: "2025-02-19"
 this-week's-piano-lesson: 
 title: 2025 02 19 Wednesday
 creation_date: Wednesday, February 19th 2025, 5:33:30 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
+last_edit_date: Monday, February 24th 2025, 7:05:37 pm
 ---
 
 # [[03 Music]]
@@ -36,7 +36,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 
 #Year9/Music
 
-Characteristics of Jazz
+[[Characteristics of Jazz Music]]
 
 ## Period 2
 

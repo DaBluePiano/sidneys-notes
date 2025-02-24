@@ -8,7 +8,7 @@ last_edit_date: Monday, February 24th 2025, 11:33:30 am
 
 %% Begin Waypoint %%
 
-- **[[Lesson Notes]]**
+- **[[03 Music/Lesson Notes/Lesson Notes]]**
 - **[[Musicianship]]**
 - **[[Piano]]**
 - [[Pieces Timing]]

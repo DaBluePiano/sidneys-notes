@@ -7,8 +7,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:45:50 pm
 ---
 
 %% Begin Waypoint %%
-
-- **[[02 School/Year 8/Year 8]]**
+- **[[Year 8]]**
 - **[[Year 9]]**
 
 %% End Waypoint %%
