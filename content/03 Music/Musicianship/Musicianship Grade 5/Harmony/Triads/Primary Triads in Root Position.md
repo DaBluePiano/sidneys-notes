@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Primary Triads in Root Position
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 > [!Important]
 > The 3 primary triads are 1 (tonic), IV (subdominant), and V (dominant). In a major key, they are all major triads.

@@ -2,6 +2,8 @@
 draft: true
 tags: [SonataK330, ToccataBWV914, RondoCapricciosoOp14]
 title: Music Week 06 2025
+creation_date: Friday, February 7th 2025, 7:29:26 pm
+last_edit_date: Sunday, February 23rd 2025, 7:32:20 pm
 ---
 
 # Piano
@@ -12,33 +14,33 @@ title: Music Week 06 2025
 
 #SonataK330
 
-	1st next lesson
+1st next lesson
 
 ### List B - Bach Toccata in E BWV 914
 
 #ToccataBWV914
 
-	**10** hold
+**10** hold
 
-	**84** bass D 
+**84** bass D
 
-	`Highlighted` note lengths
+<mark style="background: #FFF3A3A6;">Highlighted</mark> note lengths
 
-	Highlight Analysis
+<mark style="background: #FFF3A3A6;">Highlight</mark> Analysis
 
-	Subject Entries etc.
+Subject Entries etc.
 
 ### List C - Mendelssohn Rondo Capriccioso Op 14
 
 #RondoCapricciosoOp14
 
-	Breathing Room
+Breathing Room
 
-	Memory Now
+Memory Now
 
-	Note Lengths
+Note Lengths
 
-	**146** B
+**146** B
 
 ### List D - Debussy 'General Lavine' - Eccentric
 
@@ -47,17 +49,3 @@ title: Music Week 06 2025
 # Musicianship
 
 **#5 and 6** of **31**
-
-# Recorder
-
-## Repetoire
-
-### List A - Allemanda
-
-### List B - Eyck Pavane Lachrymae / Castello Sonata Prima
-
-### List C - Händel Fitzwilliam Sonata in d/ Barsanti Sonata in C
-
-### List D - Arnold Sonatina
-
-## Scales

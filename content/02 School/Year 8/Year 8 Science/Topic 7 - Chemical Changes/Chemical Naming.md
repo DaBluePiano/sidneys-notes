@@ -4,6 +4,8 @@ tags:
 share_link: https://share.note.sx/2dijhvp7
 share_updated: 2024-12-13T22:31:08+11:00
 title: Chemical Naming
+creation_date: Monday, February 3rd 2025, 12:59:30 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 ---
 > [!FAQ] dont stress please :)
 > Please don't stress about the actual contents in this. I honestly just wanted to play around with the notes and also maybe help if the topic was any confusing but its basically the class notes but with a **glowup** hehe 🤣

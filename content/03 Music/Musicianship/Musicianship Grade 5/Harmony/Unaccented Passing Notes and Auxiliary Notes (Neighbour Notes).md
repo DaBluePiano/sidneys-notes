@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Unaccented Passing Notes and Auxiliary Notes (Neighbour Notes)
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 When harmony notes in nany voice are a 3rd apart, an unaccented passing note may be used to link the 2 notes.

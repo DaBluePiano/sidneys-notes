@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Background Notes
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 The Orchestra is made up of four groups of instruments - strings, woodwind, brass and percussion. The string section consists of Violins, divided into firsts and seconds, Violas, Violoncellos and Double Basses. The normal layout of the music for the string section is in four part harmony. The strings can provide the most expressive medium in the whole range of music - and degree of nuance is possible from the softest pianissimo to the most solid forte.

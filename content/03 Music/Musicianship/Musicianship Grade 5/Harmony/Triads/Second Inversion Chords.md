@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Second Inversion Chords
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 Second Inversion Chords are available in chords I, IV and V. A second inversion chord is composed by placing he 5th of the chord in the bass-part and the root and the 3rd of the chord in upper voices.

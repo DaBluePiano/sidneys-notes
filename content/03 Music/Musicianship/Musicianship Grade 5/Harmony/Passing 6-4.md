@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Passing 6-4
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 As its name implies, the chord passes between I and Ib or between IV and IVb. It is built on the passing note between these chord. The passing <sup>6</sup><sub>4</sub> follows a definite pattern of movement.

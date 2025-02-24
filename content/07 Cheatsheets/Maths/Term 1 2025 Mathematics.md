@@ -2,6 +2,8 @@
 draft: false
 title: Term 1 2025 Mathematics
 tags:
+creation_date: Wednesday, February 12th 2025, 8:01:46 pm
+last_edit_date: Monday, February 24th 2025, 11:33:30 am
 ---
 
 Topics Tested on:
@@ -28,26 +30,26 @@ Can I do the following?
 - [ ] Simplify algebraic products and quotients using index laws
 - [ ] Apply index laws to numerical expressions with negative-integer indices
 - [ ] Apply index laws to algebraic expressions involving negative integer indices
-- [ ] Describe Surds
+- [ ] Describe Surds 🆔 mk55sd
 - [ ] Apply knowledge of surds to solve problems
 - [ ] Describe and use fractional indices
 
 # Indices A and B
 
->[!Important] Parts of an expression
+> [!Important] Parts of an expression
 >
->eg. $5x^3+9$
+> eg. $5x^3+9$
 >
->$5$ is the **coefficient**
+> $5$ is the **coefficient**
 >
->$x$ is the **base**
+> $x$ is the **base**
 >
->$3$ is the **power/exponent/index**
+> $3$ is the **power/exponent/index**
 >
->$9$ is the **constant term**
+> $9$ is the **constant term**
 >
 
->[!Warning] Like Terms
+> [!Warning] Like Terms
 >
 > Make sure you know what like terms are
 >

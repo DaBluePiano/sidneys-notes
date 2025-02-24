@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Topic 6 - Digestive System Notes
+creation_date: Monday, February 3rd 2025, 12:59:30 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 ---
 ```table-of-contents
 ```
@@ -260,13 +262,13 @@ The human diet must provide the following:
 
 >
 > [!Experiment] Test for Starch
->Procedure
->1. Label boiling tube A 'starch solution' and boiling tube B 'water'.
->2. Place 2 cm of the starch solution into tube A.
->3. Place 2 cm of water into tube B. This acts as the control.
->4. Add 2-3 drops of iodine solution to each tube.
->5. Swirl each tube.
->6. Record result.
+> Procedure
+> 1. Label boiling tube A 'starch solution' and boiling tube B 'water'.
+> 2. Place 2 cm of the starch solution into tube A.
+> 3. Place 2 cm of water into tube B. This acts as the control.
+> 4. Add 2-3 drops of iodine solution to each tube.
+> 5. Swirl each tube.
+> 6. Record result.
 >
 
 ### 8.2.2 Test for Fat

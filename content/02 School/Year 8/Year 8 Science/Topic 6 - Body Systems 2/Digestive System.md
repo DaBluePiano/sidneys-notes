@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Digestive System
+creation_date: Monday, February 3rd 2025, 12:59:30 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 ---
 
 # 1 The Digestive System

@@ -2,6 +2,8 @@
 draft: false
 title: String Quartet in G Major K387 Analysis
 tags:
+creation_date: Saturday, February 15th 2025, 5:27:13 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 # Outline

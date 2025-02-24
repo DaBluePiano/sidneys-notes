@@ -2,6 +2,8 @@
 draft: false
 title: Frühlingstraum D 911 Schubert Analysis
 tags:
+creation_date: Saturday, February 15th 2025, 1:36:35 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 # Text

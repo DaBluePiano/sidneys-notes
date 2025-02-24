@@ -4,6 +4,8 @@ tags: [Year9/Maths, Year9/Electronics, Year9/English, Year9/PE]
 date: "2025-02-12"
 this-week's-piano-lesson: 
 title: 2025 02 12 Wednesday
+creation_date: Wednesday, February 12th 2025, 9:35:57 am
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 # [[03 Music]]

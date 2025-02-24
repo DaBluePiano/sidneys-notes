@@ -2,6 +2,8 @@
 draft: false
 title: O Mistress Mine Finzi Analysis
 tags:
+creation_date: Saturday, February 15th 2025, 5:14:20 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 # Stanza I

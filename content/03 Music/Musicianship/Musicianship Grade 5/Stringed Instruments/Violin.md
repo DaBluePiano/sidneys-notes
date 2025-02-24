@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Violin
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 The earliest instrument consisted of one piece of wood. Today, the Violin has 84 separate components. The Violin consists of a resonant wooden box which is pierced with two 'f' shaped sound holes. At the lower end is a tailpiece to which are fastened four strings. These are stretched over the bridge (which is placed between the two 'f' holes) and over the finger-board to the four tuning pegs at the upper end of the neck called the scroll. The strings are tightened by the means of tuning pegs - <u>the tighter the tension, the higher the note.</u> The four strings are tuned in perfect fifths. The A string is always tuned first and the others tuned in perfect fifths from it.

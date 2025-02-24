@@ -2,6 +2,8 @@
 draft: true
 tags: 
 title: 05 Other
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Monday, February 24th 2025, 11:33:30 am
 ---
 
 %% Begin Waypoint %%
@@ -21,7 +23,7 @@ title: 05 Other
 - [[PC to Phone Test]]
 - [[Phone to PC test]]
 - [[Snippet]]
-- [[Test]]
+- [[Formatting Test]]
 - [[Vault]]
 - [[Writing Recount 1 Page 127]]
 - [[Writing Recount 2 Page 128]]

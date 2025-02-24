@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Harmony Hints
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 1. **Don't** leap a 7th
 2. **Don't** leap to or from the leading note

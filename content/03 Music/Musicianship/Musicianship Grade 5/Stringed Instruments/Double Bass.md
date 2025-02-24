@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Double Bass
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 The Double Bass is the largest member of the string family. In shape, it is the one that shows most clearly the ancestry of the viol. It is so large that the player must stand, or sit on a high stool to play it. The four strings, which are quite thick and heavy, are tuned in perfect FOURTHS. The notation of the Double Bass, in order to avoid excessive use of leger lines, shows the music an octave higher than it actually sounds.

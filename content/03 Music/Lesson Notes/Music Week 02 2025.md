@@ -2,6 +2,8 @@
 draft: true
 tags: [RondoCapricciosoOp14, SonataK330, GeneralLavine-Eccentric]
 title: Music Week 02 2025
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:32:35 pm
 ---
 
 # Piano
@@ -12,62 +14,48 @@ title: Music Week 02 2025
 
 ### List B - Bach Toccata in E BWV 914
 
-#SonataK330 3rd Movement
+#SonataK330
 
-	***Articulation***
+#### 3rd Movement
 
-	***SLOW***
+***Articulation***
 
-	**110-120**
+***SLOW***
+**110-120**
 
-	**128** B in the Bass
+**128** B in the Bass
 
-#SonataK330 2nd Movement
+#### 2nd Movement
 
-	Don't Rush Ornaments
+Don't Rush Ornaments
 
-	Write in Fingering
+Write in Fingering
 
 ### List C - Mendelssohn Rondo Capriccioso Op 14
 
 #RondoCapricciosoOp14
 
-	Think harmonically and melodically
+Think harmonically and melodically
 
-	**89** BIG and confident, Huge Tenor Melody
+**89** BIG and confident, Huge Tenor Melody
 
-	**107** Rhythm
+**107** Rhythm
 
-	**117** Confidence
+**117** Confidence
+**164-6** Accuracy
 
-	**164-6** Accuracy
-
-	**190** C Natural
+**190** C Natural
 
 ### List D - Debussy 'General Lavine' - Eccentric
 
 #GeneralLavine-Eccentric
 
-	**14/22** RH Takes Over
+**14/22** RH Takes Over
 
-	**48** G Flat RH
+**48** G Flat RH
 
 ## Notes
 
 # Musicianship
 
 Page 31 - Melody Writing
-
-# Recorder
-
-## Repetoire
-
-### List A - Allemanda
-
-### List B - Eyck Pavane Lachrymae / Castello Sonata Prima
-
-### List C - Händel Fitzwilliam Sonata in d/ Barsanti Sonata in C
-
-### List D - Arnold Sonatina
-
-## Scales

@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Science Revision for Magnets Sparks and Electricity
+creation_date: Monday, February 3rd 2025, 12:59:30 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 ---
 
 ---
@@ -19,7 +21,6 @@ title: Science Revision for Magnets Sparks and Electricity
   - Change the shape of an object.
   - Start, stop, or alter the motion of an object.
   - Perform multiple effects at the same time.
-
 - **When a Force Changes Motion**:
   - It can start movement or speed up an object.
   - It can slow down or stop an object.
@@ -114,7 +115,6 @@ These forces act at a distance without physical contact between objects.
 - **Contact Forces**:
   - Require physical contact.
   - Examples: Friction, Tension, Normal Force, Applied Force, Air Resistance.
-
 - **Non-Contact Forces**:
   - Act over a distance without physical contact.
   - Examples: Gravity, Magnetic Force, Electrostatic Force.
@@ -135,7 +135,6 @@ These forces act at a distance without physical contact between objects.
 - **Balanced Forces**:
   - Forces are equal and opposite, causing no change in motion.
   - **Example**: A book resting on a table has balanced forces (gravity and normal force).
-
 - **Unbalanced Forces**:
   - Forces are unequal, causing a change in motion.
   - **Example**: Pushing a ball causes it to roll due to the unbalanced force applied.
@@ -147,11 +146,9 @@ These forces act at a distance without physical contact between objects.
 - **Advantages**:
   - Enables walking without slipping.
   - Allows brakes to stop vehicles.
-
 - **Disadvantages**:
   - Causes machinery wear and tear.
   - Produces unwanted heat in engines.
-
 - **Causes**: Roughness of surfaces and the force pressing them together.
 - **Reducing Friction**: Using lubricants, smoothing surfaces, or adding ball bearings.
 - **Useful Friction**: Writing with a pen, where friction helps it grip the paper.

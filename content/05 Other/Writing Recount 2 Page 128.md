@@ -2,6 +2,8 @@
 draft: true
 title: Writing Recount 2 Page 128
 tags:
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 ---
 
 The idea that you must base your recount on is CELEBRATION. Your recount might be about celebrating something simple and everyday, such as passing a test or turning thirteen. It could be about something more significant such as graduating from university or celebrating an event such as Christmas or Easter.

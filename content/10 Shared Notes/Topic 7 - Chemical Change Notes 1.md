@@ -6,6 +6,8 @@ quickshare-url: https://noteshare.space/note/cm4ndsr0d822601mwp6zq4rdf#XLyZdjdJf
 share_link: https://share.note.sx/mgfg18tc
 share_updated: 2024-12-14T11:17:48+11:00
 title: Topic 7 - Chemical Change Notes 1
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 ---
 ```table-of-contents
 ```

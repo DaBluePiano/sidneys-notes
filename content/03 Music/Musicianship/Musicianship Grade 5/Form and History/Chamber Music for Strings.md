@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Chamber Music for Strings
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 Chamber music originally meant music which was performed in a 'room' rather than a Concert Hall. It is instrumental ensemble music performed by **one player for each part**, as opposed to orchestral music in which there are are several players for each apt. Chamber music can be written for a **Trio (3), Quartet (4), Quintet (5), Sextet (6), Septet (7) or Octet (8)**. String Trios and String Quartets are for stringed instruments only. (Trio - Violin, Viola Cello; Quartet - Violin 1, Violin 2, Viola and Cello). If another instrument is included it is called, for example, Piano Trio (Piano and 2 strings) or Clarinet Quintet (Clarinet and 4 strings). in chamber music the emphasis lies more on the **ensemble** than on the individual players.

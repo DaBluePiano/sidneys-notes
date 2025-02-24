@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Chemical Reactions
+creation_date: Monday, February 3rd 2025, 12:59:30 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 ---
 
 # Reactions
@@ -11,7 +13,6 @@ title: Chemical Reactions
 - The end products have different properties than each of the individual reactants.
 - **Chemical equations** are a way to write out a chemical reaction. They can be written in word form, or in symbol form.
 - **The Law of Conservation of Mass** - states that the total amount of mass is the same before and after a chemical reaction.
-
 - # How do Chemicals React and Combine?
 
 > [!Summary] How do Chemicals React and Combine?

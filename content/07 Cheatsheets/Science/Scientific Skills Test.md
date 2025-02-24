@@ -2,6 +2,8 @@
 draft: false
 title: Scientific Skills Test
 tags:
+creation_date: Tuesday, February 18th 2025, 8:50:27 pm
+last_edit_date: Monday, February 24th 2025, 11:05:54 am
 ---
 
 # Different Types of Variables
@@ -55,6 +57,4 @@ Dependent variables are the ones that are measured or observed in an experiment.
 The primary difference between independent and dependent variables lies in their roles within an experiment. The independent variable is the one that is changed or controlled by the experimenter, while the dependent variable is the one that is measured or observed to see how it is affected by the changes in the independent variable. In other words:
 
 - **Independent Variable:** The cause or input that is manipulated.
-
 - **Dependent Variable:** The effect or output that is measured.
-

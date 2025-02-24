@@ -2,6 +2,8 @@
 draft: false
 title: Elements of Music
 tags:
+creation_date: Monday, February 10th 2025, 7:53:47 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 - **duration** – the lengths of sounds and silences in music
 - **pitch** – the relative highness and lowness of sounds

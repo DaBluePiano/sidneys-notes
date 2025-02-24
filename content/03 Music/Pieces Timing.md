@@ -1,35 +1,7 @@
 ---
-draft: false
-tags:
+draft: true
+tags: 
 title: Pieces Timing
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Monday, February 24th 2025, 9:39:44 am
 ---
-
-Toccata
-
-I. No Tempo: 00:37
-
-II. Un Poco Allegro: 01:08
-
-III. Adagio: 02:21
-
-IV. Fuga: 02:32
-
-~6:30
-
-Mozart
-
-I. Allegro: 04:04
-
-II. Andante: 03:18
-
-III. Allegro: 03:27
-
-~11
-
-Chopin
-
-~5:45
-
-Lutoslawski
-
-~6

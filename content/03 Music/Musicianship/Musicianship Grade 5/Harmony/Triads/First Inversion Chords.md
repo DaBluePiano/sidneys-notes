@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: First Inversion Chords
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 A first inversion chord is composed by placing the **root** of the chord in an upper voice and the 3rd of the root position chord then becomes the **bass** note.

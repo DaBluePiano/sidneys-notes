@@ -2,6 +2,8 @@
 draft: true
 title: Writing Test 2 Page 154
 tags:
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 ---
 
 The soft hum of my laptop had been mny constant compaion for the past three hours, a stady background noise as I pounded away at the keyboard. The assignment was due at midnight, and I had finally reached the last paragraph. Relief washed over me as I reread my work, a sense of accomplishment settling in. Just a few more sentences, a quick proofread, and I could submit it.

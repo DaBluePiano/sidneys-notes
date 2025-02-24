@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Violoncello or Cello
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 The Cello is a much larger instrument than the Violin, midway in size between the Viola and the Double Bass. It might be considered the baritone of the string section. The instrument is rested on the floor on a metal peg and the player sits to play, holding the Cello between his knees. The metal peg, or spike, slides up inside the instrument when not in use. Th development of Cello playing has followed a similar path to that of Violin playing. Among famous cellists who have contributed to it are Duport, Romberg, Servais, Piatti and Popper.

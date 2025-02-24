@@ -2,6 +2,8 @@
 draft: false
 tags:
 title: Art Songs by British Composers
+creation_date: Monday, February 3rd 2025, 12:59:31 pm
+last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 The composition of an Art Song requires the skill of reconciling the differences between verbal and musical principles in such a way that voice and accompaniment combine to form an organic musical form and a poetic whole. In England, a renewed interest in Art Song marked the final years of the 19th Century and the early years of the Century, such song being patterned for the most part on the German *Lied*, and bearing the influence of the English composers, Parry and Stanford, as well as the work of the Edwardian and Georgian poets.
