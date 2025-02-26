@@ -5,30 +5,8 @@ date: "2025-02-12"
 this-week's-piano-lesson: 
 title: 2025 02 12 Wednesday
 creation_date: Wednesday, February 12th 2025, 9:35:57 am
-last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
+last_edit_date: Wednesday, February 26th 2025, 6:17:27 pm
 ---
-
-# [[03 Music]]
-
-## Piano
-
-### Practical
-
-#### Exercises
-
-#### List A - Mozart Sonata in C K330
-
-#### List B - Bach Toccata in E BWV 914
-
-#### List C - Chopin Nocturne in B Op 9 No 2 / Mendelssohn Rondo Capriccioso Op 14
-
-#### List D - Lutoslawski Bukoliki / Debussy 'General Lavine' - Eccentric
-
-#### Extra List
-
-### Musicianship
-
-### Notes
 
 # [[02 School]]
 

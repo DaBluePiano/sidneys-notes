@@ -1,6 +1,6 @@
 ---
 sources:
-  - "[[Term 1 2025 Mathematics]]"
+  - "[[Term 1 2025 Mathematics Exam]]"
 title: Quiz 3
 creation_date: Monday, February 24th 2025, 5:41:14 pm
 last_edit_date: Monday, February 24th 2025, 5:42:27 pm

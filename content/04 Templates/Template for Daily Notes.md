@@ -5,30 +5,8 @@ date: "{{date:YYYY-MM-DD}}"
 this-week's-piano-lesson: 
 title: Template for Daily Notes
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
+last_edit_date: Wednesday, February 26th 2025, 6:18:18 pm
 ---
-
-# [[03 Music]]
-
-## Piano
-
-### Practical
-
-#### Exercises
-
-#### List A - Mozart Sonata in C K330
-
-#### List B - Bach Toccata in E BWV 914
-
-#### List C - Chopin Nocturne in B Op 9 No 2 / Mendelssohn Rondo Capriccioso Op 14
-
-#### List D - Lutoslawski Bukoliki / Debussy 'General Lavine' - Eccentric
-
-#### Extra List
-
-### Musicianship
-
-### Notes
 
 # [[02 School]]
 

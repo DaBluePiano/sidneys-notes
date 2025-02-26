@@ -3,10 +3,11 @@ draft: true
 tags:
 title: 08 Attachments
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
+last_edit_date: Tuesday, February 25th 2025, 7:37:45 am
 ---
 
 %% Begin Waypoint %%
+
 - [[8S notes (3).pdf]]
 - [[8S notes (4).pdf]]
 - [[8S notes (5).pdf]]
