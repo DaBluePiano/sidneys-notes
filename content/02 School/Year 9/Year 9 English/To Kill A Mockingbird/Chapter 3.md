@@ -3,7 +3,7 @@ draft: false
 title: Chapter 3
 tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Monday, February 24th 2025, 8:21:11 pm
+last_edit_date: Friday, February 28th 2025, 11:37:54 am
 ---
 
 # Summary of Chapter 3

@@ -3,7 +3,7 @@ sources:
   - "[[Term 1 2025 Mathematics Exam]]"
 title: Quiz 3
 creation_date: Monday, February 24th 2025, 5:41:14 pm
-last_edit_date: Monday, February 24th 2025, 5:42:27 pm
+last_edit_date: Thursday, February 27th 2025, 9:46:53 am
 ---
 > [!question] What is the simplified form of $a^5 \times a^2$?
 > a) $a^7$

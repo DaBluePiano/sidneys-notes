@@ -5,7 +5,7 @@ share_link: https://share.note.sx/be5dx9ci
 share_updated: 2024-12-13T21:02:30+11:00
 title: Formatting Test
 creation_date: Monday, February 3rd 2025, 12:59:29 pm
-last_edit_date: Sunday, February 23rd 2025, 8:03:08 pm
+last_edit_date: Thursday, February 27th 2025, 12:26:48 pm
 ---
 
 # 1 H1
@@ -77,3 +77,5 @@ Highlights:
 $Inline LaTeX\space \lim_{x\to 0}\frac{\sin x}{x}\stackrel{\text{H}}{=}\frac{\cos x}{1}=1$
 
 $$Outline Latex \lim_{x\to 0}\frac{\sin x}{x}\stackrel{\text{H}}{=}\frac{\cos x}{1}=1$$
+
+$$\frac{4}{\sqrt{ 6 }}-\frac{1}{2\sqrt{ 3 }}$$

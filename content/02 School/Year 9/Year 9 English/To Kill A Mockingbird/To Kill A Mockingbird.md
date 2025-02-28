@@ -6,10 +6,9 @@ last_edit_date: Wednesday, February 26th 2025, 6:02:28 pm
 ---
 
 %% Begin Waypoint %%
-
 - [[Chapter 1-2]]
 - [[Chapter 3]]
-- [[Chapter-By-Chapter Summary]]
+- [[TKAM Summary]]
 - [[To Kill A Mockingbird, Harper Lee.pdf]]
 
 %% End Waypoint %%

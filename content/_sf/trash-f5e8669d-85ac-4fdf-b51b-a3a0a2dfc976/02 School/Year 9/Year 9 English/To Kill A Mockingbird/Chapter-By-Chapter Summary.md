@@ -3,7 +3,7 @@ draft: false
 title: Chapter-By-Chapter Summary
 tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Wednesday, February 26th 2025, 4:33:32 pm
+last_edit_date: Friday, February 28th 2025, 8:46:43 pm
 ---
 
 # Summary
@@ -47,3 +47,13 @@ Jem and Scout’s genuine attempts to ensure that they’re not stealing from on
 Dill arrives two days later on the train. He announces that he rode the train, helped the engineer, and that he met his father over the school year. The children squabble over what to play and Dill sniffs, declaring he can smell death at the Radley Place. They argue over whether Hot Steams are real and Scout insults Jem’s courage. Scout suggests they roll in the tire, which Jem and Dill agree to. Scout goes first and folds herself into the tire. She only realizes once Jem pushes her with all his might that Jem was offended by her insult. As the tire rolls, Scout feels like she’s suffocating. She crashes and finds herself on her back in the Radley front yard. Jem screams at her to run.
 
 Scout runs on wobbly legs back to Jem and Dill and then argues with Jem about who should get the tire. Jem is furious, but he dashes in to get the tire and insults Scout for acting too much like a girl. Calpurnia calls them in for lemonade and as they sit on the porch, Jem announces expansively that they can play Boo Radley. Scout knows this is supposed to make him look fearless and her look scared. He doles out parts (Scout is Mrs. Radley, Dill is old Mr. Radley, and Jem is Boo) and chastises Scout for being scared of Boo, whom he insists is dead. Their game evolves over the summer and though Jem and Dill love it, Scout plays anxiously.
+
+## Chapter 5
+
+Scout nags Jem about their game and they stop playing it so much, though Jem does decide that if Atticus tells them to stop playing it, they can just change the characters’ names and it’ll be okay. Dill agrees with Jem and frustratingly for Scout, the boys spend most of their time plotting in the tree house without her. This is especially frustrating since Dill asked Scout to marry him early in the summer and then seemed to forget about her. Scout starts spending time with Miss Maudie, who up to this point has only been a benign presence in her life. Scout and Jem have always been allowed to play on Miss Maudie’s property and eat her grapes, so they don’t speak to her much to preserve their relationship.
+
+Miss Maudie is a widow who hates her house. She spends her day gardening and her evenings dressed beautifully. She tells Scout that nut-grass is the only weed she ever kills and allows Scout to inspect her bridgework (fake teeth), a gesture that makes them friends. Miss Maudie is kind to Jem and Dill, too, and she calls them to eat her exceptional cakes. Scout spends evenings on Miss Maudie’s porch, and one day they discuss whether Boo Radley is alive. Miss Maudie tells Scout that his name is Arthur and he’s not dead—they haven’t carried his body out yet. Scout shares that Jem thinks Boo’s body was stuffed up the chimney, which makes Miss Maudie declare that Jem is turning into Uncle Jack, a childhood friend.
+
+Miss Maudie explains that Arthur just stays in the house. Scout wants to know why, so Miss Maudie explains that Mr. Radley was a “foot-washing Baptist.” This confuses Scout. Miss Maudie says that foot-washers think anything pleasurable is a sin, including her flowers—they take the Bible literally. Scout parrots that according to Atticus, God means loving people like a person loves themself, but Miss Maudie gruffly says that the Bible in the hands of some men is worse than a whiskey bottle in Atticus’s hands. Shocked, Scout insists that Atticus doesn’t drink, and Miss Maudie says that men like Atticus are better at their worst than others are at their best.
+
+Scout tells Miss Maudie about the rumors surrounding Boo, but Miss Maudie insists they all came from black superstitions and Miss Stephanie Crawford. She says that as a boy, Arthur always spoke kindly to her, but she has no idea what goes on behind closed doors. This again offends Scout, as Atticus treats her well inside, but Miss Maudie agrees with her and sends her home with pound cake.
