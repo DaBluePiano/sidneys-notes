@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: jirop-zvf6s
-created: 2024-12-26T11:14:35+11:00
