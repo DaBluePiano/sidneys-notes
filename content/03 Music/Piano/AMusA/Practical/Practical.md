@@ -3,7 +3,11 @@ draft: true
 tags: 
 title: Practical
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
+last_edit_date: Sunday, March 2nd 2025, 2:38:33 pm
 ---
 
-% Waypoint %%
+%% Begin Waypoint %%
+- [[AMusA Program NO MARKINGS.pdf]]
+- [[AMusA Program PERFORMANCE MARKING.pdf]]
+
+%% End Waypoint %%

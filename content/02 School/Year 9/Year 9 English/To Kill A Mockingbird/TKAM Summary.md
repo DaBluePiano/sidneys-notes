@@ -3,7 +3,7 @@ draft: false
 title: TKAM Summary
 tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Friday, February 28th 2025, 9:06:00 pm
+last_edit_date: Sunday, March 2nd 2025, 8:49:33 am
 ---
 
 # To Kill a Mockingbird
@@ -134,6 +134,8 @@ Jem notices Miss Maudie’s dirty and bloody hands. He suggests she hire a black
 
 ## Chapter 9
 
+## Summary
+
 Things began to get difficult for Scout. Atticus forbids Scout from fighting, but Cecil Jacobs makes her forget this when he announces to their class that Atticus defends black people. Scout denies it and later, asks Atticus if he “defends niggers.” Atticus admits that he does but cautions Scout to not talk that way, as it’s common. Scout points out that everyone at school talks that way, yet another bid to convince Atticus to not send her to school. He looks vaguely amused. Scout asks if all lawyers defend black people and points out that Cecil made it sound bad.
 
 With a sigh, Atticus says he’s defending a black man named Tom Robinson, and some believe that he shouldn’t defend Tom. Scout asks why he took the case then, and Atticus insists that he had to in order to hold his head up and maintain the moral high ground. He tells Scout that she might hear nasty things about it at school and encourages her to not fight. Scout asks if he’ll win the case. Atticus says he won’t, but that it’s important to fight anyway. He pulls Scout onto his lap and says that they’re “fighting friends.” She remembers this when she tells Cecil to take his taunt back the next day. He refuses. Scout punches him and then walks away, feeling as though she has to obey Atticus since he rarely asks for anything like this.
@@ -149,6 +151,8 @@ Scout admits that she and Dill are engaged, which makes Francis laugh—accordin
 At home, Scout locks herself in her room and tries to keep Uncle Jack from coming in to talk to her. Scout accuses him of not understanding children and of not being fair and asks to tell her side. She explains that Atticus always listens to her and to Jem when they fight, and that Jack told her she could use bad words when provoked. She shares what Francis said and knows that Francis is in trouble by the look on Uncle Jack’s face. She begs him to let it go, since Atticus made her promise to not fight over this sort of thing. He agrees and then bandages her hand. Scout asks what a “whore-lady” is. Uncle Jack tells her a story about a silly Prime Minister, which Scout thinks makes no sense.
 
 Later, when Scout gets up for water, she stops in the hallway and listens to Uncle Jack tell Atticus that he’ll never have children after Scout’s dressing down earlier. He doesn’t betray his promise to Scout but tells Atticus about dodging Scout’s question of what a “whore-lady” was. Atticus tells Uncle Jack to tell children the truth. He muses that Scout will go through a lot in the next few months and needs to learn to not beat people up. Jack asks about the case. Atticus says that it’s a case of he-said, she-said, and the Ewells are involved—but John Taylor told him to take it, and he won’t be able to face his children if he doesn’t. He hopes that they come to him with questions and don’t catch Maycomb’s “usual disease.” Atticus sends Scout back to bed. Years later, she realizes that he wanted her to eavesdrop.
+
+### Quotes
 
 # Footnotes/Citations
 

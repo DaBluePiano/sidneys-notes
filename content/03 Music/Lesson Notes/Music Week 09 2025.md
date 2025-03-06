@@ -3,7 +3,7 @@ draft: true
 tags: [SonataK330, ToccataBWV914]
 title: Music Week 09 2025
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, February 23rd 2025, 7:33:23 pm
+last_edit_date: Saturday, March 1st 2025, 12:27:23 pm
 ---
 
 # Piano
@@ -41,6 +41,16 @@ too many accents **25/27/28/45/81**
 Memory
 
 **54** soft LH
+
+#SonataK330
+
+#### 1st Movement
+
+Trill connect with LH
+
+#### 2nd Movement
+
+Count carefully in 1st bar
 
 ### List B - Bach Toccata in E BWV 914
 

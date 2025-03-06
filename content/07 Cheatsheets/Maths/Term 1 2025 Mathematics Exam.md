@@ -3,7 +3,7 @@ draft: false
 title: Term 1 2025 Mathematics Exam
 tags:
 creation_date: Wednesday, February 12th 2025, 8:01:46 pm
-last_edit_date: Wednesday, February 26th 2025, 8:02:14 pm
+last_edit_date: Monday, March 3rd 2025, 9:12:31 pm
 ---
 
 Topics Tested on:
@@ -279,3 +279,5 @@ $$\frac{x^{13}}{4y^5}$$
 **Final Answer**
 
 $$\frac{x^{13}}{4y^5}$$
+
+## Indices C

@@ -4,7 +4,7 @@ tags:
 list: 
 title: Toccata BWV 914 - Johann Sebastian Bach
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
+last_edit_date: Sunday, March 2nd 2025, 9:20:43 pm
 ---
 
 # Composer
@@ -76,25 +76,16 @@ The BWV number identifies the piece.
 
 Music from the late Baroque period (c. 1600-c.1750) is often elaborate and complex. Characteristics of Bach's compositions include:
 
-• counterpoint (two or more equally important voices heard simultaneously).
-
-• ornamentation and embellishment (e.g. trills), particularly at cadence points.
-
-• imitation between the voices.
-
-• many sequences, sometimes based on "circle of 5ths" harmonic progressions.
-
-• modulations to closely related keys (typically up or down a 5th).
-
-• monothematic form (one main theme per movement).
-
-• long phrases.
-
-• steady rhythmic pulse.
-
-• hemiola rhythm before some important cadence points.
-
-• tierce de Picardie endings for works in minor keys.
+-  counterpoint (two or more equally important voices heard simultaneously).
+-  ornamentation and embellishment (e.g. trills), particularly at cadence points.
+-  imitation between the voices.
+-  many sequences, sometimes based on "circle of 5ths" harmonic progressions.
+-  modulations to closely related keys (typically up or down a 5th).
+-  monothematic form (one main theme per movement).
+-  long phrases.
+-  steady rhythmic pulse.
+-  hemiola rhythm before some important cadence points.
+-  tierce de Picardie endings for works in minor keys.
 
 # Piece
 
@@ -112,7 +103,7 @@ The opening movement has the character of an improvisation, with a through-compo
 
 1-3
 
-> The opening statement establishes the key of E minor. Each bar begins with tonic harmony, approached by dominant 7th harmony at the ends of bar 1 and 2. The left hand embellishes a tonic pedal with a lower neighbour note and an octave leap.
+> The opening statement establishes the key of **E minor**. Each bar begins with tonic harmony, approached by dominant 7th harmony at the ends of bar 1 and 2. The left hand embellishes a tonic pedal with a lower neighbour note and an octave leap.
 
 > The answering right hand figure forms the main melodic motive of the movement, imitating then extending the left hand's lower neighbour note group. It contains a falling 4th and rising 3rd, but othervvise moves by step, beginning and ending with a lower neighbour note group (B-A-B and G-F#-G).
 
@@ -130,29 +121,29 @@ This movement is a double fugue in four voices. The two subjects are introduced 
 
 14-16
 
-> Subject 1 is introduced by the tenor, in counterpoint with Subject 2 in the alto, in E minor. Both themes begin on the dominant note. Subject 1 contains a distinctive rhythm and some wide leaps (falling 5th and rising 8ve), ending on the tonic note at the start of b.3. Subject 2 moves entirely by step, often using a `quaver semiquaver x2` rhythmic motive. The longer notes often form suspensions (e.g. 1st beat of b. 15)
+> Subject 1 is introduced by the tenor, in counterpoint with Subject 2 in the alto, in **E minor**. Both themes begin on the dominant note. Subject 1 contains a distinctive rhythm and some wide leaps (falling 5th and rising 8ve), ending on the tonic note at the start of b.3. Subject 2 moves entirely by step, often using a `quaver semiquaver x2` rhythmic motive. The longer notes often form suspensions (e.g. 1st beat of b. 15)
 
-> The short codetta in b.16 modulates to B minor, using a transposition of part of Subject 1 (originally heard at the end of b.14 and start of b.15).
+> The short codetta in b.16 modulates to **B minor**, using a transposition of part of Subject 1 (originally heard at the end of b.14 and start of b.15).
 
 16-18
 
-> Subject 1 is restated by the bass (beginning on the last beat of b.16) in B minor (the dominant key), with Subject 2 in the soprano and free counterpoint in the other voices. This passage forms a "real answer", since both subjects have been transposed without alteration into the dominant key.
+> Subject 1 is restated by the bass (beginning on the last beat of b.16) in **B minor** (the dominant key), with Subject 2 in the soprano and free counterpoint in the other voices. This passage forms a "real answer", since both subjects have been transposed without alteration into the dominant key.
 
 19-22
 
-> Episode 1, in three voices (the tenor is absent). The upper voices are in dialogue. The bass contains rising semitones in b.19, then outlines a circle of 5ths progression in b.20-21 (E-A-D-G), bringing passing hints of A minor and G major. Bar 22 returns to E minor, with rhythmic motives from both subjects heard in the upper voices.
+> Episode 1, in three voices (the tenor is absent). The upper voices are in dialogue. The bass contains rising semitones in b.19, then outlines a circle of 5ths progression in b.20-21 (E-A-D-G), bringing passing hints of **A minor** and **G major**. Bar 22 returns to E minor, with rhythmic motives from both subjects heard in the upper voices.
 
 23-25
 
-> Subject 1 returns in the soprano in E minor, with Subject 2 in the tenor and free counterpoint in the other voices.
+> Subject 1 returns in the soprano in **E minor**, with Subject 2 in the tenor and free counterpoint in the other voices.
 
 25-27
 
-> Subject 1 returns in the alto in A minor (the subdominant key), with Subject 2 in the soprano and free counterpoint in the other voices.
+> Subject 1 returns in the alto in **A minor** (the subdominant key), with Subject 2 in the soprano and free counterpoint in the other voices.
 
 27-28
 
-> Episode 2, in three voices (the bass is absent), returning to E minor. The upper voices are in dialogue in b.27, using a semiquaver motive from b.19, above broken octaves in the tenor. Bar 28 contains rhythmic or melodic motives from both subjects.
+> Episode 2, in three voices (the bass is absent), returning to **E minor**. The upper voices are in dialogue in b.27, using a semiquaver motive from b.19, above broken octaves in the tenor. Bar 28 contains rhythmic or melodic motives from both subjects.
 
 29-30
 
@@ -164,7 +155,7 @@ This movement is a double fugue in four voices. The two subjects are introduced 
 
 33-35
 
-> Subject 1 returns in the soprano (beginning at the end of b.33) in B minor, with Subject 2 in the tenor and free counterpoint in the other voices.
+> Subject 1 returns in the soprano (beginning at the end of b.33) in **B minor**, with Subject 2 in the tenor and free counterpoint in the other voices.
 
 35-37
 
@@ -172,11 +163,11 @@ This movement is a double fugue in four voices. The two subjects are introduced 
 
 37-39
 
-> Subject 1 returns in the alto in E minor, with Subject 2 in the soprano. The lower voices are mostly absent.
+> Subject 1 returns in the alto in **E minor**, with Subject 2 in the soprano. The lower voices are mostly absent.
 
 38-41
 
-> Subject 1 partially returns in the bass in E minor, slightly overlapping the previous alto entry, with Subject 2 in the tenor. There is another strong dominant-tonic movement in the bass in b.39-41, but the full arrival of the tonic chord (including tierce de Picardie) is not heard until b.41.
+> Subject 1 partially returns in the bass in **E minor**, slightly overlapping the previous alto entry, with Subject 2 in the tenor. There is another strong dominant-tonic movement in the bass in b.39-41, but the full arrival of the tonic chord (including tierce de Picardie) is not heard until b.41.
 
 *Un poco Allegro* means moderately fast
 
@@ -186,19 +177,19 @@ This lyrical movement has the character of an improvisation, with a through-comp
 
 42-49
 
-> The movement begins with a languid arpeggiation of the tonic chord of E minor in semiquavers. Some of the notes are approached by their lower neighbours (F#-G, D#-E).
+> The movement begins with a languid arpeggiation of the tonic chord of **E minor** in semiquavers. Some of the notes are approached by their lower neighbours (F#-G, D#-E).
 
-> The arpeggiation continues as a single voice in b.43. By the end of this bar, the tonic chord of E minor has become the dominant 7th of A minor.
+> The arpeggiation continues as a single voice in b.43. By the end of this bar, the tonic chord of **E minor** has become the dominant 7th of **A minor**.
 
-> Bar 44 begins as a transposition of b.42 up a 4th to A minor (the subdominant key), followed by further arpeggiation and some scale flourishes, with demisemiquaver rhythm introduced in b.45-46. There is a dominant pedal in the bass throughout much of this passage. Imitative dialogue between the right hand voices in b.47 leads to an arpeggiation of the dominant chord of A minor in b.48, somewhat recalling b.12.
+> Bar 44 begins as a transposition of b.42 up a 4th to **A minor** (the subdominant key), followed by further arpeggiation and some scale flourishes, with demisemiquaver rhythm introduced in b.45-46. There is a dominant pedal in the bass throughout much of this passage. Imitative dialogue between the right hand voices in b.47 leads to an arpeggiation of the dominant chord of **A minor** in b.48, somewhat recalling b.12.
 
 49-50
 
-> A rhapsodic interlude, briefly moving into B minor (the dominant key), using a diminished 7th in tremolo texture in b.49, and a first inversion tonic chord in b.50, embellished with a rapid descending scale flourish.
+> A rhapsodic interlude, briefly moving into **B minor** (the dominant key), using a diminished 7th in tremolo texture in b.49, and a first inversion tonic chord in b.50, embellished with a rapid descending scale flourish.
 
 51-54
 
-> The opening theme is restated in E minor, with some harmonic variation (becoming VI7 in the second half of b.51). The rhythm becomes more florid again in b.52-53, leading to an arpeggiation of the dominant chord at the end of b.53.
+> The opening theme is restated in **E minor**, with some harmonic variation (becoming VI7 in the second half of b.51). The rhythm becomes more florid again in b.52-53, leading to an arpeggiation of the dominant chord at the end of b.53.
 
 54-60
 
