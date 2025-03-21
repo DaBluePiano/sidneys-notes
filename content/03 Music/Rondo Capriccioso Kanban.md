@@ -1,26 +1,15 @@
 ---
+
 draft: false
-tags:
-
+tags: 
 kanban-plugin: board
-
 title: Rondo Capriccioso Kanban
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
+last_edit_date: Monday, March 10th 2025, 7:49:58 pm
+
 ---
 
 # Sections
-
-- [ ] 1-10/2
-- [ ] 10/3-17
-- [ ] 18-26
-- [ ] 27-39/3
-- [ ] 39/4-46
-- [ ] 47-51/3
-- [ ] 51/4-66/3
-- [ ] 66/4-81
-- [ ] 82-96
-- [ ] 97-101/1
 
 # Sight Read
 
@@ -31,6 +20,17 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 # Check
 
 # Done
+
+- [ ] 97-101/1
+- [ ] 82-96
+- [ ] 66/4-81
+- [ ] 51/4-66/3
+- [ ] 47-51/3
+- [ ] 39/4-46
+- [ ] 27-39/3
+- [ ] 18-26
+- [ ] 10/3-17
+- [ ] 1-10/2
 
 %% kanban:settings
 

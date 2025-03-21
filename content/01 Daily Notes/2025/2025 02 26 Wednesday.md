@@ -1,6 +1,6 @@
 ---
 draft: true
-tags: [Year9/Maths, Year9/ITE, Year9/English, Year9/PE, Year9/Sport]
+tags: [Year9/Maths, Year9/Electronics, Year9/English, Year9/PE, Year9/Sport]
 date: "2025-02-26"
 this-week's-piano-lesson: 
 title: 2025 02 26 Wednesday
@@ -26,7 +26,7 @@ last_edit_date: Wednesday, February 26th 2025, 7:06:36 pm
 
 ## Period 2
 
-#Year9/ITE
+#Year9/Electronics
 
 Given out Electronics Kits
 

@@ -3,7 +3,7 @@ draft: false
 title: Term 1 2025 Mathematics Exam
 tags:
 creation_date: Wednesday, February 12th 2025, 8:01:46 pm
-last_edit_date: Monday, March 3rd 2025, 9:12:31 pm
+last_edit_date: Friday, March 7th 2025, 4:13:59 pm
 ---
 
 Topics Tested on:
@@ -281,3 +281,15 @@ $$\frac{x^{13}}{4y^5}$$
 $$\frac{x^{13}}{4y^5}$$
 
 ## Indices C
+
+Rationalise the denominator and fully simplify
+
+$$\frac{2\sqrt{ 3 }+9\sqrt{ 5 }}{\sqrt{ 3 }}$$
+
+**Step 1: Multiply by the *conjugate* or the denominator if it is a single term**
+
+$$\frac{2\sqrt{ 3 }+9\sqrt{ 5 }}{\sqrt{ 3 }}\times \frac{\sqrt{ 3 }}{\sqrt{ 3 }}=\frac{2\sqrt{ 9 }+9\sqrt{ 15 }}{\sqrt{ 9 }}$$
+
+**Step 2: Simplify surds**
+
+$$\frac{2\times{9}+9\sqrt{ 15 }}{3}$$

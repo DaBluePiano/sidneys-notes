@@ -7,7 +7,6 @@ last_edit_date: Tuesday, February 25th 2025, 7:37:45 am
 ---
 
 %% Begin Waypoint %%
-
 - [[8S notes (3).pdf]]
 - [[8S notes (4).pdf]]
 - [[8S notes (5).pdf]]
@@ -44,6 +43,7 @@ last_edit_date: Tuesday, February 25th 2025, 7:37:45 am
 - [[Pasted image 20250215182849.png]]
 - [[Pasted image 20250215203510.png]]
 - [[Pasted image 20250224184110.png]]
+- [[Pasted image 20250307070320.png]]
 - [[PowerToys_Paste_20241214191244.png]]
 - [[Yearly Assessment Notes Math.pdf]]
 - [[Yearly Assessment Notes.pdf]]
