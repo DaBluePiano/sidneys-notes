@@ -8,5 +8,6 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 
 %% Begin Waypoint %%
 - [[Sidney Lam - Year 9 STEM Task 1 2025.pdf]]
+- [[STEM Task 1 - Folio.pdf]]
 
 %% End Waypoint %%
