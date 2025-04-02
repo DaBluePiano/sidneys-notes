@@ -6,8 +6,8 @@ last_edit_date: Thursday, February 27th 2025, 9:46:53 am
 ---
 
 %% Begin Waypoint %%
-
 - [[Quiz 1]]
+- [[Quiz 2]]
 - [[Quiz 3]]
 
 %% End Waypoint %%

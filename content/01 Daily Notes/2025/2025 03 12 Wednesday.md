@@ -5,7 +5,7 @@ date: "2025-03-12"
 this-week's-piano-lesson: 
 title: 2025 03 12 Wednesday
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Wednesday, March 12th 2025, 9:30:07 pm
+last_edit_date: Tuesday, March 25th 2025, 7:11:28 pm
 ---
 
 # [[02 School]]
@@ -21,6 +21,8 @@ NAPLAN
 ## Period 3
 
 #Year9/English
+
+[Lesson 20-24: Reading 'To Kill a Mockingbird'](https://classroom.google.com/c/NzQyMDEwNTQ1NDIx/m/NzU4NTA4MTIxMTYw/details)
 
 ## Period 4
 
