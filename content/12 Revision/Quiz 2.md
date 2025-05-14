@@ -89,4 +89,3 @@ c) Piano
 **Fill in the Blank:** Fill in the blanks to complete the timeline of Mendelssohn's life: Born in `____` in `____`, conducted the first performance of Bach's St. Matthew Passion in `____`, died in `____` in `____`. :: Hamburg, 1809, 1829, Leipzig, 1847
 
 **Short Answer:** Name two English cities that Mendelssohn visited and mention the relevance of England to his career during the 1830's. :: Mendelssohn toured extensively in England during the 1830s, receiving a warm reception. He was a favorite of Queen Victoria.  The text does not specify two English cities.
-

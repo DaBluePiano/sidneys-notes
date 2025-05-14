@@ -8,9 +8,6 @@ share_link: https://share.note.sx/uz1266dn#vAjdthmTRqkOznbiVrJOqO9r7702kqxi8Xv67
 share_updated: 2025-05-12T20:40:08+10:00
 ---
 
-```table-of-contents
-```
-
 # The Atom and Nuclear Chemistry
 
 ## Parts of an Atom
