@@ -45,7 +45,7 @@ const config: QuartzConfig = {
         
         // Effects
         highlight: "rgba(107, 140, 255, 0.15)",  // Subtle blue overlay
-        textHighlight: "#EDE9FC", // Pale lavender highlight background
+        textHighlight: "#FF9FEF", // Pale lavender highlight background
       },
       darkMode: {
         // Base Layer
@@ -63,7 +63,7 @@ const config: QuartzConfig = {
         
         // Effects
         highlight: "rgba(107, 140, 255, 0.2)",  // Enhanced blue overlay
-        textHighlight: "#2D2735", // Subtle purple-gray text bg
+        textHighlight: "#5D2A8C", // Subtle purple-gray text bg
       },
     },
     },
