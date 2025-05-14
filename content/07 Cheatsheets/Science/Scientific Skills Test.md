@@ -1,9 +1,9 @@
 ---
 draft: false
 title: Scientific Skills Test
-tags:
+tags: 
 creation_date: Tuesday, February 18th 2025, 8:50:27 pm
-last_edit_date: Monday, February 24th 2025, 11:05:54 am
+last_edit_date: Saturday, April 12th 2025, 2:58:27 pm
 ---
 
 # Different Types of Variables

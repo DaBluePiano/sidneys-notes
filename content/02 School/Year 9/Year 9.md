@@ -11,7 +11,9 @@ last_edit_date: Monday, March 24th 2025, 2:16:01 pm
 - **[[Organisation]]**
 - **[[Year 9 Electronics]]**
 - **[[Year 9 English]]**
-- **[[Year 9 HSIE]]**
+- **Year 9 HSIE**
+	- **[[Movement of Peoples]]**
+	- **[[World War I]]**
 - **[[Year 9 Maths]]**
 - **[[Year 9 Music]]**
 - **[[Year 9 PDHPE]]**

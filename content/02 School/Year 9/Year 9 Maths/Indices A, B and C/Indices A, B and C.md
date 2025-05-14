@@ -8,7 +8,7 @@ last_edit_date: Tuesday, February 25th 2025, 7:37:47 am
 %% Begin Waypoint %%
 
 - [[2025 YR 9 PATH LESSON OUTLINE INDICES A-C (MATHSPACE) (1).pdf]]
-- **[[Lesson Notes]]**
+- **[[02 School/Year 9/Year 9 Maths/Indices A, B and C/Lesson Notes/Lesson Notes]]**
 - [[ORIGINAL YR 9 INDICES A-C CUSTOM TASKS  BOOKLET REDUCED.pdf]]
 - [[YR 9 INDICES A-C CUSTOM TAKS BOOKLET.pdf]]
 

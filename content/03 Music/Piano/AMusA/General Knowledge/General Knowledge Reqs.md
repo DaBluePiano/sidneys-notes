@@ -1,9 +1,11 @@
 ---
 draft: false
-tags:
+tags: 
 title: General Knowledge Reqs
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Tuesday, March 4th 2025, 9:11:27 pm
+last_edit_date: Friday, April 18th 2025, 11:22:32 pm
+share_link: https://share.note.sx/qdu3fiib#f6/6eH1JmVdawsCGD3O28EAK+tjD2QdpSdnBvNW0g70
+share_updated: 2025-04-18T23:22:30+10:00
 ---
 
 Guidelines for Level 3 Candidates will be expected to demonstrate a mature understanding of the structure, style and historical background of the repertoire that is performed and to use this as a basis for discussing the interpretive choices that they make.

@@ -1,16 +1,26 @@
 ---
 draft: false
 title: General Lavine - Excentric - Claude Debussy
-tags:
+tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Saturday, March 29th 2025, 4:24:41 pm
+last_edit_date: Monday, May 12th 2025, 8:45:08 pm
+share_link: https://share.note.sx/6cxzirkh#5XPRFPRswblY7Gxhz0Q6yS5Q+y1JaUSmhicZVXvINQo
+share_updated: 2025-04-17T21:41:01+10:00
 ---
 
 # Composer
 
 ## Bio
 
-Claude Debussy was born in France in 1862 and died there in 1918. He was one of the most significant figures in the development of 20th Century European music. He studied at the Paris Conservatoire, and also in Rome from 1885-1887 after winning the *Prix de Rome*. Visits to Bayreuth in 1888 and 1889 led to a brief intoxication with the music of Wagner (though this soon developed into an utter rejection of Wagner's approach to composition). Another significant influence at this time was hearing Javanese music in Paris.
+Claude Debussy born on August 22, ==1862==, in Saint-Germain-en-Laye, ==France==, was one of the most influential composers of the ==late 19th and early 20th centuries==. He grew up in modest circumstances, and his musical talent was recognized early. At the age of ten, he entered the ==Paris Conservatoire==, where he ==studied piano and composition==. Despite his brilliance, Debussy often clashed with the Conservatoire's conservative professors due to his unconventional ideas.
+
+He won the prestigious ==Prix de Rome== in 1884 with his cantata ~~*L'Enfant prodigue*~~, which allowed him to study in ==Rome==. However, he found the experience stifling and returned to Paris. During this period, he was influenced by Russian composers like ==Mussorgsky== and the exotic sounds of the Javanese gamelan.
+
+He sought to create music that was more ==fluid== and ==atmospheric==, drawing inspiration from Symbolist ==poets== and Impressionist ==painters==. His works, such as, *Clair de lune* (part of *Suite bergamasque*, 1890–1905), and *La Mer* (1905), are celebrated for their innovative use of ==harmony== and ==orchestral color==.
+
+In 1902, Debussy achieved international fame with his opera *Pelléas et Mélisande*, which showcased his unique approach to musical storytelling. Throughout his career, he composed a wide range of works, including piano pieces, orchestral compositions, and chamber music. His later years were marked by illness and the challenges of World War I. Despite these difficulties, he continued to compose, completing three of six planned sonatas for various instruments.
+
+Debussy passed away on March 25, 1918, in Paris, after battling cancer. His legacy endures as a pioneer who reshaped the landscape of classical music, influencing generations of composers and musicians.
 
 ## Contemporaries
 
@@ -22,9 +32,17 @@ Debussy's output includes the opera *Palléas et Mélisande*, orchestral music (
 
 ## Compositional Style
 
-Debussy's musical style has an affinity with two other characteristically French genres - the *impressionist* painters (eg. Monet, Manet and Degas) and the *symbolist* writers (eg. Verlaine and Mallarmé). The label 'impressionist' is the one most commonly applied to Debussy's music (in spite of the fact that the composer himself objected to it). It is a very imprecise term; Oscar Thompson attempted to define it as applying to art which aims to 'suggest rather than depict... to interpret a fugitive impression rather than to seize upon and fix the permanent reality'. The visual artists of this school frequently explored the effects of light and water in their work, often resulting in a general haziness of outline; much of Debussy's music similarly has a vagueness n its harmony, rhythm and formal outline, and an interest in the sensuous aspect of sound. Symbolist poetry is subtle and suggestive, concise, and understated in its emotions and having a free and lyrical approach to meter. The opera *Palléas et Mélisande*, many songs and the titles of some piano pieces are based on the work of symbolist writers.
+Debussy's musical style has an affinity with two other characteristically French genres - the *impressionist* painters (eg. Monet, Manet and Degas) and the *symbolist* writers (eg. Verlaine and Mallarmé). The label 'impressionist' is the one most commonly applied to Debussy's music (in spite of the fact that the composer himself objected to it).
 
 # Piece
+
+## Characteristics of the Piece
+
+- Frequent use of 7th and 9th chords
+- Parallel movement of chords
+- Use of parallel 5ths in the bass
+- Pedal points
+- Rhythmic fluidity
 
 ## Debussy's Preludes for Piano
 
@@ -48,7 +66,7 @@ The main key is F Major, and the form is Ternary ABA.
 
 11-22
 
-> The cakewalk proper, in F Major, through mostly pentatonic (F-G-A-C-D). The introductory motive makes an intrusion in (17-18).
+ > The cakewalk proper, in F Major, through mostly pentatonic (F-G-A-C-D). The introductory motive makes an intrusion in (17-18).
 
 23-34
 
@@ -59,15 +77,34 @@ The main key is F Major, and the form is Ternary ABA.
 > Cakewalk melody returns as in (11), but with new harmonisation in (39-42) using 7th chords. The introductory motive returns in (43-45) not based around the tonic rather than the dominant.
 
 **B**
+
 46-69
+
 > Db Major. Begins with the parallel traids of the introduction, now legato and more lethargic compared withh before. There is a dominant pedal throughout much of this passage, interrupted by passages of unrelated parallel triads (51-54 and 63-64).
 
 **A**
+
 70-93
+
 > A reprise of (11-34).
 
 **Coda**
-94-109
-> A return of the cakewalk theme in GB Major (the 'Neapolitan' key, 94-100), the parallel triads (101-102) and the introductory motive, concluding with a perfect cadence in F Major in (106-109)
 
-## Characteristics of the Piece
+94-109
+
+> A return of the cakewalk theme in Gb Major (the 'Neapolitan' key, 94-100), the parallel triads (101-102) and the introductory motive, concluding with a perfect cadence in F Major in (106-109)
+
+### Terms
+
+*Dans le style et le Mouvement d'un Cake-walk* - In the style and movement of a cakewalk
+*Strident* - loud and harsh
+*sec* - *secco* - without expression
+*spirituel et discret* - witty and discreet
+*8va bassa* - an octave lower
+*molto staccato* - a lot of staccato
+*molto crescendo* - a lot of crescendo
+*trainé* - delayed
+*mouvt* - move
+*subito* - suddenly
+*très retenu* - very held back
+*Animez* - animated

@@ -13,7 +13,9 @@ last_edit_date: Friday, March 7th 2025, 4:14:50 pm
 	- [[Beethoven Sonata Band II.pdf]]
 	- [[Chopin Etudes Op 10.pdf]]
 	- [[Chopin Etudes Op 25.pdf]]
+	- [[Debussy Preludes Livre I.pdf]]
 	- [[Mozart Piano Sonatas.pdf]]
+- **[[Lesson Notes]]**
 - [[Stylistic Contrasts]]
 
 %% End Waypoint %%

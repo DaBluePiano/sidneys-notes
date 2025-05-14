@@ -1,12 +1,14 @@
 ---
 draft: false
 tags: 
-share_link: https://share.note.sx/be5dx9ci
-share_updated: 2024-12-13T21:02:30+11:00
 title: Formatting Test
 creation_date: Monday, February 3rd 2025, 12:59:29 pm
-last_edit_date: Thursday, February 27th 2025, 12:26:48 pm
+last_edit_date: Saturday, May 3rd 2025, 9:32:52 pm
+share_link: https://share.note.sx/yu3lljfw#Z/DggI6Y8iK0RFqrzNw2/ulAqqzwGX6d4ZW2lxmSIts
+share_updated: 2025-04-16T19:00:19+10:00
 ---
+
+<progress max="100" value="10"></progress>
 
 # 1 H1
 
@@ -74,8 +76,14 @@ Highlights:
 
 - [ ] This is a Checkbox
 
-$Inline LaTeX\space \lim_{x\to 0}\frac{\sin x}{x}\stackrel{\text{H}}{=}\frac{\cos x}{1}=1$
+Inline Latex:
 
-$$Outline Latex \lim_{x\to 0}\frac{\sin x}{x}\stackrel{\text{H}}{=}\frac{\cos x}{1}=1$$
+$\space \lim_{x\to 0}\frac{\sin x}{x}\stackrel{\text{H}}{=}\frac{\cos x}{1}=1$
+
+Outline Latex
+
+$$\lim_{x\to 0}\frac{\sin x}{x}\stackrel{\text{H}}{=}\frac{\cos x}{1}=1$$
 
 $$\frac{4}{\sqrt{ 6 }}-\frac{1}{2\sqrt{ 3 }}$$
+
+`[!!important:important]`
