@@ -1,3 +1,121 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* ====== Theme Variables ====== */
+:root {
+  /* Base Colors */
+  --light: #110E21;         /* Deep space purple background */
+  --lightgray: #2D2735;     /* Muted lavender-gray borders */
+  --gray: #4A3E5C;         /* Medium cosmic purple accents */
+  --darkgray: #E8D7F4;     /* Soft pearl pink text */
+  --dark: #94B3FF;        /* Bright azure headers/icons */
+  --secondary: #6B8CFF;   /* Vivid cobalt links/buttons */
+  --tertiary: #FF9FEF;    /* Neon pink hover states */
+  --highlight: rgba(107, 140, 255, 0.2);  /* Blue overlay */
+  --textHighlight: #2D2735; /* Highlight background */
+}
+
+/* ====== Base Styles ====== */
+body {
+  background-color: var(--light);
+  color: var(--darkgray);
+  line-height: 1.6;
+}
+
+/* ====== Typography ====== */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--dark);
+  margin: 1.5em 0 0.8em;
+}
+
+a {
+  color: var(--secondary);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--tertiary);
+}
+
+/* ====== Highlighted Text (== == syntax) ====== */
+.markdown-preview-view mark {
+  background-color: var(--textHighlight);
+  color: var(--darkgray);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+  border: 1px solid var(--gray);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Alternative Highlight Styles */
+.markdown-preview-view mark.blue {
+  background-color: rgba(107, 140, 255, 0.15);
+  border-color: var(--secondary);
+}
+
+.markdown-preview-view mark.pink {
+  background-color: rgba(255, 159, 239, 0.15);
+  border-color: var(--tertiary);
+}
+
+/* ====== Code Blocks ====== */
+pre {
+  background-color: var(--lightgray) !important;
+  border: 1px solid var(--gray);
+  border-radius: 6px;
+  padding: 1.2rem;
+}
+
+code {
+  background-color: var(--textHighlight);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+}
+
+/* ====== Interactive Elements ====== */
+button {
+  background-color: var(--secondary);
+  color: var(--light);
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  background-color: var(--tertiary);
+  transform: translateY(-1px);
+}
+
+/* ====== Custom Components ====== */
+/* Depth System */
+.card {
+  background-color: var(--lightgray);
+  border: 1px solid var(--gray);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+}
+
+/* Gradients */
+.gradient-nebula {
+  background: linear-gradient(135deg, var(--secondary) 0%, var(--tertiary) 100%);
+}
+
+/* ====== Utilities ====== */
+.highlight-box {
+  padding: 1rem;
+  border-left: 4px solid var(--secondary);
+  background-color: var(--textHighlight);
+  margin: 1.5rem 0;
+}
+
+/* ====== Theme Extensions ====== */
+@media (prefers-color-scheme: dark) {
+  /* Additional dark mode refinements */
+  img {
+    opacity: 0.9;
+    filter: brightness(0.95) contrast(1.05);
+  }
+}

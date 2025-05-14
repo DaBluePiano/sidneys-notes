@@ -30,15 +30,22 @@ const config: QuartzConfig = {
       },
       colors: {
       lightMode: {
-        light: "#fbf1c7", // Warm cream background
-        lightgray: "#ebdbb2", // Soft light brownish-gray for borders
-        gray: "#d5c4a1", // Muted beige-gray for graph links and borders
-        darkgray: "#7c6f47", // Warm olive-brown for body text
-        dark: "#3c3822", // Deep brown for header text and icons
-        secondary: "#458588", // Soft teal for link colors and current graph node
-        tertiary: "#b8bb26", // Olive-greenish-yellow for hover states and visited graph nodes
-        highlight: "rgba(72, 150, 120, 0.25)", // Soft green for internal link background and highlights
-        textHighlight: "#bdae93", // Pale beige with a hint of yellow for markdown highlighted text background
+        // Base Layer
+        light: "#F8F5FE",         // Soft lavender white background
+        lightgray: "#E3DEF7",     // Light lavender borders
+        gray: "#B8B0D9",         // Muted lilac accents
+        
+        // Text & Headers
+        darkgray: "#2E284A",     // Deep navy purple text
+        dark: "#5E4E8F",        // Royal purple headers/icons
+        
+        // Interactive Elements
+        secondary: "#6B8CFF",   // Consistent cobalt blue (links/buttons)
+        tertiary: "#D84FA8",    // Soft raspberry pink hover states
+        
+        // Effects
+        highlight: "rgba(107, 140, 255, 0.15)",  // Subtle blue overlay
+        textHighlight: "#EDE9FC", // Pale lavender highlight background
       },
       darkMode: {
         // Base Layer
