@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Science Exam (The Atom and Nuclear Chemistry + Diseases) 😊
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Tuesday, May 13th 2025, 7:28:41 pm
+last_edit_date: Wednesday, May 14th 2025, 7:49:25 pm
 share_link: https://share.note.sx/uz1266dn#vAjdthmTRqkOznbiVrJOqO9r7702kqxi8Xv67asYtO8
 share_updated: 2025-05-12T20:40:08+10:00
 ---
@@ -32,21 +32,29 @@ share_updated: 2025-05-12T20:40:08+10:00
 
 - **Democritus** (460BC) observed that matter was **not continuous** but was made up of **tiny, solid and unbreakable particles**. He was the first to use the term atomos, meaning indivisible.
 - **Dalton** (1808) suggested that different substances were made up of **different particles that had specific masses** and properties – elements. In other words, the particles that made up gold were different from the particles that made up water. 
+
 ![[image-7.png|Dalton (Ball Model (?))|139x128]]
+
 - **Thomson** discovered the **electron and its negative charge** in 1897. However, he also knew that there must be a source of positive charge in the atom to make it neutral. In 1904 he proposed what is known as the **plum pudding model**, where the atom was thought of as a round ball of positive charge with negatively charged electrons embedded in it.
+
 ![[image-8.png|Thomson (Plum Pudding Model)|158x131]]
+
 - **Lenard** (1904) described atoms as **mostly empty spaces** filled with fast-moving ‘dynamides’. These were neutrally charged particles made up of a **heavy positive particle stuck to a light negative particle**.
 - **Rutherford** (1909-1911) fired a beam of **helium nuclei at gold foil**. Most particles went straight through and only a small number were deflected. Rutherford concluded that atoms are mostly empty space with a small, positively charged nucleus and a large negatively charged electron cloud.
+
 ![[image-9.png|Rutherford|164x156]]
+
 - **Bohr** (1913) modified Rutherford’s model, proposing that electrons can only travel along certain pathways around the nucleus, called **orbits**. His model is therefore often known as the **planetary model**.
+
 ![[image-10.png|Bohr (Planetary Model)|165x148]]
+
 - **Chadwick** (1932) **discovered the neutron!** He showed that the nucleus was not just a massive of positive charge but a cluster of positively charged neutrons and charge-neutral neutrons
 
 ## Isotopes and Decay
 
 - The different forms of the atoms of an element with different numbers of neutrons are called **isotopes**.
 - For example, Carbon-12 (6 protons and 6 neutrons) is the most common isotope form of carbon atoms in the natural world (about 98.9%). The box on the right shows how Carbon-12 is normally written. It is a stable form of this element. The unstable forms of this element are carbon-13 and carbon-14. Only 1.1% of natural carbon on the Earth is carbon-13 atoms (6 protons and 7 neutrons). Carbon-14 is a very small percentage of total carbon and is composed of radioactive carbon-14 atoms.
- ![|265x78](https://lh7-rt.googleusercontent.com/docsz/AD_4nXevl0L8Hd9z3w7c-L_xdhlh-R_og5W5VcSzLIDcnBMZqQSMtBIbPsz-UiDuMovxwB8KP1mjhbbwEKxWFMQIgpuN1cu2ai_sIvWuvBVwn5pdQvqDSOwcYcJG6mN_-NlaEMIgmPPUAA?key=1IUITQwnuslBUhI184TfLw)
+ ![|197x58](https://lh7-rt.googleusercontent.com/docsz/AD_4nXevl0L8Hd9z3w7c-L_xdhlh-R_og5W5VcSzLIDcnBMZqQSMtBIbPsz-UiDuMovxwB8KP1mjhbbwEKxWFMQIgpuN1cu2ai_sIvWuvBVwn5pdQvqDSOwcYcJG6mN_-NlaEMIgmPPUAA?key=1IUITQwnuslBUhI184TfLw)
 - A carbon-14 atom breaks down naturally by **radioactive decay** to form an atom of the element nitrogen, an electron (known as a beta particle) and a release of electromagnetic radiation.
 - This radiation can include **alpha particles** and **gamma rays** (in addition to **beta particles**).
 

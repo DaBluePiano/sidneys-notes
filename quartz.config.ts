@@ -41,15 +41,22 @@ const config: QuartzConfig = {
         textHighlight: "#bdae93", // Pale beige with a hint of yellow for markdown highlighted text background
       },
       darkMode: {
-        light: "#282828", // Very dark gray background
-        lightgray: "#3c3836", // Dark muted brown for borders
-        gray: "#504945", // Soft gray-brown for graph links and borders
-        darkgray: "#ebdbb2", // Light cream for body text (contrast for dark mode)
-        dark: "#d5c4a1", // Soft beige for header text and icons
-        secondary: "#83a598", // Muted teal for link colors and current graph node
-        tertiary: "#b8bb26", // Olive-greenish-yellow for hover states and visited graph nodes
-        highlight: "rgba(72, 150, 120, 0.25)", // Soft green for internal link background and highlights
-        textHighlight: "#3c3836", // Deep dark brown for markdown highlighted text background
+        // Base Layer
+        light: "#110E21",         // Deep space purple (softer than pure black)
+        lightgray: "#2D2735",     // Muted lavender-gray borders
+        gray: "#4A3E5C",         // Medium cosmic purple accents
+        
+        // Text & Headers
+        darkgray: "#E8D7F4",     // Soft pearl pink (body text)
+        dark: "#94B3FF",        // Bright azure headers/icons (improved contrast)
+        
+        // Interactive Elements
+        secondary: "#6B8CFF",   // Vivid cobalt (links/buttons)
+        tertiary: "#FF9FEF",    // Neon pink (hover states)
+        
+        // Effects
+        highlight: "rgba(107, 140, 255, 0.2)",  // Enhanced blue overlay
+        textHighlight: "#2D2735", // Subtle purple-gray text bg
       },
     },
     },
