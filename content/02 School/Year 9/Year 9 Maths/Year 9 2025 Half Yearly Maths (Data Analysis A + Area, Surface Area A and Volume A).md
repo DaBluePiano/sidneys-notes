@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Maths (Data Analysis A + Area, Surface Area A and Volume A)
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Wednesday, May 14th 2025, 5:56:36 pm
+last_edit_date: Thursday, May 15th 2025, 2:20:08 pm
 share_link: https://share.note.sx/zlq6fgth#Dyoi/rqRovRBT1yOToWIAGRRttiQe4svFw+ToyaD8N0
 share_updated: 2025-05-14T17:56:30+10:00
 ---
@@ -248,8 +248,11 @@ The **median** is a **measure of centre**, and tells us where the middle of t
 
 <center></center>
 $$\text{Median is the }\left(\frac{n+1}{2}\right)^{\text {th }}\text{value}$$
+
 To get a better picture of the internal spread in a data set, we can find the **quartiles** of a data set, which can be used for a measure of spread called **interquartile range (IQR)**.
+
 ![[image-29.png|500x293]]
+
 Quartiles are scores at particular locations in the data set-similar to the median, but instead of dividing a data set into halves, they divide a data set into quarters.
 
 - Minimum: Lowest value

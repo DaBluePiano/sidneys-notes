@@ -3,7 +3,7 @@ draft: false
 title: Composers GK
 tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Wednesday, May 14th 2025, 4:02:45 pm
+last_edit_date: Thursday, May 15th 2025, 6:36:50 pm
 ---
 
 # Bach
@@ -171,7 +171,7 @@ Other: Hector Berlioz, ==Frederic Chopin, Franz Liszt==
 
 ## Compositions
 
-For Piano: three *Sonatas*, five *Fantasies*, eight sets of ==*Songs without words*==, seven *Preludes and Fugues*, ==*Rondo Capriccioso*==, ==*Variations sériuses*==.
+For Piano: three *Sonatas*, five *Fantasies*, eight sets of ==*Songs without words*==, seven *Preludes and Fugues*, ==*Rondo Capriccioso*, *Variations sériuses*==.
 
 Other: five symphonies, including 'Scottish', 'Italian' and 'Reformation', ==two piano concertos==, a violin concerto, concert overtures, including *The Hebrides* and *Calm Sea and Prosperous Voyage* the oratorios *St Paul* and *Elijah*, chamber music such as the string quartet.
 
