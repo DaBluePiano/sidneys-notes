@@ -1,9 +1,9 @@
 ---
 draft: false
-title: Quartz Template
+title: Periods
 tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Saturday, May 17th 2025, 2:19:32 pm
+last_edit_date: Saturday, May 17th 2025, 2:22:57 pm
 ---
 
 | Baroque (1650-1750)                         | Classical (1750-1810)                            | Romantic (1810-1900)                  | 20-21st Centuries (1900-Now)              |
