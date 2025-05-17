@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Maths (Data Analysis A + Area, Surface Area A and Volume A)
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Thursday, May 15th 2025, 2:20:08 pm
+last_edit_date: Friday, May 16th 2025, 5:21:08 pm
 share_link: https://share.note.sx/zlq6fgth#Dyoi/rqRovRBT1yOToWIAGRRttiQe4svFw+ToyaD8N0
 share_updated: 2025-05-14T17:56:30+10:00
 ---
@@ -329,6 +329,70 @@ The mean is greater than the median.
 
 ## Area A
 
+### Area of Polygons
+
+**Area** is the amount of space inside a two-dimensional shape.
+
+From smallest to largest, the common units used for measuring area are:
+
+- square millimetres (mm2)
+- square centimetres (cm2)
+- square metres (m2)
+- square kilometres (km2)
+
+A hectare is a special unit of area often used to measure the area of a piece of land.
+
+1 ha=10000 m21 ha=10000 m2.
+
+A summary of the area formulas for common polygons:
+
+![A table showing the area formulas for common polygons. Ask your teacher for more information.](https://jsx-images.mathspace.co/rsl-286111/8.01-4%201.svg?versionId=xmqo6yW5G7X0xcMVjbJsgo2_LkSNHjoj)
+
+### Area of Circles
+
+We can calculate the area of a **circle** using the formula:
+
+$$A=πr^2$$
+
+When you are required to give the exact value of the area of a circle, you will leave your answer in terms of π.
+
+To find the area of a semicircle (half a circle) we find the total area, then find a half of that by dividing by 2.
+
+To find the area of quarter of a circle we find the total area, then find a quarter of that by dividing by 4.
+
+### Area of Composite Shapes
+
+There are two main methods for finding the area of a composite shape: the **addition method** and the **subtraction method.**
+
+The addition method involves identifying the basic shapes, calculating the area of the basic shapes and adding them all together to find the total area of the composite shape.
+
+The subtraction method involves identifying the basic shapes, calculating the area of the basic shapes and subtracting the area of the smaller shapes (that were cut out) from the area of the larger shape to find the total area of the composite shape.
+
+### Nets of Prisms
+
+A **prism** is a three-dimensional figure that has a constant (uniform) **cross-section**.
+
+The cross-section is parallel to the two identical ends.
+
+A **net** of a prism is a representation of the faces arranged in such a way that it can be folded to form the three-dimensional prism. A prism can have many different nets. Nets can be useful to find the total surface area of a prism by finding the areas of all its faces.
+
+![[image-35.png|A cube and its net|196x171]]
+
 ## Surface Area A
+
+### Surface Area of Prisms
+
+The **surface area** of a prism is the sum of the areas of all the faces.
+
+To find the surface area of a prism, we can determine the basic shapes we need to add together. The **net** of a prism will show all of the faces as 2D shapes.
+
+Another way to calculate the surface area for rectangular prisms and cubes is to use the formula. For any faces that are the same, we can find the area of one face and multiply it by how many times that face appears.
+
+A **rectangular prism** has surface area:
+
+$$SA = 2\times top + 2 \times  front + 2 \times side
+= 2lw + 2wh + 2lh
+= 2 (lw + lh + wh)$$
+
 
 ## Volume A
