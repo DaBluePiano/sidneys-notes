@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Science Exam (The Atom and Nuclear Chemistry + Diseases) 😊
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, May 18th 2025, 7:28:43 pm
+last_edit_date: Sunday, May 18th 2025, 8:21:45 pm
 share_link: https://share.note.sx/uz1266dn#vAjdthmTRqkOznbiVrJOqO9r7702kqxi8Xv67asYtO8
 share_updated: 2025-05-12T20:40:08+10:00
 ---
@@ -16,7 +16,7 @@ share_updated: 2025-05-12T20:40:08+10:00
 - **Protons** are the **positively** charged particles found in the centre of each atom.
 - **Neutrons** are the particles found in the centre of each atom that have **no charge**.
 - The **nucleus** is the **positively** charged central part of the atom that contains protons and neutrons.
-- **Electrons** are the **negaNucleustively** charged particles found in each atom.
+- **Electrons** are the **negatively** charged particles found in each atom.
 	- Electrons orbit the nucleus in shells.
 	- The first shell can hold up to 2 electrons. The second shell can hold up to 8 electrons.
 
