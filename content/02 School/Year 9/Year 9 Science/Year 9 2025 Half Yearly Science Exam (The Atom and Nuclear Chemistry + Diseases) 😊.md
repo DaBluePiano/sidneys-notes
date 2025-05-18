@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Science Exam (The Atom and Nuclear Chemistry + Diseases) 😊
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Monday, May 19th 2025, 7:22:29 am
+last_edit_date: Monday, May 19th 2025, 7:32:53 am
 share_link: https://share.note.sx/uz1266dn#vAjdthmTRqkOznbiVrJOqO9r7702kqxi8Xv67asYtO8
 share_updated: 2025-05-12T20:40:08+10:00
 ---
@@ -121,6 +121,7 @@ Group 18 - **The Noble Gases** - They do not react
 | Melting Points                | Decreases for Groups 1-5 and Increases for Groups 5-8           | Generally Increases then Decreases                                                      |
 | Reactivity                    | Metals become more reactive and non-metals become less reactive | Is high, then decreases and then increases. Group 8 elements are inert and do not react |
 | Metallic Character            | Increases                                                       | Decreases                                                                               |
+
 ### Properties of Metals and Non-Metals
 
 | Property                                    | Metals                                | Non-Metals                               |
@@ -330,20 +331,26 @@ Vaccinations are often given as a **preventive** measure.
 - [Targets and Key areas of work](https://www.who.int/our-work)
 
 ## Important Scientists on Diseases
+
 **Alexander Fleming** - Discovery of penicillin through an accident **1928**
 **Howard Florey** - Development of penicillin, treating the first patient with penicillin, increased penicillin production **1941**
 **Louis Pasteur** - Principles of vaccination by infecting chickens with a diseases **~1879**
 **Robert Koch** - identified the bacteria responsible for tuberculosis, cholera, and anthrax. **~Late 1800**
 **Edward Jenner** - Smallpox vaccine, the world's first vaccine **1796**
-## Endemic vs Epidemic vs Pandemic
+
+## Endemic Vs Epidemic Vs Pandemic
+
 ### Epidemic
+
 An **epidemic** is an outbreak of disease—that is, sudden localized incidence of a disease—that spreads quickly and affects many individuals at the same time. (eg. *Western African Ebola virus* epidemic (2013-2016))
+
 ### Pandemic
+
 A **pandemic** is a type of epidemic, one with greater range and coverage. A pandemic occurs over a wide geographic area and affects an exceptionally high proportion of the population. (eg. *COVID-19* pandemic (2019-present))
+
 ### Endemic
+
 If a disease lingers for a long time as an epidemic or a pandemic, it may eventually become **endemic** to an area, which means that it persists at a consistent level within a region. (eg. *Malaria* in Africa (the higher temperatures allow the Anopheles mosquito, which spreads malaria, to thrive. This means that malaria remains at constant levels in this region))
-
-
 
 # Glossary
 
