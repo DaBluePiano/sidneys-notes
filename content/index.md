@@ -8,7 +8,7 @@ font:
 
 [Year 9 Half Yearly Science Notes: The Atom and Nuclear Chemistry](https://dabluepiano.github.io/sidneys-notes/02-School/Year-9/Year-9-Science/Year-9-2025-Half-Yearly-Science-Exam-\(The-Atom-and-Nuclear-Chemistry-+-Diseases\)-%F0%9F%98%8A)
 
-	
+[Half Yearly Science Practice Set 1](https://dabluepiano.github.io/sidneys-notes/12-Revision/Half-Yearly-Practice-Set-1)
 
 ## [School Notes :)](https://dabluepiano.github.io/sidneys-notes/02-School/)
 
