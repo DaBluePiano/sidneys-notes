@@ -59,7 +59,7 @@ const config: QuartzConfig = {
         
         // Interactive Elements
         secondary: "#6B8CFF",   // Vivid cobalt (links/buttons)
-        tertiary: "#FF9FEF",    // Neon pink (hover states)
+        tertiary: "#[FF9FEF]",    // Neon pink (hover states)
         
         // Effects
         highlight: "rgba(107, 140, 255, 0.2)",  // Enhanced blue overlay

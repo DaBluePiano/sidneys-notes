@@ -3,7 +3,7 @@ sources:
   - "[[Year 9 2025 Half Yearly Science Exam (The Atom and Nuclear Chemistry + Diseases) 😊]]"
 title: Half Yearly Practice Set 1
 creation_date: Sunday, May 18th 2025, 6:10:17 pm
-last_edit_date: Sunday, May 18th 2025, 6:17:24 pm
+last_edit_date: Sunday, May 18th 2025, 6:24:01 pm
 draft:
 ---
 > [!question] Which of the following is NOT a characteristic of a metal?
@@ -20,16 +20,6 @@ draft:
 > c) Electron
 > > [!success]- Answer
 > > a) Proton
-
-> [!question] Which of the following are isotopes of carbon?
-> a) Carbon-12
-> b) Carbon-13
-> c) Carbon-14
-> d) Carbon-15
-> > [!success]- Answer
-> > a) Carbon-12
-> > b) Carbon-13
-> > c) Carbon-14
 
 > [!question] The process by which two small nuclei combine to form a larger nucleus is called ____.
 > > [!success]- Answer
