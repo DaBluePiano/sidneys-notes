@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Science Exam (The Atom and Nuclear Chemistry + Diseases) 😊
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, May 18th 2025, 8:50:44 pm
+last_edit_date: Monday, May 19th 2025, 6:58:20 am
 share_link: https://share.note.sx/uz1266dn#vAjdthmTRqkOznbiVrJOqO9r7702kqxi8Xv67asYtO8
 share_updated: 2025-05-12T20:40:08+10:00
 ---
@@ -75,9 +75,13 @@ Nuclear decay can cause some atoms to change into compeltely different types of 
 **Neutrons** = **Atomic Mass** - **Atomic Number**
 
 Round the **Atomic Mass** to get the most **common** or **abundant** isotope of an element.
-### Finding the number of electrons in a given shell
+
+### Finding the Number of Electrons in a given Shell
+
 $$2n^2$$
+
 Where n is the number of shells?
+
 ## The Periodic Table
 
 If you look at the periodic table of the elements you can see that the elements are listed in order of their
@@ -235,7 +239,7 @@ Diet involves not just the quantity of food but the **quality** and **variety of
 **Protozoan**
 - Unicellular or simple multicellular organisms
 - Has cell wall and nucleus
-- Some protozoa are parasites (organisms that lives on or in the body of another, the host, and takes nutrients from it)
+- Some protozoa are **parasites** (organisms that lives on or in the body of another, the host, and takes nutrients from it)
 *Examples: Malaria, Giardiasis*
 
 **Bacteria**
@@ -314,6 +318,22 @@ Vaccinations are often given as a **preventive** measure.
 - The **World Health Organization (WHO)** is a specialized agency of the United Nations which coordinates responses to international public health issues and emergencies.
 - They bring together 194 countries and work on the frontlines in 150+ locations to **“confront the biggest health challenges of our time and measurably advance the well-being of the world’s people.**”
 - [Targets and Key areas of work](https://www.who.int/our-work)
+
+## Important Scientists on Diseases
+**Alexander Fleming** - Discovery of penicillin through an accident **1928**
+**Howard Florey** - Development of penicillin, treating the first patient with penicillin, increased penicillin production **1941**
+**Louis Pasteur** - Principles of vaccination by infecting chickens with a diseases **~1879**
+**Robert Koch** - identified the bacteria responsible for tuberculosis, cholera, and anthrax. **~Late 1800**
+**Edward Jenner** - Smallpox vaccine, the world's first vaccine **1796**
+## Endemic vs Epidemic vs Pandemic
+### Epidemic
+An **epidemic** is an outbreak of disease—that is, sudden localized incidence of a disease—that spreads quickly and affects many individuals at the same time. (eg. *Western African Ebola virus* epidemic (2013-2016))
+### Pandemic
+A **pandemic** is a type of epidemic, one with greater range and coverage. A pandemic occurs over a wide geographic area and affects an exceptionally high proportion of the population. (eg. *COVID-19* pandemic (2019-present))
+### Endemic
+If a disease lingers for a long time as an epidemic or a pandemic, it may eventually become **endemic** to an area, which means that it persists at a consistent level within a region. (eg. *Malaria* in Africa (the higher temperatures allow the Anopheles mosquito, which spreads malaria, to thrive. This means that malaria remains at constant levels in this region))
+
+
 
 # Glossary
 
