@@ -75,10 +75,6 @@ draft:
 > > [!success]- Answer
 > > electron cloud, shells, orbitals
 
-> [!question] Electrons orbit the nucleus in fixed paths called shells.
-> > [!success]- Answer
-> > True
-
 > [!question] Which model of the atom describes electrons orbiting the nucleus in specific energy levels?
 > a) Dalton's model
 > b) Thomson's model
