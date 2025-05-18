@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Science Exam (The Atom and Nuclear Chemistry + Diseases) 😊
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Monday, May 19th 2025, 7:32:53 am
+last_edit_date: Monday, May 19th 2025, 9:03:20 am
 share_link: https://share.note.sx/uz1266dn#vAjdthmTRqkOznbiVrJOqO9r7702kqxi8Xv67asYtO8
 share_updated: 2025-05-12T20:40:08+10:00
 ---
@@ -70,17 +70,28 @@ Nuclear decay can cause some atoms to change into compeltely different types of 
 ## Finding the Number of particles(?) in an Atom
 
 **Protons** = **Electrons**
+
 **Atomic Number** (the small(er) number at the top) = **Protons**
+
 **Atomic Mass** (the bigg(er) number at the bottom, most of the time not a whole number)= **Protons + Neutrons**
+
 **Neutrons** = **Atomic Mass** - **Atomic Number**
 
 Round the **Atomic Mass** to get the most **common** or **abundant** isotope of an element.
 
 ### Finding the Number of Electrons in a given Shell
 
-$$2n^2$$
+1. The number of electrons in any given shell is given by $2n^2$, where $n$ is the shell number.
+2. The outer shell has a maximum of eight electrons.
+3. All shells must be fully filled before going on to the next shell.
 
-Where n is the number of shells?
+eg.
+
+Ti - Titanium
+
+The electron pattern in Titanium is
+
+2, 8, 10, 2
 
 ## The Periodic Table
 
@@ -92,7 +103,7 @@ If you look at the periodic table of the elements you can see that the elements 
 
 There are three main groups of elements:
 
-- **Metals** (Red) -
+- **Metals** (Red)
 - **Nonmetals** (Blue)
 - **Metalloids (Semi-metals)** (Yellow)
 
