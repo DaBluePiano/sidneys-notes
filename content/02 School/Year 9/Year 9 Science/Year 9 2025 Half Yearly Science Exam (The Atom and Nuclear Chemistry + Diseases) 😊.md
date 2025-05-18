@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Science Exam (The Atom and Nuclear Chemistry + Diseases) 😊
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Wednesday, May 14th 2025, 7:49:25 pm
+last_edit_date: Sunday, May 18th 2025, 7:28:43 pm
 share_link: https://share.note.sx/uz1266dn#vAjdthmTRqkOznbiVrJOqO9r7702kqxi8Xv67asYtO8
 share_updated: 2025-05-12T20:40:08+10:00
 ---
@@ -17,8 +17,8 @@ share_updated: 2025-05-12T20:40:08+10:00
 - **Neutrons** are the particles found in the centre of each atom that have **no charge**.
 - The **nucleus** is the **positively** charged central part of the atom that contains protons and neutrons.
 - **Electrons** are the **negaNucleustively** charged particles found in each atom.
- 	- Electrons orbit the nucleus in shells.
- 	- The first shell can hold up to 2 electrons. The second shell can hold up to 8 electrons.
+	- Electrons orbit the nucleus in shells.
+	- The first shell can hold up to 2 electrons. The second shell can hold up to 8 electrons.
 
 ### Subatomic Particles
 
@@ -31,7 +31,7 @@ share_updated: 2025-05-12T20:40:08+10:00
 ## Development of the Atom
 
 - **Democritus** (460BC) observed that matter was **not continuous** but was made up of **tiny, solid and unbreakable particles**. He was the first to use the term atomos, meaning indivisible.
-- **Dalton** (1808) suggested that different substances were made up of **different particles that had specific masses** and properties – elements. In other words, the particles that made up gold were different from the particles that made up water.
+- **Dalton** (1808) suggested that different substances were made up of **different particles that had specific masses** and properties – elements. In other words, the particles that made up gold were different from the particles that made up water. 
 
 ![[image-7.png|Dalton (Ball Model (?))|139x128]]
 
@@ -58,7 +58,7 @@ share_updated: 2025-05-12T20:40:08+10:00
 - A carbon-14 atom breaks down naturally by **radioactive decay** to form an atom of the element nitrogen, an electron (known as a beta particle) and a release of electromagnetic radiation.
 - This radiation can include **alpha particles** and **gamma rays** (in addition to **beta particles**).
 
-Each type can penetrate different materials.
+Each type can penetrate different materials. 
 
 - Half-life refers to the time you would need to wait for **half** of the amount of the radioactive material to **decay**.
 - For more information, refer to [https://www.youtube.com/watch?v=TJgc28csgV0&t=98s](https://www.youtube.com/watch?v=TJgc28csgV0&t=98s)
@@ -80,7 +80,7 @@ Round the **Atomic Mass** to get the most **common** or **abundant** isotope of 
 
 If you look at the periodic table of the elements you can see that the elements are listed in order of their
 
-- The Periodic Table is organised in **periods** (rows) and **groups** (columns).
+- The Periodic Table is organised in **periods** (rows) and **groups** (columns). 
 - As you move **across** a period, the atomic number of the elements **increases by one**.
 - As you move **down** a group, the atomic number increases by **either 2, 8 or 18**.
 
@@ -128,7 +128,7 @@ In nuclear fusion, two small nuclei combine to form larger nuclei releasing ener
 
 ### Fission
 
-Nuclear fission occurs when the nuclei of large atoms such as uranium or plutonium split to form the nuclei of smaller atoms, releasing energy in the form of radiation and heat.
+Nuclear fission occurs when the nuclei of large atoms such as uranium or plutonium split to form the nuclei of smaller atoms, releasing energy in the form of radiation and heat. 
 
 In some nuclear reactors, the fission of uranium-235 is caused when a neutron is absorbed by the nucleus. The nucleus splits to form two smaller nuclei (which are called fission products) as well as releasing more neutrons, gamma rays and heat energy. If the neutrons released in this process then go on to cause the splitting of other uranium-235 nuclei, a chain reaction occurs. The rate at which energy is produced can be controlled by limiting the number of neutrons that can react with other uranium nuclei. This is what happens in a nuclear reactor. The destructive power of nuclear weapons, on the other hand, is caused by an uncontrolled chain reaction.
 
@@ -137,8 +137,11 @@ In some nuclear reactors, the fission of uranium-235 is caused when a neutron is
 ## Nuclear Radiation
 
 **Alpha** Particles (α) - Consist of two protons and two neutrons, making them relatively heavy and positively charged. They are not very penetrating and can be stopped by something as thin as a sheet of paper or even human skin.
-**Beta** Particles (β) -
-**Gamma** Rays (ɣ) -
+
+**Beta** Particles (β) - Beta particles are fast-moving electrons or positrons emitted during radioactive decay. They have moderate penetration power and can be blocked by materials like plastic or aluminum.
+
+**Gamma** Rays (ɣ) - Gamma rays are high-energy electromagnetic waves with strong penetration, requiring lead or concrete for shielding.
+
 ![[image-16.png|500x214]]
 
 ## Catalysts and Reaction Rates
@@ -174,7 +177,7 @@ Substances are said to have undergone a chemical change when the particles that 
 
 We say that a chemical reaction has occurred if at least one new substance has been formed.
 
-All chemical reactions start with one or more reactants (ingredients) and result in one or more new products. The products are formed from the atoms of the reactants.
+All chemical reactions start with one or more reactants (ingredients) and result in one or more new products. The products are formed from the atoms of the reactants. 
 
 No atoms are destroyed and no new atoms are created in a chemical reaction. It is simply a rearrangement of the atoms that are already there.
 

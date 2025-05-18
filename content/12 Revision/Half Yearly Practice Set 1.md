@@ -3,7 +3,7 @@ sources:
   - "[[Year 9 2025 Half Yearly Science Exam (The Atom and Nuclear Chemistry + Diseases) 😊]]"
 title: Half Yearly Practice Set 1
 creation_date: Sunday, May 18th 2025, 6:10:17 pm
-last_edit_date: Sunday, May 18th 2025, 6:24:01 pm
+last_edit_date: Sunday, May 18th 2025, 7:26:16 pm
 draft:
 ---
 > [!question] Which of the following is NOT a characteristic of a metal?
