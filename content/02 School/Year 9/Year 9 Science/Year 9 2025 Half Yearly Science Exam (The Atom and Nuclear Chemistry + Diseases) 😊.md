@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Science Exam (The Atom and Nuclear Chemistry + Diseases) 😊
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, May 18th 2025, 8:21:45 pm
+last_edit_date: Sunday, May 18th 2025, 8:50:44 pm
 share_link: https://share.note.sx/uz1266dn#vAjdthmTRqkOznbiVrJOqO9r7702kqxi8Xv67asYtO8
 share_updated: 2025-05-12T20:40:08+10:00
 ---
@@ -75,7 +75,9 @@ Nuclear decay can cause some atoms to change into compeltely different types of 
 **Neutrons** = **Atomic Mass** - **Atomic Number**
 
 Round the **Atomic Mass** to get the most **common** or **abundant** isotope of an element.
-
+### Finding the number of electrons in a given shell
+$$2n^2$$
+Where n is the number of shells?
 ## The Periodic Table
 
 If you look at the periodic table of the elements you can see that the elements are listed in order of their
