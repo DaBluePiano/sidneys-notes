@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Science Exam (The Atom and Nuclear Chemistry + Diseases) 😊
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Monday, May 19th 2025, 6:58:20 am
+last_edit_date: Monday, May 19th 2025, 7:22:29 am
 share_link: https://share.note.sx/uz1266dn#vAjdthmTRqkOznbiVrJOqO9r7702kqxi8Xv67asYtO8
 share_updated: 2025-05-12T20:40:08+10:00
 ---
@@ -121,6 +121,16 @@ Group 18 - **The Noble Gases** - They do not react
 | Melting Points                | Decreases for Groups 1-5 and Increases for Groups 5-8           | Generally Increases then Decreases                                                      |
 | Reactivity                    | Metals become more reactive and non-metals become less reactive | Is high, then decreases and then increases. Group 8 elements are inert and do not react |
 | Metallic Character            | Increases                                                       | Decreases                                                                               |
+### Properties of Metals and Non-Metals
+
+| Property                                    | Metals                                | Non-Metals                               |
+| ------------------------------------------- | ------------------------------------- | ---------------------------------------- |
+| State at room temperature                   | solid                                 | gas or liquid                            |
+| Lustre                                      | shiny surface                         | variable appearance                      |
+| Colour                                      | silver-grey in colour                 | various colours, or colourless as gases  |
+| Ability to conduct electricity and heat     | able to conduct helectricity and heat | not able to conduct electricity and heat |
+| Malleability (ability to be flattened)      | malleable                             | not malleable                            |
+| Ductility (ability to be drawn into a wire) | ductile                               | not ductile                              |
 
 ## Uses of Nuclear Energy
 
@@ -445,4 +455,6 @@ If a disease lingers for a long time as an epidemic or a pandemic, it may eventu
 
 **World Health Organisation (WHO)**: A United Nations agency coordinating international public health efforts.
 
-**Immunisation**: The process of making a person immune to a disease, typically through vaccination.
+**Immunisation**: The process of making a person immune to a disease, typically through vaccination
+
+![[acs-periodic-table-poster_download.pdf]]

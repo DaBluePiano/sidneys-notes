@@ -6,6 +6,7 @@ last_edit_date: Tuesday, May 13th 2025, 7:28:07 pm
 ---
 
 %% Begin Waypoint %%
+- [[acs-periodic-table-poster_download.pdf]]
 - [[The Development of the Model of the Atom]]
 - [[Trends of the Periodic Table]]
 
