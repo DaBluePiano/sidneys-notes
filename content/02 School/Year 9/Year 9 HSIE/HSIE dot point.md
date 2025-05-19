@@ -3,7 +3,7 @@ draft: true
 title: HSIE dot point
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Tuesday, March 25th 2025, 7:01:57 pm
+last_edit_date: Monday, May 19th 2025, 4:59:13 pm
 ---
 
 # V1 + V2

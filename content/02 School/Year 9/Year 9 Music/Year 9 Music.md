@@ -7,8 +7,8 @@ last_edit_date: Tuesday, February 25th 2025, 7:37:47 am
 ---
 
 %% Begin Waypoint %%
-
 - [[Elements of Music]]
 - **[[Jazz]]**
+- [[Year 9 Scope and Sequence 2025 (PATHWAY).pdf]]
 
 %% End Waypoint %%
