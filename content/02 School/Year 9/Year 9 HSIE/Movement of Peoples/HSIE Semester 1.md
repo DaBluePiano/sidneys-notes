@@ -1,8 +1,8 @@
 ---
 creation_date: Saturday, May 10th 2025, 5:35:01 pm
-last_edit_date: Saturday, May 24th 2025, 3:05:58 pm
+last_edit_date: Saturday, May 24th 2025, 3:12:11 pm
 title: HSIE Semester 1
-draft:
+draft: false
 ---
 
 # Movement of Peoples
