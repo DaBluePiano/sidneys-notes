@@ -3,7 +3,7 @@ draft: false
 title: 00 The origins of World War I
 tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Saturday, May 10th 2025, 5:23:41 pm
+last_edit_date: Saturday, May 24th 2025, 3:45:04 pm
 ---
 
 # The Origins of World War I
@@ -25,11 +25,8 @@ Tensions and rivalries
 People saw war as the likely outcome of the rivalries among the great powers in the areas of:
 
 - competition to take advantage of trading opportunities
-
 - competition to control territory and resources in Africa that would give nations access to raw materials that weren’t available in Europe
-
 - the development of weapons and ships that nations could use to protect their interests
-
 - the size and strength of armies and navies and the arms race (especially between Britain and Germany) that resulted from this individual power and status.
 
 War plans and the arms race
@@ -37,7 +34,6 @@ War plans and the arms race
 One nation’s attempts to protect its interests led others to fear its power. In 1898, Germany set out to create a navy twice the size of Britain’s. In 1906, Britain launched the HMS Dreadnought, considered  to be the most powerful ship afloat. German engineers were soon copying this design, leading to further tension:
 
 - Britain feared Germany’s navy and the possibility of such a navy cutting Britain off from the rest of its empire.
-
 - Germany argued that its navy was essential to protect its trade.
 
 The alliance system
@@ -47,7 +43,6 @@ Increasing national rivalries within and beyond Europe resulted in nations formi
 These agreements increased nations’ sense of strength and protection and fostered the fear and mistrust of the nations that did not belong to them. They reflected the threat that the powers sensed from one another, and the desire to avenge past ‘wrongs’:
 
 - Russia and Austria–Hungary competed with each other to extend their power in the area of south-eastern Europe known as the Balkans.
-
 - France feared Germany’s army and sought revanche (revenge) for Germany taking the provinces of Alsace and Lorraine from France in 1871.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXccKJCHs9iQO6VdxwXICMuSTvOX0XTFTr0RRm7d8G5gsOVrENAv9CSBkruoQpKx4O-Qp24oADhkxTNCQTpaud8nbJJDbVtzIajSN0KWcy4i7tHegS4g97TjoP0wGmO_JcTRIjGG?key=azhkrE2_he9Ve7UzAdtxl3vX)
@@ -73,5 +68,3 @@ Source 5
 A timeline showing how the assassination of Archduke Franz Ferdinand led to the outbreak of a European war.
 
 Source: Retroactive 2, Stage 5 History, NSW, 2014
-
-**
