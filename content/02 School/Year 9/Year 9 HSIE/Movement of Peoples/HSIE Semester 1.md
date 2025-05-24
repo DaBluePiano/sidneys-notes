@@ -1,6 +1,6 @@
 ---
 creation_date: Saturday, May 10th 2025, 5:35:01 pm
-last_edit_date: Saturday, May 24th 2025, 3:12:11 pm
+last_edit_date: Saturday, May 24th 2025, 3:35:58 pm
 title: HSIE Semester 1
 draft: false
 ---
@@ -834,5 +834,3 @@ In the early years of the gold rush, most miners were able to make reasonable re
 All miners had to pay a licence fee, which was bitterly resented. It became one of the factors that contributed to the Eureka Rebellion in 1854.
 
 Source 5 Mr E.H. Hargraves, the Gold Discoverer of Australia, 12 February 1851, Returning the Salute of the Gold Miners, by T.T. Balcombe [1851]; paintings like this one helped to create the legend of Hargraves as the discoverer of gold in Australia.
-
-# World War I
