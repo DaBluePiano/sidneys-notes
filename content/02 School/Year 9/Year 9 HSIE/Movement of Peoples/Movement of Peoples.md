@@ -2,7 +2,7 @@
 title: Movement of Peoples
 draft: true
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Saturday, May 10th 2025, 5:24:34 pm
+last_edit_date: Friday, May 23rd 2025, 11:29:29 am
 ---
 
 %% Begin Waypoint %%
@@ -27,7 +27,9 @@ last_edit_date: Saturday, May 10th 2025, 5:24:34 pm
 - **[[Assessment Task 1]]**
 - [[Colonising Australia (1788-1901) The Melbourne Settler Colony Transcript.pdf]]
 - [[Colonising Australia (1788-1901) Transportation to Australia Transcript.pdf]]
-- [[Combined]]
+- [[HSIE Semester 1.docx]]
+- [[HSIE Semester 1.html]]
+- [[HSIE Semester 1]]
 - [[Impacts of the Industrial Revolution Transcript.pdf]]
 
 %% End Waypoint %%

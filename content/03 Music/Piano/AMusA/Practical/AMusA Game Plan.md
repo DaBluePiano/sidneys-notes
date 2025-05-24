@@ -3,7 +3,7 @@ draft: false
 title: AMusA Game Plan
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Wednesday, May 14th 2025, 5:56:12 pm
+last_edit_date: Wednesday, May 21st 2025, 7:35:05 pm
 share_link: https://share.note.sx/9gorij2i#Srq0Wg8USr4TExfKpy8lhptLOW9O/tkEVFozscwIiig
 share_updated: 2025-05-07T19:22:36+10:00
 ---
@@ -57,9 +57,9 @@ share_updated: 2025-05-07T19:22:36+10:00
 
 ## Checklist to Do before
 
-- [ ] Print out a copy of the full score
-- [ ] Fill out the sheet
-- [ ] Check we have the books
+- [x] Print out a copy of the full score ✅ 2025-05-21
+- [x] Fill out the sheet ✅ 2025-05-21
+- [x] Check we have the books ✅ 2025-05-21
 
 # During
 
