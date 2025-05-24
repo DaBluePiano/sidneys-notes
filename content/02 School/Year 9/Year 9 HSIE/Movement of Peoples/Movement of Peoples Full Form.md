@@ -1,13 +1,13 @@
 ---
 creation_date: Saturday, May 10th 2025, 5:35:01 pm
-last_edit_date: Saturday, May 24th 2025, 5:31:56 pm
-title: HSIE Semester 1
+last_edit_date: Saturday, May 24th 2025, 5:33:18 pm
+title: Movement of Peoples Full Form
 draft: false
 ---
 
-#  Movement of Peoples
+# Movement of Peoples
 
-##  The Main Causes of Migration from 1750 to 1901
+## The Main Causes of Migration from 1750 to 1901
 
 The period from 1750 to 1901 saw an unprecedented increase in the number of people moving around the world – a process known as ==migration==. Some people moved within their ==own countries== (e.g. from rural areas to urban areas) while others moved ==between countries== (e.g. from England to new colonies in North America and Australia).
 
@@ -28,7 +28,7 @@ As well as grouping migrants, historians also consider a range of other factors 
 
 Source 2 The Last of England, a painting by Ford Maddox Brown, 1852–55, shows a couple emigrating with their baby in a ship named Eldorado, with the white cliffs of Dover (a city in southern England) in the background.
 
-###  Defining Migration and Understanding Different Types of Migrants
+### Defining Migration and Understanding Different Types of Migrants
 
 Before learning about the events of the period, it is important to define some key terms and groups of people. These terms are used frequently throughout this chapter, so refer back to this list whenever you need to. They include:
 
@@ -42,11 +42,11 @@ Before learning about the events of the period, it is important to define some k
 
 When learning about the movement of peoples during this period, we need to consider the perspectives of the various people involved. For example, the perspectives and experiences of slaves and convicts will be very different to the perspectives and experiences of free settlers. The perspectives of these different people will have influenced how they viewed or reacted to specific events at the time. They will also have influenced the ways in which people recorded and wrote about their experiences. It is always important to consider the impact that a particular perspective will have on a source.
 
-###  Push Factors
+### Push Factors
 
 Since the beginning of the Industrial Revolution in 1750, many factors have pushed people towards starting a new life elsewhere. A range of these factors is discussed below.
 
-####  The Agricultural Revolution
+#### The Agricultural Revolution
 
 Until the early 18th century, most people in Europe lived in rural areas and worked in agriculture. Land use had changed little since the Middle Ages, and families often worked the same land for generations. Most peasants worked enough to provide food to feed their families. Their lives were simple and there was a certainty about their roles as members of village communities.
 
@@ -60,7 +60,7 @@ These new approaches to farming were beneficial for the landowners, but ==forced
 
 The Agricultural Revolution resulted in a wave of migration from the country to newly emerging towns and cities. Many who had lost their livelihoods in villages, especially the young and single, flocked to the towns and cities looking for work. This migration coincided with the Industrial Revolution.
 
-####  The Industrial Revolution
+#### The Industrial Revolution
 
 ==At the same time as new methods and machines were modernising agriculture, new approaches to manufacturing and food processing were emerging.== The steam engine paved the way for the development of machines such as the locomotive, spinning and weaving machines, pumps to assist mining, and smelters to process the ores.
 
@@ -72,11 +72,11 @@ Source 4 Children were often forced to work in factories during the Industrial R
 
 The great migration of people into towns and cities across England provided the labour force for the new factories. English cities such as Manchester, Liverpool and Birmingham grew rapidly. ==This resulted in overcrowding and unhealthy living conditions.== For many of the poor in these industrial cities, as well as the displaced in rural areas, migrating to new countries in search of a better life provided a way out. ==A great increase in crime==, plus overcrowded jails, contributed to another of the major push factors behind emigration from Britain in the 18th and 19th centuries – the transportation of convicts to penal colonies in North America and Australia.
 
-####  Population Growth
+#### Population Growth
 
 During the 18th century, ==improvements in food production and new discoveries in medicine and hygiene led to a significant increase in population==. The birth rate was rising, fewer children were dying and adults, on average, were living longer. Between 1750 and 1800, the population of Britain grew from 6.5 million to 9 million. ==This population growth created great pressures==, especially at a time when new technology on farms and in factories was reducing the number of available jobs. Emigration provided a kind of safety valve in reducing pressure on jobs, housing and resources.
 
-####  Natural Disasters: the Irish Potato Famine
+#### Natural Disasters: the Irish Potato Famine
 
 ==Over the centuries, natural disasters have also been push factors motivating groups of people to leave their homelands in order to survive.== One such natural disaster took place in Ireland in the middle of the 19th century. It resulted in one of the greatest movements of people from a single, country, and occurred as a result of the failure of the potato crop in Ireland.
 
@@ -86,7 +86,7 @@ The result was starvation in Ireland while tonnes of edible crops (paid in rent)
 
 Over the ten years of the Great Famine, the population of Ireland decreased by one-third. A small percentage of those who left Ireland travelled to Australia and New Zealand, but most went to North America because the journey was shorter and cheaper. However, it is estimated that up to one in five emigrants died making the voyage. As a result, the ships they travelled on became known as ‘coffin ships’. Poor sanitation, overcrowding, lack of food and disease meant that many passengers, already weakened by starvation, were not able to survive the journey.
 
-####  Discrimination and Persecution
+#### Discrimination and Persecution
 
 Over the centuries, many waves of emigrants have also left their homelands to ==escape religious or political persecution==. Certain American colonies, for example, were established by Puritans (a group of English Protestants who believed in strict religious discipline) escaping religious persecution in Britain.
 
@@ -96,7 +96,7 @@ Jewish people had suffered discrimination in Europe for centuries and emigrated 
 
 Source 5 A 19th-century engraving showing an attack on Jewish citizens in Kiev, Ukraine
 
-####  Forced Migration
+#### Forced Migration
 
 ==Not all people who left their homelands during this period of history did so willingly. In fact, the largest number of migrants at this time were forced to move. These groups included slaves and convicts.==
 
@@ -116,7 +116,7 @@ In addition to the forced migration of slaves, between 1788 and 1868 over 165 00
 
 Source: Oxford Insight History, Stage 5, 2nd edition, 2021
 
-###  Pull Factors
+### Pull Factors
 
 Some pull factors that encouraged people to migrate during this period included things like the ==promise of a better life, better employment opportunities, more space, more fertile soil, greater personal freedom and the opportunity to shape the future of an undeveloped land.==
 
@@ -124,7 +124,7 @@ Between 1750 and 1901, millions of people were pulled towards particular destina
 
 During the 18th and 19th centuries, North America, Australia, New Zealand and South Africa offered abundant land that many Europeans saw as theirs for the taking. In some cases, free grants of land were made to attract new settlers. Even when land was not free, prices were usually low and it was relatively easy for newcomers to set up small farms and build new lives. This pull factor, along with a range of other factors, is discussed below in relation to North America and the Australian colonies.
 
-####  North America
+#### North America
 
 From 1775 to 1783, thirteen colonies in North America fought a War of Independence to break free from British control. After winning their independence, a period of growth and expansion began and the country we now think of as the United States of America began to take shape. As people moved west across the country, new settlements and trade routes developed, creating employment and opportunities to own land.
 
@@ -134,7 +134,7 @@ In 1848, gold was discovered in California. This led to a gold rush that brought
 
 ==The idea of ‘America’ as a prosperous democracy was a powerful pull factor for the many Europeans who had seen their lives worsen as a result of the Industrial Revolution.==
 
-####  Idaho Springs
+#### Idaho Springs
 
 In 1859, ==gold was discovered== in Idaho Springs in Colorado, USA. This began the Colorado gold rush that followed the one in California. Like many areas, Idaho Springs was transformed by the sudden influx of goldminers and the support industries necessary to provide them with goods and services such as tools, meals and accommodation.
 
@@ -148,7 +148,7 @@ Source 1 A 19th-century street scene in Idaho Springs, Colorado, as goldminers f
 
 Source 2 The same street in Idaho Springs in 2011
 
-####  Australia
+#### Australia
 
 When the First Fleet arrived in Australia to establish a British colony in 1788, they were carrying around 750 convicts, soldiers and government officials with them. This was the first British population of Australia. Life was difficult in such a different climate, but gradually the first colony expanded. By the 19th century there were also colonies in Queensland, Victoria, Tasmania, South Australia and Western Australia.
 
@@ -164,7 +164,7 @@ Source 3 One of many posters used in Britain during the 19th century to encourag
 
 Source 4 This painting by ST Gill from 1869 titled Digger’s Wedding shows a newly wealthy goldminer enjoying a drunken carriage ride. At the time, the upper classes feared wealthy miners with no social standing as a serious threat to their position and authority in society. (The subtitle of the painting is The Dangers of Horrid Democracy.)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdw_NKqtICsLu02NNt2pgQSf2EZ55xTVNxswb3uKXtSOHG2sb2U0Ey0bTTxiZXJ7NSvgFrtODYTxEMhdEc-5SJdumZJO0EnmtvPV6Ib0lZJhvY5D-UK7Ikb_4uH5B5c5VlBPKqGIw?key=jHhHQySctCyUA0ni7zkjUUtk)
 
-##  Agricultural Revolution - Enclosure
+## Agricultural Revolution - Enclosure
 
 ==In English History, enclosure was the process which ended the traditional right of all people to use common land to grow crops or raise livestock.==
 
@@ -178,7 +178,7 @@ By the 1800s, most common land in England had been put into private hands. ==In 
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeR-xLuBVYAYO6bhTFoJ59d4ato22u7RqabpqxN8iHAaOO3mv81qkaAWszQkBr5gQetgePOEy-rLfGbwS6fSQk-thM26kcMG3D1gTI38ipYYcEoXvgWg3pYDaWJPeOQt4XKJA5C?key=Pix1EM3zuyyKeg7imBI8Ot7z)
 
-###  Contestability
+### Contestability
 
 ==One perspective on the process of enclosure is that enclosure was sometimes accompanied by force, resistance, and bloodshed, and remains among the most controversial areas of agricultural and economic history in England.== Marxist and neo-Marxist historians argue that rich landowners used their control of state processes to appropriate public land for their private benefit. This created a landless working class that provided the labour required in the new industries developing in the north of England.
 
@@ -186,7 +186,7 @@ For example, one Marxist view was: "In agriculture the years between 1760 and 18
 
 Alternately, W. A. Armstrong argued that this is perhaps an oversimplification, that the better-off members of the European peasantry encouraged and participated actively in enclosure, seeking to end the perpetual poverty of subsistence farming. He stated, "we should be careful not to ascribe to [enclosure] developments that were the consequence of a much broader and more complex process of historical change. The impact of the eighteenth and nineteenth century enclosure has been grossly exaggerated....”
 
-###  People Move to New Industrial Cities
+### People Move to New Industrial Cities
 
 ==The Industrial Revolution brought rapid urbanization, or the movement of people to cities.== ==Changes in farming, soaring population growth, and an ever-increasing demand for workers led masses of people to migrate from farms to cities.== Almost overnight, small towns around coal or iron mines mushroomed into cities.
 
@@ -196,13 +196,13 @@ Other cities grew up around the factories that entrepreneurs built in once-quiet
 
 As enclosure locked people off their land, they were forced to move to the big industrial cities looking for work
 
-##  Why Did the Industrial Revolution Begin in Great Britain
+## Why Did the Industrial Revolution Begin in Great Britain
 
 ==The Industrial Revolution marked a period of development in the latter half of the 18th century that transformed largely rural,== agrarian societies in Europe and America into ==industrialised, urban ones.== Goods that had once been painstakingly crafted by hand started to be produced in mass quantities by machines in factories, thanks to the introduction of new machines and techniques in textiles, iron making and other industries.
 
 Fuelled by the game-changing use of steam power, ==the Industrial Revolution began in Britain and spread to the rest of the world, including the United States, by the 1830s and ‘40s.== Modern historians often refer to this period as the First Industrial Revolution, to set it apart from a second period of industrialisation that took place from the late 19th to early 20th centuries and saw rapid advances in the steel, electric and automobile industries.
 
-###  England: Birthplace of the Industrial Revolution
+### England: Birthplace of the Industrial Revolution
 
 ==Thanks in part to its damp climate, ideal for raising sheep, Britain had a long history of producing textiles like wool, linen and cotton.== But prior to the Industrial Revolution, the British textile business was a true “cottage industry,” with the work performed in small workshops or even homes by individual spinners, weavers and dyers.
 
@@ -210,7 +210,7 @@ Starting in the mid-18th century, innovations like the flying shuttle, the spinn
 
 More efficient, mechanised production meant Britain’s new textile factories could meet the growing demand for cloth both at home and abroad, where the nation’s many overseas colonies provided a captive market for its goods. In addition to textiles, the British iron industry also adopted new innovations. Chief among the new techniques was the smelting of iron ore with coal (a material made by heating coal) instead of the traditional charcoal. This method was both cheaper and produced higher-quality material, enabling Britain’s iron and steel production to expand in response to demand created by the Napoleonic Wars (1803-15) and the later growth of the railway industry.
 
-###  Impact of Steam Power
+### Impact of Steam Power
 
 ==An icon of the Industrial Revolution broke onto the scene in the early 1700s, when Thomas Newcomen designed the prototype for the first modern steam engine.== Called the “atmospheric steam engine,” Newcomen’s invention was originally applied to power the machines used to pump water out of mine shafts.
 
@@ -220,13 +220,13 @@ In the 1760s, Scottish engineer James Watt began tinkering with one of Newcomen�
 
 Just as steam engines needed coal, steam power allowed miners to go deeper and extract more of this relatively cheap energy source. The demand for coal skyrocketed throughout the Industrial Revolution and beyond, as it would be needed to run not only the factories used to produce manufactured goods, but also the railroads and steamships used for transporting them.
 
-###  Transportation During the Industrial Revolution
+### Transportation During the Industrial Revolution
 
-####  Evolution of Railways
+#### Evolution of Railways
 
 Britain’s road network, which had been relatively primitive prior to industrialisation, soon saw substantial improvements, and more than 2,000 miles of canals were in use across Britain by 1815. In the early 1800s, Richard Trevithick debuted a steam-powered locomotive, and in 1830 similar locomotives started transporting freight (and passengers) between the industrial hubs of Manchester and Liverpool. By that time, steam-powered boats and ships were already in wide use, carrying goods along Britain’s rivers and canals as well as across the Atlantic.
 
-###  Communication and Banking in the Industrial Revolution
+### Communication and Banking in the Industrial Revolution
 
 The latter part of the Industrial Revolution also saw key ==advances in communication methods==, as people increasingly saw the need to communicate efficiently over long distances. In 1837, British inventors William Cooke and Charles Wheatstone patented the ==first commercial telegraphy system==, even as Samuel Morse and other inventors worked on their own versions in the United States. Cooke and Wheatstone’s system would be used for railroad signalling, as the speed of the new trains had created a need for more sophisticated means of communication.
 
@@ -234,7 +234,7 @@ Banks and industrial financiers rose to new prominence during the period, as wel
 
 In 1776, Scottish social philosopher Adam Smith (1723-1790) promoted an economic system based on free enterprise, the private ownership of means of production, and lack of government interference.
 
-###  Working Conditions
+### Working Conditions
 
 Though many people in Britain had begun moving to the cities from rural areas before the Industrial Revolution, this process accelerated dramatically with industrialisation, as the rise of large factories turned smaller towns into major cities over the span of decades. This rapid urbanisation brought significant challenges, as ==overcrowded cities suffered from pollution, inadequate sanitation and a lack of clean drinking water.==
 
@@ -246,7 +246,7 @@ In the decades to come, outrage over substandard working and living conditions w
 
 Source: [https://www.history.com/topics/industrial-revolution/industrial-revolution](https://www.history.com/topics/industrial-revolution/industrial-revolution)
 
-###  Why Did the Industrial Revolution Start in Great Britain in the 1750s?
+### Why Did the Industrial Revolution Start in Great Britain in the 1750s?
 
 ==Many factors played a part in the development of the industrial revolution in Great Britain.== The seeds were sown, quite literally, thanks to the agricultural revolution that enabled the production of food surplus and population growth.
 
@@ -260,7 +260,7 @@ Initial developments occurred in the cotton industry with the development of the
 
 Source: [https://interestingengineering.com/why-did-the-industrial-revolution-start-in-britain](https://interestingengineering.com/why-did-the-industrial-revolution-start-in-britain)
 
-##  The Industrial Revolution Nature and Significance
+## The Industrial Revolution Nature and Significance
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXclCsLcebHLa65fEILZ-a1W0WbJE4r5b9DRFDRk6Gr-P2ElxZJPYakmKObprksKMnNJ7MkRk8t8Xsf4Tri60MtCwLikfjZ8lj3YNQ8QQo4bts3ngc7_jNhCJKyRdxonntLYrBEuSQ?key=WQtKy9lGoK_MZ2XUmEUh9PCB)
 
@@ -268,7 +268,7 @@ Source: [https://interestingengineering.com/why-did-the-industrial-revolution-st
 
 Historians regard industrialisation as the biggest change in human history since the coming of the wheel, or the development of agriculture. ==Like these earlier revolutionary changes, the Industrial Revolution did not begin suddenly, but occurred over a long period of time.==
 
-###  Australian Manufacturing for the Masses
+### Australian Manufacturing for the Masses
 
 ![|0x0](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfH0A4xTOHXnD5WMGUrrDWO0muvQvDPU7dwO-YkUE4qf9lA4A_z5sIJ8oJDwtMzdSCBLQQ4AHY8k0rdXAgixsu0VwkFASbSOnYhaIC_xeMm-87vaulBa4DdBbarnLM7VboVW0Lebg?key=WQtKy9lGoK_MZ2XUmEUh9PCB)
 
@@ -280,7 +280,7 @@ Transport and communication links became a priority as Australia's agricultural 
 
 The Australian economy boomed during the 1880s. Mining dredges for the goldfields, lifts for city buildings, pumps for water sewerage systems and bricks for thousands of new houses were mass-produced in Australia's factories. The power of technology and industry combined with population growth to transform a penal colony into a thriving new nation.![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdsJd0ukrR-iR_VHdVB4ls_cTvhfUemGSqx8N5iwy59lQY-tgYFq9zd2Ucv195qPqZEL5HPOs_uqz8IRg0SWqHrTiip2enE5SFYXnnj-UIyoJvOx4BfrnbkidDT7_sWiVfc30Pz?key=WQtKy9lGoK_MZ2XUmEUh9PCB)
 
-###  From Revolution to Reform - Significance of the Industrial Revolution
+### From Revolution to Reform - Significance of the Industrial Revolution
 
 The Industrial Revolution eventually changed the way that people lived all over the world.
 
@@ -295,7 +295,7 @@ Source 4 - Timeline of significant inventions and events during the industrial r
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdgxkXKD4wftzk60rcEG8A2K2qp2ThKoURhMAMz-P7_0GjpBs3-Tuekp83k1YOmI92yP7fkdjFaM73j3IwkQeeH_IpeNWaw678KXT_ZpLhdFwK_3sTXFbuPyFwwtKLIOTbCqrvF8g?key=WQtKy9lGoK_MZ2XUmEUh9PCB)
 
-##  Industrial Revolution Changing Ways of Life
+## Industrial Revolution Changing Ways of Life
 
 ==The rapid growth of factories between 1800 and 1850 affected everybody's lives.== Life improved for mechanics - those who built and serviced the machines. They were paid well, and set up 'mechanics institutes' with their own libraries and held regular lectures there. They became part of a growing middle class.
 
@@ -309,7 +309,7 @@ Friedrich Engels (1820-1895) was the son of a wealthy German industrialist. Sent
 |---|
 |Source 2 - In his book, Condition of the Working Class in England, Engels quotes from a police report after two boys were arrested for stealing and eating a half-cooked calf's foot.<br><br>When a policeman went to his widowed mother's house to investigate, he found her with six of her children literally huddled together in a little back room, with no furniture but two old rush-bottomed chairs with the seats gone, a small table with two legs broken, a broken cup, and a small dish. On the hearth was scarcely a spark of fire, and in one corner lay as many old rags as would fill a woman's apron, which served the whole family as a bed, For bed clothing they had only their scanty day clothing.|
 
-###  Children
+### Children
 
 Most children had worked before the revolution - either helping on the farm or in spinning and weaving in the home. They had no schooling and no childhood as we have today. However, working in factories was far worse than working in the home. They were working near dangerous machinery and, being under the control of employers rather than their parents, they could easily be exploited. Yet wages were so low for adults that a family could not survive without children working.
 
@@ -335,7 +335,7 @@ Source 5 – A historian describes how chimney sweeps were employed.
 
 The very poorest London parents found they could apprentice a child to a chimney sweep much younger than any other occupation. More than this, no apprentice fee was expected, and the master sweep was even ready to pay a sum to the parents for the service of the child, who was thus literally bought and sold. “It was a common practice”, said David Porter, a remarkable master chimney sweeper, “for parents to carry about their children to the master chimney sweepers and dispose of them to the best bidder, as they cannot put them to any other master at so early an age.” (Dorothy George, from England in Transition, Penguin, 1964, pp.123-4.)**
 
-##  Analysing a Visual Source
+## Analysing a Visual Source
 
 Child labour was common during the Industrial Revolution, with many children working up to 16 hours a day.
 
@@ -343,9 +343,9 @@ Child labour was common during the Industrial Revolution, with many children wor
 
 ► A hurrier and two thrusters heaving a corf (a basket or small wagon) full of coal, as depicted in the 1853 book The White Slaves of England by J Cobden
 
-##  Working Conditions in Industrial Revolution
+## Working Conditions in Industrial Revolution
 
-###  Working Conditions in Factories
+### Working Conditions in Factories
 
 - **Long working hours** - normal shifts were usually 12-14 hours a day, with extra time required during busy periods. Workers were often required to clean their machines during their mealtimes.
 
@@ -360,19 +360,19 @@ Child labour was common during the Industrial Revolution, with many children wor
 
 From https://www.bbc.co.uk/bitesize/guides/zkxrxyc/revision/2
 
-##  Experiences of Ordinary Men, Women and Children
+## Experiences of Ordinary Men, Women and Children
 
  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKzic06PnYH1uUQlNe7QG9x-1X_WxyKZo4ZCLzqdLIo1XBF7Br0iPu1IxRnJfuWrGLmdpuCy4381deoKzzGxzun5lnogyZim4tsVSAx-xBDcwwZA6pNQ0le1C6oR_APIENOyWcAA?key=_SQTa-WIr3ZkAzmF1RfLiy5W)
 
-###  Life in England
+### Life in England
 
 For the millions of people who left their country villages to come to the city, the Industrial Revolution seemed to promise good work and a good wage. In many cases, these hopes were quickly dashed. For most, work in this new world meant very long hours in dangerous conditions for inadequate pay. For others, the new cities offered only unemployment and poverty.
 
-###  The Industrial City
+### The Industrial City
 
 The Industrial Revolution created large cities and towns, in which the living conditions for ordinary people were very poor. The need to accommodate all of the new workers in the factories forced the rapid construction of cheap housing resulting in new suburbs of extremely poor quality. Government officials noticed these problems, and frequently sent observers to report on living conditions.
 
-####  Factories
+#### Factories
 
 ![|583x438](https://lh7-rt.googleusercontent.com/docsz/AD_4nXflemaXpDhr9z09_tdq_OPeGvY6xmAg4i3OuIjv9ObM9qmA3vyKRnGrfBWk1byKl13mKC6AMCAXzrOh4GZbqR7JqtvvIJT6ZeEPDaJMRwKqgHXu21nPvaPat18Nbo0DdExsM9Ak-g?key=_SQTa-WIr3ZkAzmF1RfLiy5W)
 
@@ -384,13 +384,13 @@ A policeman patrols the street behind them, suggesting that everything is in ord
 
 In most factories, people worked long hours and received low pay. If the workers demanded better wages, the owners dismissed them and took on other desperately poor workers instead. Moreover, the factory you see probably lacked safety equipment. The industrialists argued that safety equipment cost money but made no profits, so there was no point buying it. In the cotton mills, for example, young women like those in the painting worked for years in a factory where the air was full of fine cotton dust. When they breathed it in, it filled their lungs, causing lung disease and finally death. It was possible to buy large extractor fans to remove the cotton dust, but many industrialists argued that it was cheaper to hire new workers to replace those who died.
 
-####  Child Labour
+#### Child Labour
 
 One of the worst problems in the new factory was the use of child labour. By law, a child was not allowed to work until the age of six, but few factory owners obeyed this rule.
 
 Once they were employed, children worked very long hours. Those who fell asleep were whipped by their employers to stay awake; some were so exhausted they fell forward into the working machinery and were killed. In some factories, children were employed to use their small hands to clean out the machines while they were still operating, and many were injured when their hands got caught in the moving parts.
 
-####  Warning Voices
+#### Warning Voices
 
 Some of the strongest warning voices of the Industrial Revolution came from the industrialists themselves. Many were businessmen who believed that making profits was the only thing that mattered.
 
@@ -419,17 +419,17 @@ Workers often had to work long hours, in dangerous conditions, for a wage that w
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8MYc8pfP9qne4lnqWSo9MnkqDjqPa9NaNYGv5j_v3AP2m-Jjc3C_FJC660GCqnasTY4uKuVFc_krmbS-BYdSbO2Bnm02TqCjoxYv0csheSJpAMuQpNojLXKJEirMJJ0OU0P80qA?key=_SQTa-WIr3ZkAzmF1RfLiy5W)
 
-###  What Were the Short-term and Long-term Impacts of the Industrial Revolution?
+### What Were the Short-term and Long-term Impacts of the Industrial Revolution?
 
 As we have seen, the Industrial Revolution had many appalling short-term impacts. These included the exploitation of labour, grinding poverty and environmental damage. In the long term, the Industrial Revolution increased standards of living in the Western world and provided the infrastructure for modern urban society. It also facilitated globalisation. This involved the rise of international trade-the movement of goods and capital-and the more rapid spread of ideas through new forms of communication. Globalisation, however, had a negative side. It eroded some cultures, and was part and parcel of cultural imperialism. This is related to empire building.
 
-###  Global Changes in Landscapes, Transport and Communication
+### Global Changes in Landscapes, Transport and Communication
 
 The Industrial Revolution not only changed the way goods were manufactured but also led to changes in the way land was used, as well as changes to transport and communication. Railways, steamships and the telegraph became commonplace.
 
-##  Convicts, Free Settlers and Slaves
+## Convicts, Free Settlers and Slaves
 
-###  Transportation and Migration
+### Transportation and Migration
 
 The Enclosure Acts and the Industrial Revolution drove country people to the cities in the search for new forms of work. The population of Britain grew and the cities became more crowded. Conditions in the city deteriorated as streets were filled with garbage and sewage, and disease spread. The difference between the lives of the privileged rich and the despairing poor was probably greater at this time than any other period in British history. Approximately one-tenth of the English population, and one-quarter of the Irish population, were destitute.![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdmhVVICHH4PxrvpBWkdQmjiYIKWgfnWaP-hi7I450Cqm13w6LhPN1J-E-xw3lxtV1gdg1H22wcpWLRCcd1I90VeIcqBVspV1zWzqT8pItAif2wOk8XY8Ekr-3bmSUGQKlLsLi8?key=tZNnXwgHKOHL3gM6Bl7JCbo1)
 
@@ -437,7 +437,7 @@ Children as young as six years of age mined the coal that was driving the engine
 
 Source 1 The 1751 painting Gin Lane by William Hogarth showed the violence and poverty of life in the streets of the late eighteenth-century slums of England’s cities.
 
-###  Convict Transportation
+### Convict Transportation
 
 Without jobs and a future many people turned to crime. Their choice was between stealing or starving. At this time there was no organised police force and no real way of managing the serious social problems of eighteenth and nineteenth-century Britain. The British government responded to the crime wave by sentencing more criminals to death. Executions were carried out in public to act as a reminder to criminals of what would become of them if caught. By the early nineteenth century there were 200 different crimes punishable by death.
 
@@ -447,7 +447,7 @@ During most of the eighteenth century, prisoners were usually transported to the
 
 The British government began a plan to ship her criminals to West Africa. Many were transported in leg irons on slave ships, bound for Africa’s coastal slave forts. Convicts were sent to West Africa to then work as convict-soldiers, assigned to guard captive Africans waiting to be sold into slavery. In 1781 murder and mutiny destroyed Britain’s West African plan for her banished criminals. The British government then decided to transport her convicts to the distant shores of the great south land, Australia.
 
-###  Free Settlers — Migration to Australia
+### Free Settlers — Migration to Australia
 
 The hardships of Industrial Revolution Britain created crime and a constant supply of convicts for transportation to Australia. It also created a large number of potential migrants. Hardship pushed people to look to the world beyond for the opportunity to build a better way of life. The government of the penal colony encouraged free settlers to make the long journey halfway around the world. Within five years, free settlers were arriving in the colony. They were given land grants by the governor and the use of convict labour to farm their properties. Between 1830 and 1850 over 200 000 people made the journey to Australia. They came of their own choice, and they came to stay.
 
@@ -459,7 +459,7 @@ Source 2 Map showing the route taken by the First Fleet. The fleet of 11 ships d
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | That the skilful farmer would be enabled to obtain an independent and comfortable subsistence is, however, indubitable; and the larger his family, provided they were of sufficient age to afford him an effectual co-operation, the greater would be his chance of a successful establishment. Hundreds of this laborious class of people, who in spite of unremitting toil and frugality, find themselves every day getting behind-hand with the world, would undoubtedly better their condition by emigrating to this colony, if there were only a probability that they would be enabled to go on from day to day as they are doing here. In this country they are at best but tenants of the soil they cultivate; whereas there they would be proprietors, and the mere advance which would be taking place in the value of their farms, would before many years not only render them independent but even wealthy …<br><br>  <br><br>For the artisan and mechanic, who are skilled in the works of utility, rather than luxury, there is, as it has been already remarked, no part of the world, perhaps, which affords an equal chance of success. To any, therefore, who have the means of transporting themselves and families to this colony, the removal would be in the highest degree advantageous. They could not fail to find immediate employment, and receive a more liberal return for their labour, than they would be able to procure elsewhere. The blacksmith, carpenter, cooper, stone-mason, brick-layer, brick-maker, wheel and plough-wright, harness-maker, tanner, shoe-maker, taylor, cabinet-maker, ship-wright, sawyer, &c. &c. would very soon become independent, if they possessed sufficient prudence to save the money which they would earn.<br><br>  <br><br>The advantages, however, which the colony offers to this class of emigrants, great as they undoubtedly are, when considered in an isolated point of view, are absolutely of no weight when placed in the balance of comparison against those which it offers to the capitalist, who has the means to embark largely in the breeding of fine woolled sheep.<br><br>  <br><br>Source 3 In 1819 the explorer and politician W.C. Wentworth wrote a book about the colony. In his book he set out his vision of Australia and the opportunities offered to free settlers in the new land. |
 
-###  The Slave Trade
+### The Slave Trade
 
 Sixteenth-century Europe established a global trade network. This international trade made it possible for valuable products such as maize, sugar, silver, coffee, tobacco and cotton to be purchased in European marketplaces. Europeans were at the centre of this world trade because they built great ocean-going fleets of trade ships, and they controlled the vast plantations and mines producing these valuable goods.
 
@@ -471,13 +471,13 @@ Source 4 Slaves working in diamond mining in Brazil
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcogpycYpPtg0g_nEoPwp7faSg1bUpeyJgJIlo9R7DWJ4SqVDF-RjZcqSejydtoh4_TrE9g3W3NW4O9ciDKGxFvCxM_8fLGlnt_TiqWM7mrHSGzZEJp_mg-e25PAXWYs8FIGZLaPg?key=tZNnXwgHKOHL3gM6Bl7JCbo1)Source 5 Cotton produced by slaves on the plantations of North America was loaded onto ships for transport to the cotton mills of Europe.
 
-###  The Triangular Trade
+### The Triangular Trade
 
 As the numbers of European settlers across the Americas steadily increased, the ‘Triangular Trade’ developed (see source 6). Ships laden with European goods sailed to Africa, collected a cargo of slaves and then sailed back to Europe with valuable American trade goods such as sugar and cotton. The Atlantic crossing between Africa and the Americas was called the Middle Passage.![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdI5AK0qOVy9K-p7zJomcv2--b-PxT395stqZJZcldkqTiTIbi6ty30dDQACesWwDkNaF1fsMTljHMEUnmU18f3x2dihbn4TsNLdj3OJTUXhXFxcZO8t90Rpyi-2oJXqzkUjN9J?key=tZNnXwgHKOHL3gM6Bl7JCbo1)
 
 Source 6 Map showing the movement of slaves out of Africa
 
-###  Slaves to Industry
+### Slaves to Industry
 
 The wealth from the slavery of the American plantations helped to build the Industrial Revolution in Great Britain. Much of the British technology that changed the world was developed from the profits made by slave traders. At the beginning of the nineteenth century, the British government received millions of pounds in revenue from the slave trade, and the taxes and duties that accompanied it.
 
@@ -500,13 +500,13 @@ English planters made their fortunes in the colonies and then returned to Britai
 
 Source: Oxford Insight History, Stage 5, 2nd edition, 2021
 
-##  Free Settlers to the New World
+## Free Settlers to the New World
 
 Unlike the convicts and slaves, free settlers moved willingly to start new lives. During the eighteenth and nineteenth centuries, North America, Australia, New Zealand and South Africa were seen as offering abundant land, although no consideration was given for the displacement of Indigenous peoples. In some cases, free grants of land were made. Even when land was not free, prices were usually low, and this was possibly the greatest factor that pulled new immigrants towards these places. The discovery of gold in North America and Australia also led to a dramatic shift in population. In 1750, Europe's population was 163 million, and it grew to 408 million by 1900. Over the same period, North America's population rose rapidly from 2 million to 82 million.![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXczSIXHwglkEgZUEDFbkKPzsYXqsJyCRVlY-STzzO-6EAJumG97rhpag-eyjJNHpA0ZpNDt2QlpMKJ0muF6wG6OntUuQL39wdXSxsEUoT-pfcYxso8bx985l5HZBvOgXYK-8kCG?key=7swA_TLspcop97OMhZyVi5B2)
 
 Source 1 An advertisement for transport to the California goldfields, 1849 
 
-###  North America
+### North America
 
 The British colonies in what we now know as the United States of America fought a war in the eighteenth century (the American War of Independence) to break free of British control. The chance to be a part of a new nation was a powerful 'pull' factor in drawing new immigrants. It led to a period of European expansion, as people moved west across the country, developing new settlements and trade routes. All these changes created more employment and opportunities for Europeans to own land. By the late nineteenth century, Canada, also a British colony, was starting to open up. Like the United States, it had large areas of land available. To encourage development of the west, land was given free to European settlers along the route of the Canadian Pacific Railway.
 
@@ -516,7 +516,7 @@ Because of these gold rushes, North America became known as a land of opportunit
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXctb-I1sszmjWoG9jGrW9sDg3jIcKW1Iox0KrGWJZl0wV7MP-TRmHVi6OetqXWCGc1QAim53OGA8_LS7DGmkhMUAxFTsTBygTF0gx6E5yI_drwtzANNTB6DJMbtdfJOA0BOj2Ebyg?key=7swA_TLspcop97OMhZyVi5B2)Source 2 A photograph from the nineteenth century shows a street scene in Idaho Springs, Colorado, as goldminers flocked to the area.
 
-###  Australian Colonies
+### Australian Colonies
 
 By the 1820s, although convicts and former convicts still made up the largest segment of the population of Australia, there were growing numbers of free settlers arriving. The need for workers had increased as land exploration opened up the continent.
 
@@ -532,7 +532,7 @@ Source 3 One of many posters used in Britain during the nineteenth century to en
 
 Source: Oxford Insight History, Stage 5, 2nd edition, 2021
 
-##  Connection between The Industrial Revolution and Convicts, Free Settlers and Slaves
+## Connection between The Industrial Revolution and Convicts, Free Settlers and Slaves
 
 |   |   |
 |---|---|
@@ -541,7 +541,7 @@ Source: Oxford Insight History, Stage 5, 2nd edition, 2021
 |Free Settlers|- Free settlers were encouraged by the governments of the new land by the awarding of land grants.<br>    <br>- The harsh living conditions of industrial revolution Britain encouraged large numbers of people to want to relocate to new countries like Australia because of the opportunities they offered.<br>    <br>- The new settlements also needed to benefit from those skilled in new technologies.|
 |Slaves|- Many industries and businesses in the industrial revolution were founded on money earnt from the slave trade.<br>    <br>- Slaves were used as cheap labour for production during the industrial revolution.<br>    <br>- Technology developed in the Industrial Revolution made slave labour even more productive: The development of the steam engine increased the efficiency of sugar plantations in Cuba, as horses were replaced by machinery. The sugar mills operated non-stop, and were worked by slaves on 18-hour shifts.|
 
-##  Convict Transportation from Britain
+## Convict Transportation from Britain
 
 As we have learnt, growing populations across Europe, and the movement of people from rural villages to rapidly developing towns and cities, resulted in a massive increase in crime rates in Britain during the seventeenth and eighteenth centuries. There was serious competition for available jobs, housing, food and services (such as access to doctors). For some, petty crime was an easy way to earn a living, while for others it was a necessity - a case of steal or starve. Most criminals were poor, unskilled and uneducated. There was little understanding of rehabilitation, so the only response to this growth in criminal activity was punishment. In the late eighteenth century, at least 200 crimes were punishable by execution, including murder, treason and theft of valuable goods.
 
@@ -559,15 +559,15 @@ Source 1 An artist's impression of prisoners being rowed out to a hulk, 1829
 
 Examples of people who were executed in the late eighteenth century include an admiral killed by firing squad for 'not doing his utmost' in a battle; one man burned at the stake for forgery; and another hanged for 'playing cards with a forged ace of spades·.
 
-###  The Penal Colony of New South Wales
+### The Penal Colony of New South Wales
 
 The First Fleet of ships left Britain carrying over 700 convicts on the six-month journey to New South Wales in 1787 (see Source 6). Arriving at Botany Bay on 18 January 1788, it soon became clear that the area was unsuitable for colonisation, so the fleet moved on to Port Jackson (Sydney Harbour), landing at Sydney Cove on 26 January 1788.
 
-###  Other Penal Colonies
+### Other Penal Colonies
 
 Other penal colonies in Australia were later established in Tasmania, at Port Phillip in Victoria, on the Swan River in Western Australia, at Moreton Bay in Queensland, and on Norfolk Island. For more than 80 years, convicts and ex-convicts provided the labour force that helped to develop these Australian colonies by building roads and houses, and clearing dense forests.
 
-###  Political Prisoners
+### Political Prisoners
 
 ![|304x435](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdOG-sm1EkNK-cQIX0dgVduathSulO2s5NjdU_SbXKaOluNn_84mnd2nTqzLkH9WK8W6xQFnRzV08OAoVMp6Ewni9TVnjFH72gOE72-EcnSnm4DI191ZyprSNge7EPYoq7124Cb?key=ZA4x8MtEUyASfIZgQ-OAI3uJ)
 
@@ -597,9 +597,9 @@ The most common offences that resulted in transportation to Australia after 1788
 
 Source: Oxford Insight History, Stage 5, 2nd edition, 2021
 
-##  Impacts of European Settlement on Aboriginal People
+## Impacts of European Settlement on Aboriginal People
 
-###  Impact on the Eora People of Sydney
+### Impact on the Eora People of Sydney
 
 The founding of the convict settlement of Sydney directly resulted in the dispossession of Aboriginal people. Over 30 separate Aboriginal clans had lived in the Sydney region for at least 40 000 years. One of these clans, the Gadigal people, came from the south shore of Sydney Harbour, in the area from Watsons Bay to Sydney Cove. It was the Gadigal people who witnessed the 1788 arrival of the First Fleet at Sydney Cove.
 
@@ -613,7 +613,7 @@ Governor Arthur Phillip was under British orders to establish good relations wit
 
 Behind British goodwill was the clear intention to establish a British prison on Aboriginal land. Within a week of arrival, the British had cleared trees, built the Governor's small cottage and planted a vegetable garden. By 1790 the Eora had names for the uninvited visitors - Berewalgal - people from a distant land. The early attempts at establishing friendly relationships began to fail when the clash over land and culture began.
 
-####  A Battle for Survival
+#### A Battle for Survival
 
 The sudden arrival of over 1000 Berewalgal, who did not respect traditional land boundaries and claimed all the Eora land for themselves, placed a huge burden on the limited resources of the area. By the first winter of 1788 the Eora communities were beginning to experience hardship and hunger as the colonists took the best land and the Eora were forced onto the lands of neighbouring clans to hunt and gather food. The battle for survival had begun.
 
@@ -621,7 +621,7 @@ The sudden arrival of over 1000 Berewalgal, who did not respect traditional land
 |---|
 |In December 1788 a group of convicts reported a hostile encounter with a large band of warriors. Governor Phillip feared that relations with the Eora were steadily deteriorating and decided that communication had to be established. The new strategy was to kidnap Eora men, teach them English and send them back to their communities as goodwill ambassadors. Twelve days later an Eora man, Arabanoo, was kidnapped from Manly Beach. He quickly learnt to speak English but died within a year from the smallpox epidemic, called gal-gal-Ja by the Eora.|
 
-####  The Spread of Disease
+#### The Spread of Disease
 
 Smallpox spread rapidly and devastated the Eora people. Convict work gangs reported seeing the effects of the disease in April, 1789. Bodies covered in sores were being found in caves or lying unattended at abandoned camp sites. In May, Captain John Hunter noted the absence of the usual signs of Eora daily life around Sydney Cove. Arabanoo, an Eora man who had been taken captive and learned to speak English, was taken down to the harbour to make contact with his family. He found no-one. According to the eyewitness report of David Collins:
 
@@ -645,7 +645,7 @@ SOURCE 3 Engraving by Michael Adams, 1793. The Aboriginal woman in the image is 
 |---|
 |[Arabanoo's] countenance [face] was thoughtful, but not animated; his fidelity [loyalty] and gratitude, particularly to his friend the governor, were constant and undeviating, and deserve to be recorded. Although of a gentle and placable temper, we early discovered that he was impatient of indignity, and allowed no superiority on our part. He knew that he was in our power; but the independence of his mind never forsook him. . . .<br><br>Extract from W. Tench, Complete Account of the Settlement at Port Jackson, London, 1793, p. 10.<br><br>  <br><br>SOURCE 4 A personal account of the character of Arabanoo, as recorded by the marine captain of the First Fleet, Watkin Tench|
 
-###  European Settlement Expands
+### European Settlement Expands
 
 As the quantity of harbour fish dwindled and as vegetable supplies were eaten out, the colonists began to hunt and fish in the lands beyond their immediate settlement. The rapid expansion of European settlement continued after the departure of Governor Phillip in 1792, to the land that stretched from Sydney to the foot of the Blue Mountains. This was the land of the Dharug people. The lagoons and creeks of the Hawkesbury-Nepean River and the open grasslands of the plains provided the Dharug with their source of life and culture. The Dharug required a large enough area in which to move about, hunting kangaroos, possums, fish and other animals, and gathering seasonal food such as yams. When the British cleared the land for agriculture, housing and industry, the loss of traditional Aboriginal food sources was complete.
 
@@ -658,7 +658,7 @@ The British government continued to give land grants to settlers and to big past
 - destroy traditional hunting and gathering grounds
 - disregard traditional law and sacred sites.
 
-###  Losing the Land
+### Losing the Land
 
 The nineteenth-century experience of the Eora and the Kamilaroi peoples was repeated across the continent. The Kamilaroi people were given no compensation or payment for the 223 000 hectares of their land taken by the Australian Agricultural Company in the 1830s. The Kamilaroi were allowed to stay on their land only if employed by the company as stockmen or as domestic servants.
 
@@ -676,7 +676,7 @@ People were encouraged to establish farms on the reserves so that they could bec
 
 Source: Retroactive 2, Stage 5 History, NSW, 2014
 
-##  The Experiences of Slaves
+## The Experiences of Slaves
 
 Slaves were kidnapped from the north-west coast of Africa - from places such as Guinea (a French colony) or Gold Coast (a British colony). Slave catchers used rope nets to capture young Africans. Often, they were captured while they were out hunting, and their families would never have known what happened to them. They were herded into cages and then loaded onto slave ships.
 
@@ -696,7 +696,7 @@ Source 1 An illustration from The Illustrated London News, 20 June 1857, shows h
 
 It was common for rebellious slaves to have their hands cut off, and then their heads. The severed body parts were then passed around to other slaves below deck as a warning. For some African tribes, the severing of their heads was the worst imaginable fate, as they believed that without their heads, their spirits would never find their way home. In one terrible case, a newborn baby - whose slave mother had died in childbirth on a slave ship - was left out in the sun to die, and later thrown overboard. The captain was found not guilty of murder because there had been no 'premeditated malice'. The court ruled that he had not planned for the woman to die, and that without a mother the child would have died anyway.
 
-###  Transportation of Slaves
+### Transportation of Slaves
 
 |   |
 |---|
@@ -710,7 +710,7 @@ Source 3 A steel slave whip used in the nineteenth century on ships transporting
 
 Source 4 The various forms of restraint used for slaves. The three metal prongs around the neck ensured that if a slave managed to escape, he could not lie down.
 
-###  Arrival in the Americas
+### Arrival in the Americas
 
 When the slave ships docked at one of the American ports, the slaves were unloaded and prepared for auction. Sores and wounds were covered with tar to make them less visible, and troublesome slaves were given laudanum (made from opium) to sedate them. The slaves were paraded like animals before the interested buyers. Potential purchasers would examine them thoroughly, look in their mouths, feel their muscles, and even comment on their ability as potential breeders of more slaves. The entire process was dehumanising and undignified, and the slaves had no idea where they were or what was ahead of them.
 
@@ -749,7 +749,7 @@ Source 9 Black American music has made a major contribution to twentieth century
 
 Source: Oxford Insight History, Stage 5, 2nd edition, 2021
 
-##  The Translatlantic Slave Trade
+## The Translatlantic Slave Trade
 
 Slavery is as old as human history. It was a feature of life in the ancient world, and also a feature of African history even before the arrival of the Europeans. Traditionally, African tribal leaders made slaves of their captured enemies, although they stayed in their own country and could buy their way out of slavery.
 
@@ -765,7 +765,7 @@ Source 1 Shackled slaves being put in the hold of a slave ship bound for the Ame
 
 Unlike convicts, who could have opportunities in a new land after completing their sentences, slaves had very little to look forward to. Slavery usually lasted for life, and a slave's children were born into slavery. These children were often the result of European sexual abuse of women in slavery.
 
-###  Transportation of Slaves
+### Transportation of Slaves
 
 Perhaps the most notorious leg of the transatlantic slave trade was the 'middle passage'. This was the section of the journey in which slaves were transported from Africa, across the Atlantic Ocean, to the Americas. The journey lasted anywhere from one to six months.
 
@@ -777,7 +777,7 @@ Those slaves who did survive the 'loose pack' would also arrive in better condit
 
 Source: Oxford Insight History, Stage 5, 2016
 
-##  The Lives of Free Settlers in Australia
+## The Lives of Free Settlers in Australia
 
 Settlers, squatters and selectors
 
@@ -819,7 +819,7 @@ Description of life on Naraigin, a sheep station 300 kilometres from Brisbane, c
 
 Source 4 A settler family's bark house c. 1870, New South Wales
 
-###  The Gold Rush in Australia
+### The Gold Rush in Australia
 
 The discovery of gold in 1848 at a sawmill in California sparked a gold rush that led to the spectacular growth of the west coast of the United States. As people flooded to the goldfields, San Francisco was transformed from a city of 1000 people in 1848 to more than 25 000 people by the end of 1849.
 
