@@ -11,7 +11,6 @@ last_edit_date: Saturday, May 10th 2025, 2:12:51 pm
 - [[HSIE Assessment Task 1.pdf]]
 - [[HSIE dot point]]
 - [[HSIE dot point.pdf]]
-- [[HSIE Exam Notes Movement of Peoples and WWI]]
 - [[HSIE prac]]
 - [[Year 9 HSIE]]
 
