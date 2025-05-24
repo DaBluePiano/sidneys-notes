@@ -6,7 +6,6 @@ last_edit_date: Saturday, May 24th 2025, 3:34:45 pm
 ---
 
 %% Begin Waypoint %%
-
 - [[10+10b The main causes of migration from 1750 to 1901]]
 - [[11 Agricultural Revolution - Enclosure]]
 - [[12a Causes of the Industrial Revolution Clickview Video.mp4]]
@@ -31,7 +30,7 @@ last_edit_date: Saturday, May 24th 2025, 3:34:45 pm
 - [[HSIE Exam Notes Movement of Peoples and WWI]]
 - [[HSIE Semester 1.docx]]
 - [[HSIE Semester 1.html]]
-- [[HSIE Semester 1]]
 - [[Impacts of the Industrial Revolution Transcript.pdf]]
+- [[Movement of Peoples Full Form]]
 
 %% End Waypoint %%

@@ -25,5 +25,6 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 - [[18 The Conscription Debate]]
 - [[19 The Anzac Legend]]
 - [[20 Treaty of Versailles]]
+- [[WWI Long Form]]
 
 %% End Waypoint %%
