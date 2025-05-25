@@ -1,8 +1,8 @@
 ---
-title: Template for Folder Notes
+title: World War I
 draft: true
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
+last_edit_date: Sunday, May 25th 2025, 12:30:18 pm
 ---
 
 %% Begin Waypoint %%
@@ -25,6 +25,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 - [[18 The Conscription Debate]]
 - [[19 The Anzac Legend]]
 - [[20 Treaty of Versailles]]
+- [[World War I Summarised]]
 - [[WWI Long Form]]
 
 %% End Waypoint %%

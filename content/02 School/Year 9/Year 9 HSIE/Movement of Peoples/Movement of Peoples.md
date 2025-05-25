@@ -2,7 +2,7 @@
 title: Movement of Peoples
 draft: true
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Saturday, May 24th 2025, 3:34:45 pm
+last_edit_date: Sunday, May 25th 2025, 6:40:02 pm
 ---
 
 %% Begin Waypoint %%
@@ -27,10 +27,10 @@ last_edit_date: Saturday, May 24th 2025, 3:34:45 pm
 - **[[Assessment Task 1]]**
 - [[Colonising Australia (1788-1901) The Melbourne Settler Colony Transcript.pdf]]
 - [[Colonising Australia (1788-1901) Transportation to Australia Transcript.pdf]]
-- [[HSIE Exam Notes Movement of Peoples and WWI]]
 - [[HSIE Semester 1.docx]]
 - [[HSIE Semester 1.html]]
 - [[Impacts of the Industrial Revolution Transcript.pdf]]
 - [[Movement of Peoples Full Form]]
+- [[Treaty of Versailles]]
 
 %% End Waypoint %%

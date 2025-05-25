@@ -16,6 +16,7 @@ last_edit_date: Monday, March 24th 2025, 2:16:01 pm
 	- [[~$IE Semester 1 Long Form.docx]]
 	- [[HSIE Assessment Task 1]]
 	- [[HSIE dot point]]
+	- [[HSIE Exam Notes Movement of Peoples and WWI]]
 	- [[HSIE Semester 1 Long Form.docx]]
 	- [[HSIE Semester 1 Long Form]]
 	- **[[Movement of Peoples]]**
