@@ -3,135 +3,117 @@ draft: false
 title: World War I Summarised
 tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, May 25th 2025, 12:33:44 pm
+last_edit_date: Monday, May 26th 2025, 8:43:53 pm
 ---
 
-# World War I
+# Overview of World War 1
 
----
+## Causes of World War I (M.A.N.I.A.)
 
-## The Origins of World War I
+- M - Militarism:
+- Nations raced to build powerful armies/navies (arms race).
+- Germany and Britain especially competed in naval development (e.g., HMS Dreadnought).
+- War was seen as inevitable and even desirable.
+- A - Alliances:
+- Europe divided into two alliances:
+- Triple Alliance: Germany, Austria-Hungary, Italy.
+- Triple Entente: Britain, France, Russia.
+- Alliances meant local conflicts could trigger a wider war.
+- Italy switched sides in 1915 to join the Entente.
+- N - Nationalism:
+- Extreme patriotism led to distrust and rivalry.
+- Slavic nationalism (esp. Serbia) created tension with Austria-Hungary.
+- National pride often prioritized over diplomacy.
+- I - Imperialism:
+- Competition for colonies, resources, and trade, especially in Africa and Asia.
+- Created rivalry and increased global tension.
+- A - Assassination:
+- Archduke Franz Ferdinand (heir to Austro-Hungarian throne) assassinated in Sarajevo (June 1914) by Gavrilo Princip.
+- Set off a chain reaction through alliances, leading to full-scale war.
 
-- **Root Causes**:
-  - **Nationalism**: Aggressive patriotism fueled competition among European powers (e.g., France sought revenge for Alsace-Lorraine).
-  - **Militarism**: Arms race between Germany and Britain (e.g., HMS *Dreadnought* in 1906) and army expansions.
-  - **Alliances**:
-    - **Triple Entente** (1907): Britain, France, Russia.
-    - **Triple Alliance** (1882): Germany, Austria-Hungary, Italy (later neutral).
-  - **Imperialism**: Competition for colonies in Africa/Asia (e.g., British fears of German expansion).
-  - **Assassination**: Archduke Franz Ferdinand killed by Gavrilo Princip (28 June 1914), triggering the July Crisis.
-- **Key Events Leading to War**:
-  - Austria-Hungary blamed Serbia for the assassination, issued an ultimatum (23 July 1914).
-  - Russia mobilized in support of Serbia; Germany declared war on Russia (1 August) and France (3 August).
-  - Germany invaded Belgium (Schlieffen Plan), prompting Britain to declare war (4 August).
+## 🔗 The Alliance Chain Reaction
 
----
+- Austria-Hungary declared war on Serbia.
+- Russia mobilised to defend Serbia.
+- Germany declared war on Russia, then on France.
+- Germany invaded Belgium; Britain entered the war.
+- Eventually, global involvement led to a world war.
 
-## The Causes of WWI (MANIA)
+## 🛡️ The War Fronts
 
-1. **Militarism**:
-   - Germany vs. Britain naval rivalry; rapid army expansions (e.g., Germany: 1.3m troops in 1880 → 5m in 1914).
-2. **Alliances**:
-   - Binding agreements turned regional conflicts into global wars.
-3. **Nationalism**:
-   - Slavic nationalism in Balkans (e.g., Serbia/Russia vs. Austria-Hungary).
-4. **Imperialism**:
-   - Scramble for colonies (e.g., British-German tensions in Africa).
-5. **Assassination**:
-   - Immediate trigger; Princip part of *Young Bosnia*, supported by Serbian nationalists.
+- Western Front:
+- Trench warfare created stalemates (France/Belgium).
+- Battles like Somme & Passchendaele saw massive casualties for minimal gains.
+- Technology (machine guns, barbed wire) favoured defence.
+- Eastern Front:
+- Battles between Germany, Austria-Hungary and Russia.
+- Ended in 1917 with Russia’s withdrawal following revolution.
+- Middle East/Gallipoli:
+- Anzacs landed at Gallipoli (April 1915); campaign failed due to poor planning and strong Turkish defence.
+- Evacuation in December 1915 marked end of campaign.
+- Harsh conditions and strategic failures shaped the Anzac legend.
 
----
+## 🇦🇺 Australia's Involvement
 
-## Australia’s Involvement in WWI
+- Declared war alongside Britain in August 1914.
+- Massive voluntary enlistment driven by:
+- Loyalty to Britain.
+- Sense of duty and masculinity.
+- Desire for adventure, peer pressure, and better pay.
+- Enlistment declined after Australians heard news of the reality of war, such as the human cost of the Gallipoli campaign.
+- Over 300,000 Australians served on the Western Front and Gallipoli.
+- Notable battles: Gallipoli, Fromelles, Pozières, Hamel.
 
-- **Enthusiasm for War**:
-  - PM Andrew Fisher pledged support: "to the last man and last shilling."
-  - 52,000 enlisted by December 1914; high physical standards lowered over time.
-  - **Reasons for Enlistment**: Patriotism, adventure, peer pressure, higher wages (6 shillings/day).
-- **Gallipoli Campaign (1915)**:
-  - **Objective**: Secure Dardanelles to aid Russia; failed naval assault led to land invasion.
-  - **ANZAC Landing** (25 April 1915):
-    - Mistimed artillery; Turkish resistance underestimated.
-    - **Conditions**: Heat, disease, flies, poor sanitation; 26,000 ANZAC casualties (10,000 deaths).
-  - **Key Battles**:
-    - **Lone Pine**: 2,300 Australian casualties; 7 Victoria Crosses awarded.
-    - **The Nek**: 234 Australians killed in 45 minutes due to failed charges.
-  - **Evacuation** (Dec. 1915): Minimal casualties; use of self-firing rifles to deceive Turks.
-- **Western Front (1916–1918)**:
-  - **Battle of the Somme** (1916): 20,000 Allied deaths on first day; Australians fought at Fromelles (5,533 casualties) and Pozières (23,000 casualties).
-  - **Passchendaele** (1917): Mud, artillery, and 38,000 Australian casualties.
-  - **1918 Offensive**: Lieutenant General John Monash’s tactics at Hamel (4 July) led to Allied breakthroughs.
+## 🧠 Key Battles
 
----
+- Gallipoli (1915):
+- Failed attempt to capture Dardanelles and aid Russia.
+- Harsh terrain, poor planning, Turkish resistance.
+- Famous battles: Lone Pine, the Nek.
+- 26,000 Anzac casualties; 10,000 deaths.
+- Somme (1916):
+- Aim: Break German lines.
+- Over 1 million casualties; little territorial gain.
+- Fromelles (1916):
+- First Australian Western Front battle; disastrous with 5,533 casualties in one night.
+- Pozières (1916):
+- Town captured quickly, but holding it cost 23,000 Australian casualties.
+- Passchendaele (1917):
+- Muddy, bogged-down fighting in Belgium.
+- 38,000 Australian casualties.
+- Battle of Hamel (1918):
+- Planned by General Monash; model of modern warfare using tanks, planes, and infantry coordination.
+- Captured town in 93 minutes.
 
-## Trench Warfare
+## 🕊️ The End of the War
 
-- **Structure**:
-  - Three-line system (front, reserve, support trenches); zig-zag patterns to limit blast damage.
-- **Conditions**:
-  - Mud, lice, disease (e.g., trench foot), constant shelling.
-  - **Weapons**: Machine guns, poison gas, artillery.
+- 1918: Germany launched Spring Offensive, failed.
+- 100 Days Offensive: Allies pushed Germans back.
+- Germany requested an armistice; signed 11 November 1918 at 11 am.
 
----
+## 🪖 Life in the Trenches
 
-## The Changing Role of Women
+- Conditions: Mud, rats, lice, poor sanitation, diseases.
+- Weapons favoured defence, creating a stalemate.
+- Soldiers endured constant danger and psychological stress.
 
-- **Voluntary Work**:
-  - **Red Cross**: Knitted socks, comfort boxes (e.g., 1.3 million pairs of socks by 1918).
-  - **Australian Comforts Fund**: Sent luxury items to soldiers.
-- **Paid Work**:
-  - Workforce participation rose from 24% to 37%; roles in factories, clerical work.
-  - **Limitations**: Low wages (half of men’s pay); seen as temporary replacements.
+## 🧵 Role of Women
 
----
+- Mostly volunteer work: Red Cross, Australian Comforts Fund.
+- Sent socks, food, and letters to troops.
+- Limited participation in paid workforce; mostly traditional female roles.
+- Some joined Australian Women’s Service Corps, but weren’t deployed.
 
-## The Conscription Debate
+## 📢 Propaganda & Conscription
 
-- **Referendums** (1916, 1917): Both rejected conscription.
-  - **YES Arguments**: Support Britain, finish Gallipoli’s mission, patriotism.
-  - **NO Arguments**: Violated freedom, class inequality, Irish opposition, union resistance.
-- **Propaganda**:
-  - **Pro-conscription**: "A Call from the Dardanelles" (guilt, duty).
-  - **Anti-conscription**: "The Blood Vote" (fear of forced sacrifice).
+- Propaganda used to recruit men, encourage patriotism, and pressure those who hadn’t enlisted.
+- Conscription Debates (1916 & 1917):
+- Two referendums held — both voted NO.
+- Arguments for: Duty, honour, support for Britain.
+- Arguments against: Freedom, inequality, working-class burden.
 
----
+## 🌟 The Anzac Legend
 
-## The Anzac Legend
-
-- **Creation**:
-  - **Ellis Ashmead-Bartlett’s reports** (May 1915): Highlighted bravery, mateship, and initiative.
-  - **Charles Bean**: Promoted "Anzac spirit" in *The Anzac Book* (1916), omitting negatives like cowardice.
-- **Criticisms**:
-  - Ignores war’s futility, non-unique Australian traits, and pre-war nation-building (e.g., Federation).
-  - **John Simpson**: Symbolized heroism but criticized as overhyped (English-born, short service).
-
----
-
-## The Treaty of Versailles (1919)
-
-- **Terms**:
-  - **Territorial Losses**: Alsace-Lorraine to France; colonies surrendered.
-  - **Military Restrictions**: 100,000 troops max; no airforce/tanks.
-  - **Reparations**: £6.6 billion (equivalent to $2.6 trillion today).
-  - **War Guilt Clause**: Germany blamed for the war.
-- **Impact**:
-  - Humiliated Germany, fueling resentment and economic collapse.
-  - Redrew Europe (e.g., Poland, Czechoslovakia); League of Nations formed (failed without U.S. support).
-
----
-
-## Key Statistics
-
-- **Casualties**:
-  - 9 million soldiers dead; 21 million wounded.
-  - Australia: 60,000 dead (from 416,809 enlisted).
-- **Propaganda**: Used to manipulate public opinion (e.g., "Hun" stereotypes, nationalism).
-
----
-
-## Contestability and Debates
-
-- **Schlieffen Plan**: Historians dispute its existence (e.g., Terence Zuber’s 2002 critique).
-- **Anzac Legend**: Paul Keating criticized Gallipoli’s glorification (1992, 2008).
-
----
+- Despite defeat at Gallipoli, Australians were celebrated for bravery, mateship, endurance.
+- Became a key part of national identity.
+- Reinforced through literature, film (e.g., Gallipoli, 1981), and public commemorations (Anzac Day).
