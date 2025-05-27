@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Maths (Data Analysis A + Area, Surface Area A and Volume A)
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Friday, May 16th 2025, 5:21:08 pm
+last_edit_date: Tuesday, May 27th 2025, 5:25:06 pm
 share_link: https://share.note.sx/zlq6fgth#Dyoi/rqRovRBT1yOToWIAGRRttiQe4svFw+ToyaD8N0
 share_updated: 2025-05-14T17:56:30+10:00
 ---
@@ -41,29 +41,30 @@ Removing **outliers** will have the following effects on the summary statistic
 | The mean will increase.    | The mean will decrease     |
 | The mode will not change.  | The mode will not change.  |
 
-## Cumulative Frequency
+
 
 ## Standard Deviation
 
 ### *MAD*
 
-The MAD is the average distance between each data point and the mean. Recall distance is always positive, so we find the distances by taking the absolute value of the difference between the mean and each data point. The MAD is the average of these absolute differences.
+*The MAD is the average distance between each data point and the mean. Recall distance is always positive, so we find the distances by taking the absolute value of the difference between the mean and each data point. The MAD is the average of these absolute differences.*
 
-$$
-M A D=\frac{1}{n} \Sigma|x-\bar{x}|
-$$
+*$$*
+*M A D=\frac{1}{n} \Sigma|x-\bar{x}|*
+*$$*
 
-$MAD$ Mean absolute deviation
+*$MAD$ Mean absolute deviation*
 
-$n$ Sample size
+*$n$ Sample size*
 
-$x$ A particular data value
+*$x$ A particular data value*
 
-$\overline{x}$ Sample mean
+*$\overline{x}$ Sample mean*
 
-A small MAD indicates that most scores are close to the mean, while a large MAD indicates that the scores are more spread out.
+*A small MAD indicates that most scores are close to the mean, while a large MAD indicates that the scores are more spread out.*
 
 ### Standard Deviation
+For both population and sample standard deviation, use your calculator.
 
 #### Population Standard Deviation $σ_{x}$
 
@@ -101,9 +102,7 @@ $\boldsymbol{x}$ A particular data value
 
 $\overline{\boldsymbol{x}}$ Sample mean
 
-As you can see from the formula, they are calculated almost the same way, but using the sample versus population means and dividing by $n-1$
-
-instead of $N$. So $s_{x}$ and $σ$ will be generally fairly close.
+As you can see from the formula, they are calculated almost the same way, but using the sample versus population means and dividing by $n-1$ instead of $N$. So $s_{x}$ and $σ$ will be generally fairly close.
 
 ## Comparisons Using Standard Deviation
 
@@ -321,9 +320,6 @@ A **positively skewed** data set is where the majority of the data points have
 
 The mean is greater than the median.
 
-## The Spread of Data
-
-## Samples
 
 # Area A, Surface Area A and Volume A
 
@@ -396,3 +392,10 @@ $$SA = 2\times top + 2 \times  front + 2 \times side
 
 
 ## Volume A
+### Volume of Prisms
+**Volume** is the amount of space a three-dimensional object takes up.
+
+A prism is a three-dimensional object with two identically shaped ends joined by rectangular faces. For all prisms:
+$$\text{Volume = base area × height}$$ $$
+
+The first step in the calculation is to find the area of the base, which may be a basic shape or a composite shape. Here are some helpful formulas for area that we have used previously:
