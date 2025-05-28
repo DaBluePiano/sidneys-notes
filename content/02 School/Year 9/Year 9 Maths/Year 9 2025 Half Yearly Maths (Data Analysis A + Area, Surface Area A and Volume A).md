@@ -396,6 +396,4 @@ $$SA = 2\times top + 2 \times  front + 2 \times side
 **Volume** is the amount of space a three-dimensional object takes up.
 
 A prism is a three-dimensional object with two identically shaped ends joined by rectangular faces. For all prisms:
-$$\text{Volume = base area × height}$$ $$
-
-The first step in the calculation is to find the area of the base, which may be a basic shape or a composite shape. Here are some helpful formulas for area that we have used previously:
+$$\text{Volume = base area × height}$$
