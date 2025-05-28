@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Maths (Data Analysis A + Area, Surface Area A and Volume A)
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Wednesday, May 28th 2025, 5:55:28 pm
+last_edit_date: Wednesday, May 28th 2025, 8:07:18 pm
 share_link: https://share.note.sx/zlq6fgth#Dyoi/rqRovRBT1yOToWIAGRRttiQe4svFw+ToyaD8N0
 share_updated: 2025-05-14T17:56:30+10:00
 ---
@@ -384,9 +384,7 @@ Another way to calculate the surface area for rectangular prisms and cubes is to
 
 A **rectangular prism** has surface area:
 
-$$SA = 2\times top + 2 \times  front + 2 \times side
-= 2lw + 2wh + 2lh
-= 2 (lw + lh + wh)$$
+$$\begin{aligned}\mathrm{SA}&=2\times\mathrm{top}+2\times\mathrm{front}+2\times\mathrm{side}\\&=2lw+2wh+2lh\\&=2\left(lw+lh+wh\right)\end{aligned}$$
 
 ### Surface Area of a Cylinder
   
