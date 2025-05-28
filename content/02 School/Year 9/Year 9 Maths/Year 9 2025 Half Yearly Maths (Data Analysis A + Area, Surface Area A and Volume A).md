@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Maths (Data Analysis A + Area, Surface Area A and Volume A)
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Wednesday, May 28th 2025, 8:10:35 pm
+last_edit_date: Wednesday, May 28th 2025, 8:16:21 pm
 share_link: https://share.note.sx/zlq6fgth#Dyoi/rqRovRBT1yOToWIAGRRttiQe4svFw+ToyaD8N0
 share_updated: 2025-05-14T17:56:30+10:00
 ---
@@ -388,8 +388,6 @@ $$\begin{aligned}\mathrm{SA}&=2\times\mathrm{top}+2\times\mathrm{front}+2\times\
 
 ### Surface Area of a Cylinder
 
-
-
 A **cylinder** has three faces: two identical circular bases and a curved surface that joins the two bases together. The surface area of a cylinder is the sum of the areas of these three faces.
 
 The area of a circle is $A=πr^2$. Now we need to find the area of the curved face that connects the two circles.
@@ -431,23 +429,33 @@ Volume is measured using units such as:
 - cubic metres ($m^3$)
 - cubic kilometres ($km^3$)
 The units of capacity include megalitres ($ML$), kilolitres ($kL$), litres ($L$) and millilitres ($mL$). When we consider liquids, the relationship between capacity and volume can be expressed as:
-
-$$\begin{array}{c}{{1\,{\mathrm{ML}}=1000\,{\mathrm{kL}}}}\\ {{1\,{\mathrm{kL}}=1000\,{\mathrm{L}}=1\,{\mathrm{m}}^{3}}}\\
- {{1\,{\mathrm{m}}=1000\,{\mathrm{mL}}=1000\,{\mathrm{cm}}^{3}}}\\ {{1\,{\mathrm{m}}=1\,{\mathrm{cm}}^{3}}}\end{array}$$
+$$\begin{gathered}1\mathrm{ML}=1000\mathrm{kL}\\1\mathrm{kL}=1000\mathrm{L}=1\mathrm{m}^3\\1\mathrm{L}=1000\mathrm{mL}=1000\mathrm{cm}^3\\1\mathrm{mL}=1\mathrm{cm}^3\end{gathered}$$
 
 ### Volume of Cylinders
-  
+
+
+
 A **cylinder** is very similar to a prism with a circular base.
+
 ![[image-41.png|171x171]]
+
 The volume of a cylinder can be found in a similar way:
+
 $$\mathrm{Volume}=\mathrm{Area~of~base}\times\mathrm{Height}$$
+
 Remember the area of a circle is equal to $\pi r^{2}$.
+
 So, the volume of the cylinder can be written as:
-$$\begin{array}{l}{{\mathrm{Volume}=\mathrm{Area~of~base}~\times~\mathrm{Height~of~prism}}}\\ {{\mathrm{~}=\pi r^{2}\times
- h}}\\ {{\mathrm{~}=\pi r^{2}h}}\end{array}$$
+
+$$\begin{aligned}
+\text{Volume} &= \text{Area of base} \times \text{Height of prism} \\
+&= \pi r^2 \times h \\
+&= \pi r^2 h
+\end{aligned}$$
+
  where $r$ is the radius.
 
-#### Volume of a part of Acylinder
+#### Volume of a part of a Cylinder
 For prisms and cylinders, we have seen that:
 $$V=A_{\mathrm{base}}\times h$$
 $V$ volume of the solid
