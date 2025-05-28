@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Maths (Data Analysis A + Area, Surface Area A and Volume A)
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Wednesday, May 28th 2025, 8:18:51 pm
+last_edit_date: Wednesday, May 28th 2025, 8:35:12 pm
 share_link: https://share.note.sx/zlq6fgth#Dyoi/rqRovRBT1yOToWIAGRRttiQe4svFw+ToyaD8N0
 share_updated: 2025-05-14T17:56:30+10:00
 ---
@@ -416,7 +416,7 @@ $$\begin{aligned}\mathrm{Volume}&=\text{area of the base }\times\text{ height of
 
 The first step in the calculation is to find the area of the base, which may be a basic shape or a composite shape.
 
-![[image-40.png|Area of Shapes for Cross Sectional Area|500x302]]
+![[image-40.png|Area of Shapes for Cross Sectional Area|500x302|525]]
 
 ### Units for Volume and Capacity
 
@@ -446,9 +446,9 @@ Remember the area of a circle is equal to $\pi r^{2}$.
 So, the volume of the cylinder can be written as:
 
 $$\begin{aligned}
-\text{Volume} &= \text{Area of base} \times \text{Height of prism} \\
-&= \pi r^2 \times h \\
-&= \pi r^2 h
+\text{Volume} &= \text{Area of base} \times \text{height} \\
+              &= \pi r^2 \times h \\
+              &= \pi r^2 h
 \end{aligned}$$
 
  where $r$ is the radius.
