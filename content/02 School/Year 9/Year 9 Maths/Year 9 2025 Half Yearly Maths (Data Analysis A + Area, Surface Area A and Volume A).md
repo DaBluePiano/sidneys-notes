@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Maths (Data Analysis A + Area, Surface Area A and Volume A)
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Wednesday, May 28th 2025, 8:16:21 pm
+last_edit_date: Wednesday, May 28th 2025, 8:18:51 pm
 share_link: https://share.note.sx/zlq6fgth#Dyoi/rqRovRBT1yOToWIAGRRttiQe4svFw+ToyaD8N0
 share_updated: 2025-05-14T17:56:30+10:00
 ---
@@ -402,7 +402,7 @@ $$S A_{\mathrm{cylinder}}=2\pi r^{2}+2\pi r h$$
 
 $r$ the radius of the clynders
 
-$h$ the height of thue cylinder
+$h$ the height of the cylinder
 
 ## Volume A
 
@@ -412,7 +412,7 @@ $h$ the height of thue cylinder
 
 A prism is a three-dimensional object with two identically shaped ends joined by rectangular faces. For all prisms:
 
-$$\text{Volume = base area × height}$$ $$V=A_{base}\times H$$
+$$\begin{aligned}\mathrm{Volume}&=\text{area of the base }\times\text{ height of the prism}\\V&=A_{base}\times H\end{aligned}$$
 
 The first step in the calculation is to find the area of the base, which may be a basic shape or a composite shape.
 
@@ -432,8 +432,6 @@ The units of capacity include megalitres ($ML$), kilolitres ($kL$), litres ($
 $$\begin{gathered}1\mathrm{ML}=1000\mathrm{kL}\\1\mathrm{kL}=1000\mathrm{L}=1\mathrm{m}^3\\1\mathrm{L}=1000\mathrm{mL}=1000\mathrm{cm}^3\\1\mathrm{mL}=1\mathrm{cm}^3\end{gathered}$$
 
 ### Volume of Cylinders
-
-
 
 A **cylinder** is very similar to a prism with a circular base.
 
