@@ -3,7 +3,7 @@ draft: false
 title: Year 9 2025 Half Yearly Maths (Data Analysis A + Area, Surface Area A and Volume A)
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Tuesday, May 27th 2025, 5:25:06 pm
+last_edit_date: Wednesday, May 28th 2025, 5:55:28 pm
 share_link: https://share.note.sx/zlq6fgth#Dyoi/rqRovRBT1yOToWIAGRRttiQe4svFw+ToyaD8N0
 share_updated: 2025-05-14T17:56:30+10:00
 ---
@@ -41,8 +41,6 @@ Removing **outliers** will have the following effects on the summary statistic
 | The mean will increase.    | The mean will decrease     |
 | The mode will not change.  | The mode will not change.  |
 
-
-
 ## Standard Deviation
 
 ### *MAD*
@@ -64,6 +62,7 @@ Removing **outliers** will have the following effects on the summary statistic
 *A small MAD indicates that most scores are close to the mean, while a large MAD indicates that the scores are more spread out.*
 
 ### Standard Deviation
+
 For both population and sample standard deviation, use your calculator.
 
 #### Population Standard Deviation $σ_{x}$
@@ -320,7 +319,6 @@ A **positively skewed** data set is where the majority of the data points have
 
 The mean is greater than the median.
 
-
 # Area A, Surface Area A and Volume A
 
 ## Area A
@@ -331,10 +329,10 @@ The mean is greater than the median.
 
 From smallest to largest, the common units used for measuring area are:
 
-- square millimetres (mm2)
-- square centimetres (cm2)
-- square metres (m2)
-- square kilometres (km2)
+- square millimetres ($mm^2$)
+- square centimetres ($cm^2$)
+- square metres ($m^2$)
+- square kilometres ($km^2$)
 
 A hectare is a special unit of area often used to measure the area of a piece of land.
 
@@ -390,10 +388,66 @@ $$SA = 2\times top + 2 \times  front + 2 \times side
 = 2lw + 2wh + 2lh
 = 2 (lw + lh + wh)$$
 
-
+### Surface Area of a Cylinder
+  
+A **cylinder** has three faces: two identical circular bases and a curved surface that joins the two bases together. The surface area of a cylinder is the sum of the areas of these three faces.
+The area of a circle is $A=πr^2$. Now we need to find the area of the curved face that connects the two circles.
+When unrolled the curved surface is a rectangle. One side length is equal to the height of the cylinder and the other side length is the circumference of the base circle. The area of the curved part of a cylinder is $2πrh$, where $r$ is the radius and $h$ is the height.
+![[image-44.png|500x218|500]]
+To find the surface area of the whole cylinder, we need to add the area of the top and bottom circles to the area of the curved part.
+$$S A_{\mathrm{cylinder}}=2\pi r^{2}+2\pi r h$$
+$r$ the radius of the clynders
+$h$ the height of thue cynlinder
 ## Volume A
 ### Volume of Prisms
 **Volume** is the amount of space a three-dimensional object takes up.
 
 A prism is a three-dimensional object with two identically shaped ends joined by rectangular faces. For all prisms:
-$$\text{Volume = base area × height}$$
+
+$$\text{Volume = base area × height}$$ $$V=A_{base}\times H$$
+
+The first step in the calculation is to find the area of the base, which may be a basic shape or a composite shape. 
+![[image-40.png|Area of Shapes for Cross Sectional Area|500x302]]
+### Units for Volume and Capacity
+Volume is the amount of space a solid takes up. **Capacity** is the amount that something can hold.
+
+Volume is measured using units such as:
+
+- cubic millimetres ($mm^3$)
+- cubic centimetres ($cm^3$)
+- cubic metres ($m^3$)
+- cubic kilometres ($km^3$)
+The units of capacity include megalitres ($ML$), kilolitres ($kL$), litres ($L$) and millilitres ($mL$). When we consider liquids, the relationship between capacity and volume can be expressed as:
+
+$$\begin{array}{c}{{1\,{\mathrm{ML}}=1000\,{\mathrm{kL}}}}\\ {{1\,{\mathrm{kL}}=1000\,{\mathrm{L}}=1\,{\mathrm{m}}^{3}}}\\
+ {{1\,{\mathrm{m}}=1000\,{\mathrm{mL}}=1000\,{\mathrm{cm}}^{3}}}\\ {{1\,{\mathrm{m}}=1\,{\mathrm{cm}}^{3}}}\end{array}$$
+
+### Volume of Cylinders
+  
+A **cylinder** is very similar to a prism with a circular base. 
+![[image-41.png|171x171]]
+The volume of a cylinder can be found in a similar way:
+$$\mathrm{Volume}=\mathrm{Area~of~base}\times\mathrm{Height}$$
+Remember the area of a circle is equal to $\pi r^{2}$.
+So, the volume of the cylinder can be written as:
+$$\begin{array}{l}{{\mathrm{Volume}=\mathrm{Area~of~base}~\times~\mathrm{Height~of~prism}}}\\ {{\mathrm{~}=\pi r^{2}\times
+ h}}\\ {{\mathrm{~}=\pi r^{2}h}}\end{array}$$
+ where $r$ is the radius.
+ 
+#### Volume of a part of Acylinder
+For prisms and cylinders, we have seen that:
+$$V=A_{\mathrm{base}}\times h$$
+$V$ volume of the solid
+$A_{base}$ area of the end face
+$h$ height of the solid
+
+When we are asked to find the volume of half or a quarter of a cylinder, we multiply the full volume by the fraction we are trying to find.
+
+To find the volume of a tube, we can find the area of the end face (base) by subtracting the smaller circle from the larger one. We can then use the area of the base to find the volume of the solid.
+
+### Volume of Composite Solids
+
+**Composite solids** are three-dimensional objects composed of two or more simple geometric solids. We can find the volume of composite solids by either adding or subtracting the volumes of the individual shapes.
+
+
+ 
