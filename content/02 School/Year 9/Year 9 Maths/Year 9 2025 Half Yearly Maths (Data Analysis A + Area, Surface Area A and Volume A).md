@@ -454,10 +454,15 @@ $$\begin{aligned}
  where $r$ is the radius.
 
 #### Volume of a part of a Cylinder
+
 For prisms and cylinders, we have seen that:
+
 $$V=A_{\mathrm{base}}\times h$$
+
 $V$ volume of the solid
+
 $A_{base}$ area of the end face
+
 $h$ height of the solid
 
 When we are asked to find the volume of half or a quarter of a cylinder, we multiply the full volume by the fraction we are trying to find.
