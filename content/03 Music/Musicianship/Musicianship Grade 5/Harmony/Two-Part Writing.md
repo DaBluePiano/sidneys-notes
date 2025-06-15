@@ -3,10 +3,10 @@ draft: false
 tags:
 title: Two-Part Writing
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
+last_edit_date: Sunday, June 8th 2025, 7:43:36 pm
 ---
 
-A crotchet bass part is given and you must write a musicall interesting melody above the bass.
+A crotchet bass part is given and you must write a musically interesting melody above the bass.
 
 The first step is to think in terms of Harmony and build a chord structure on the crotchet bass.
 

@@ -1,7 +1,7 @@
 ---
 title: Sonata in C Major - Wolfgang Amadeus Mozart
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Monday, May 12th 2025, 8:42:53 pm
+last_edit_date: Friday, May 30th 2025, 7:15:43 am
 share_link: https://share.note.sx/8z1c76go#fOY1cexrvUIofSUGxCq3jNeImqXEZIFHNUxfn2hNDtI
 share_updated: 2025-04-19T00:16:15+10:00
 ---
@@ -265,3 +265,11 @@ Themes restated, now mostly in the tonic
 160-171
 
 > ==Closing theme==, beginning as a transposition of (60-66) down a 5th, then slightly extended. The harmony takes an unexpected turn with a type of ==interrupted cadential progression== in b.168-169, but clarity is restored with a strong ==ii6-V7-I== progression in (170-171).
+
+| Exposition         | Development | Recapitulation |
+| ------------------ | ----------- | -------------- |
+| First Subject      |             |                |
+| Second Subject I   |             |                |
+| Second Subject II  |             |                |
+| Second Subject III |             |                |
+| Closing Theme      |             |                |

@@ -8,6 +8,7 @@ last_edit_date: Tuesday, February 25th 2025, 7:37:46 am
 
 %% Begin Waypoint %%
 - [[AMEB_Manual_of_Syllabuses_2024 1.pdf]]
+- [[Music Books Catalogue.xlsx]]
 - **[[Musicianship]]**
 - **[[Piano]]**
 - [[Pieces Timing]]

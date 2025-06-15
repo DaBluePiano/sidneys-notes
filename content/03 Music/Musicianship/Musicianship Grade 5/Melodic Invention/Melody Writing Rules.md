@@ -3,7 +3,7 @@ draft: false
 title: Melody Writing Rules
 tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Thursday, April 3rd 2025, 6:30:11 pm
+last_edit_date: Sunday, June 8th 2025, 6:39:11 pm
 ---
 
 Sequence
