@@ -6,7 +6,6 @@ last_edit_date: Monday, June 16th 2025, 5:31:03 pm
 ---
 
 %% Begin Waypoint %%
-
-- [[Techniques]]
+- [[Assessment Task 2 - Reading Paper]]
 
 %% End Waypoint %%
