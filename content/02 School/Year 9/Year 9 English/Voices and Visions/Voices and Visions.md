@@ -2,10 +2,11 @@
 title: Voices and Visions
 draft: true
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Monday, June 16th 2025, 5:31:03 pm
+last_edit_date: Monday, June 16th 2025, 7:13:35 pm
 ---
 
 %% Begin Waypoint %%
+
 - [[Assessment Task 2 - Reading Paper]]
 
 %% End Waypoint %%
