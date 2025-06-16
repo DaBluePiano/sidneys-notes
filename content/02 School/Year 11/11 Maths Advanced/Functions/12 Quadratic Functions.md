@@ -3,7 +3,7 @@ draft: false
 title: 12 Quadratic Functions
 tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Monday, June 16th 2025, 9:09:48 am
+last_edit_date: Monday, June 16th 2025, 5:16:12 pm
 ---
 
 # Quadratic Functions
@@ -35,9 +35,15 @@ That is:
 The $y$-intercept is where the parabola crosses the $y$-axis. This occurs when $x=0$.
 
 Parabolas can have none, one, or two $x$-intercepts as shown below.
+
 ![[image-45.png|500x157]]
-## Maximum and Minimum  Values
+
+## Maximum and Minimum Values
+
 Maximum or minimum values are also known as the turning points, and they are found at the vertex of the parabola.
+
 ![|256x258](https://mathspace-au-production-media.mathspace.co/media/upload/images/10-functions-and-logs/minimum-values.svg)
+
 Parabolas that are concave up have a minimum value. This means the $y$-value will never go under a certain value.
+
 ![|264x265](https://mathspace-au-production-media.mathspace.co/media/upload/images/10-functions-and-logs/max-values.svg)

@@ -8,5 +8,6 @@ last_edit_date: Wednesday, February 26th 2025, 6:02:28 pm
 
 %% Begin Waypoint %%
 - **[[To Kill A Mockingbird]]**
+- **[[Voices and Visions]]**
 
 %% End Waypoint %%
