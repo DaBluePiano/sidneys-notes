@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Sidney's Obsidian Notes :)",
+    pageTitle: "Sidney's Obsidian Notes c:",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "https://dabluepiano.github.io/sidneys-notes/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_sf"],
     defaultDateType: "created",
     generateSocialImages: false,
     theme: {
