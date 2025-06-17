@@ -6,7 +6,8 @@ font:
 
 Music Assessment - Aural Paper 18/6
 
-notes soon
+[Assessment Task 2 - Listening Paper](https://dabluepiano.github.io/sidneys-notes/02-School/Year-9/Year-9-Music/Pop/Assessment-Task-2---Listening-Paper)
+
 ## [School Notes :)](https://dabluepiano.github.io/sidneys-notes/02-School/)
 [9 English](https://dabluepiano.github.io/02-School/Year-9/Year-9-English/)
 [9 HSIE](https://dabluepiano.github.io/02-School/Year-9/Year-9-HSIE/)
