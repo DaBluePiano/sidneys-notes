@@ -3,11 +3,6 @@ title: :D
 font: 
 ---
 # Notes
-Current:
-
-English Assessment - Reading Paper 17/6
-
-[Assessment Task 2 - Reading Paper](https://dabluepiano.github.io/sidneys-notes/02-School/Year-9/Year-9-English/Voices-and-Visions/Techniques)
 
 Music Assessment - Aural Paper 18/6
 
