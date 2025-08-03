@@ -10,5 +10,8 @@ last_edit_date: Monday, May 5th 2025, 8:47:25 pm
 - **[[Year 8]]**
 - **[[Year 9]]**
 - **[[Year 11]]**
+- **Year 12**
+	- **12 Maths Advanced**
+		- [[Cambridge 12 Adv Math.pdf]]
 
 %% End Waypoint %%

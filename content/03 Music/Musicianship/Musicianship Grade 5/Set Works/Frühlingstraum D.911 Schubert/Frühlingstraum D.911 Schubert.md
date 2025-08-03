@@ -6,8 +6,10 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
 ---
 
 %% Begin Waypoint %%
-
 - [[Frühlingstraum D 911 Schubert Analysis]]
+- [[Frühlingstraum, D.911 Schubert.docx]]
 - [[Frühlingstraum, D.911 Schubert.pdf]]
+- [[O Mistress Mine, Finzi.pdf]]
+- [[String Quartet in G, K387 Mozart.pdf]]
 
 %% End Waypoint %%

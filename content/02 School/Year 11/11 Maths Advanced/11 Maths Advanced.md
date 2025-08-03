@@ -6,7 +6,7 @@ last_edit_date: Monday, April 28th 2025, 12:26:21 pm
 ---
 
 %% Begin Waypoint %%
-- **[[Functions]]**
-- **[[Trigonometry]]**
+- [[Cambridge 11 Adv Math.pdf]]
+- **[[Methods in Alegbra]]**
 
 %% End Waypoint %%
