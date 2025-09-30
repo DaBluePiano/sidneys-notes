@@ -28,44 +28,44 @@ const config: QuartzConfig = {
         body: "Atkinson Hyperlegible",
         code: "jetbrains-mono",
       },
-      colors: {
+    colors: {
       lightMode: {
         // Base Layer
-        light: "#F8F5FE",         // Soft lavender white background
-        lightgray: "#E3DEF7",     // Light lavender borders
-        gray: "#B8B0D9",         // Muted lilac accents
+        light: "#F9F7FE",         // Soft lavender white background
+        lightgray: "#EAE7F8",     // Very subtle lavender borders
+        gray: "#C5BFE6",         // Gentle lilac for accents
         
         // Text & Headers
-        darkgray: "#2E284A",     // Deep navy purple text
-        dark: "#5E4E8F",        // Royal purple headers/icons
+        darkgray: "#3A2E5C",     // Rich plum for body text
+        dark: "#6B4EBA",         // Vibrant amethyst for headers
         
         // Interactive Elements
-        secondary: "#6B8CFF",   // Consistent cobalt blue (links/buttons)
-        tertiary: "#D84FA8",    // Soft raspberry pink hover states
+        secondary: "#5D7FDC",    // Softer sapphire blue
+        tertiary: "#D44D9A",     // Muted raspberry pink
         
         // Effects
-        highlight: "rgba(107, 140, 255, 0.15)",  // Subtle blue overlay
-        textHighlight: "#FF9FEF", // Pale lavender highlight background
+        highlight: "rgba(157, 178, 255, 0.2)",  // Soft periwinkle glow
+        textHighlight: "rgba(244, 187, 255, 0.35)", // Gentle lavender highlight
       },
       darkMode: {
         // Base Layer
-        light: "#110E21",         // Deep space purple (softer than pure black)
-        lightgray: "#2D2735",     // Muted lavender-gray borders
-        gray: "#4A3E5C",         // Medium cosmic purple accents
+        light: "#16122B",         // Deep twilight purple
+        lightgray: "#2A2545",     // Muted plum borders
+        gray: "#4A4266",         // Soft cosmic purple accents
         
         // Text & Headers
-        darkgray: "#E8D7F4",     // Soft pearl pink (body text)
-        dark: "#94B3FF",        // Bright azure headers/icons (improved contrast)
+        darkgray: "#E6DFF8",     // Pale lavender text
+        dark: "#9E8AFF",         // Bright periwinkle headers
         
         // Interactive Elements
-        secondary: "#6B8CFF",   // Vivid cobalt (links/buttons)
-        tertiary: "#[FF9FEF]",    // Neon pink (hover states)
+        secondary: "#6B8CFF",    // Electric blue
+        tertiary: "#FF7BC7",     // Vibrant pink
         
         // Effects
-        highlight: "rgba(107, 140, 255, 0.2)",  // Enhanced blue overlay
-        textHighlight: "#5D2A8C", // Subtle purple-gray text bg
+        highlight: "rgba(107, 140, 255, 0.25)",  // Enhanced blue glow
+        textHighlight: "rgba(90, 42, 140, 0.4)", // Deep purple text background
       },
-    },
+    }
     },
   },
   plugins: {
