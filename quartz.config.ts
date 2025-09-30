@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "DM Sans",
-        body: "lexend",
+        header: "Atkinson Hyperlegible",
+        body: "Atkinson Hyperlegible",
         code: "jetbrains-mono",
       },
       colors: {
