@@ -1,17 +1,11 @@
 ---
 draft: true
-tags:
-  - Year9/STEM
-  - Year9/PE
-  - Year9/Science
-  - Year9/HSIE
-  - Year9/Music
-  - Year9/English
+tags: [Year9/STEM, Year9/PE, Year9/Science, Year9/HSIE, Year9/Music, Year9/English]
 date: 2025-02-17
 this-week's-piano-lesson: 
-title: 2025 02 17 Monday
+title: School 2025 02 17 Monday
 creation_date: Monday, February 17th 2025, 5:48:05 pm
-last_edit_date: Wednesday, February 26th 2025, 6:17:03 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:51 pm
 journal: Year 9 2025
 journal-date: 2025-02-17
 ---

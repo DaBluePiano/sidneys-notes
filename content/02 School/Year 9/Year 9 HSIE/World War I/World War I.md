@@ -2,10 +2,11 @@
 title: World War I
 draft: true
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, May 25th 2025, 12:30:18 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:46 pm
 ---
 
 %% Begin Waypoint %%
+
 - [[00 The origins of World War I]]
 - [[01 Causes of WWI]]
 - [[03 The Causes of WWI]]

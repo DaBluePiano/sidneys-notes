@@ -3,7 +3,7 @@ draft: false
 title: Term 1 2025 Mathematics Exam
 tags: 
 creation_date: Wednesday, February 12th 2025, 8:01:46 pm
-last_edit_date: Monday, April 14th 2025, 8:11:14 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:42 pm
 share_link: https://share.note.sx/1rv0i4g4#AjSkvSPCuqXpXDY+x4EFa+6sVY1kvDcgDI8qFMz2k+g
 share_updated: 2025-04-14T20:08:46+10:00
 ---
@@ -49,7 +49,6 @@ Can I do the following?
 > $3$ is the **power/exponent/index**
 >
 > $9$ is the **constant term**
->
 
 > [!Warning] Like Terms
 >

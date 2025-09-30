@@ -1,16 +1,11 @@
 ---
 draft: true
-tags:
-  - Year8/PDH
-  - Year8/Science
-  - Year8/FoodTech
-  - Year8/Japanese
-  - Year8/HSIE
+tags: [Year8/PDH, Year8/Science, Year8/FoodTech, Year8/Japanese, Year8/HSIE]
 date: 2024-11-19
 this-week's-piano-lesson: "[[Piano Week 46]]"
-title: 2024 11 19 Tuesday
+title: School 2024 11 19 Tuesday
 creation_date: Monday, February 3rd 2025, 12:59:30 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:51 pm
 journal: Year 8 2024
 journal-date: 2024-11-19
 ---

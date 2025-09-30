@@ -1,16 +1,11 @@
 ---
 draft: true
-tags:
-  - Year8/Maths
-  - Year8/FoodTech
-  - Year8/Drama
-  - Year8/English
-  - Year8/PDH
+tags: [Year8/Maths, Year8/FoodTech, Year8/Drama, Year8/English, Year8/PDH]
 date: 2024-11-08
 datealt: 
-title: 2024 11 08 Friday
+title: School 2024 11 08 Friday
 creation_date: Monday, February 3rd 2025, 12:59:30 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:37 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:51 pm
 journal: Year 8 2024
 journal-date: 2024-11-08
 ---

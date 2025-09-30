@@ -3,12 +3,11 @@ draft: false
 tags:
 title: Forces
 creation_date: Monday, February 3rd 2025, 12:59:30 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:50 pm
 ---
 
 # What is a Force?
 
->
 > [!Summary] What is a Force?
 > A force can be a push, a pull or a twist. We tell them apart by talking about directions.
 > 1. A push keeps things apart or makes them move apart.

@@ -5,7 +5,7 @@ share_link: https://share.note.sx/ujb1559q
 share_updated: 2024-12-14T19:46:23+11:00
 title: Topic 6 - Digestive System Notes
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:41 pm
 ---
 ```table-of-contents
 ```
@@ -144,7 +144,6 @@ Amongst the different levels of organization of living things, this is the highe
 
 # 3 The Digestive System
 
->
 > [!Definition] What is the Digestive System?
 > The human digestive system is a complex series of organs and glands that processes food. In order to use the food we eat, our body has to break the food down into smaller molecules that it can process; it also has to excrete waste. The digestive system is essentially a long, twisting tube that runs from the mouth to the anus, plus a few other organs (like the liver and pancreas) that produce or store digestive chemicals.
 
@@ -262,7 +261,6 @@ The human diet must provide the following:
 
 ### 8.2.1 Test for Starch
 
->
 > [!Experiment] Test for Starch
 > Procedure
 > 1. Label boiling tube A 'starch solution' and boiling tube B 'water'.
@@ -271,11 +269,9 @@ The human diet must provide the following:
 > 4. Add 2-3 drops of iodine solution to each tube.
 > 5. Swirl each tube.
 > 6. Record result.
->
 
 ### 8.2.2 Test for Fat
 
->
 > [!experiment] Test for Fat
 > Procedure
 > 1. Cut two pieces of brown paper of similar size.
@@ -284,11 +280,9 @@ The human diet must provide the following:
 > 4. Leave both aside to dry.
 > 5. Hold both pieces of paper up to the light.
 > 6. Record result.
->
 
 ### 8.2.3 Test for Protein
 
->
 > [!experiment] Test for a Protein
 > Procedure
 > 1. Label test tube A 'protein solution' and test tube B 'water'.
@@ -297,11 +291,9 @@ The human diet must provide the following:
 > 4. Add 2 cm of sodium hydroxide solution to each tube followed by 2-3 drops of copper sulfate solution (or add 2 cm of biuret reagent to each tube).
 > 5. Swirl both tubes.
 > 6. Record result.
->
 
 ### 8.2.4 Test for Glucose
 
->
 > [!experiment] Test for Gloucose
 > Procedure
 > 1. Label boiling tube A 'glucose solution' and boiling tube B 'water'.
@@ -312,7 +304,6 @@ The human diet must provide the following:
 > 6. Place both tubes in the hot water bath and heat for 5 minutes.
 > 7. Using the test-tube holder, carefully remove both tubes from the water bath and place in the test-tube rack.
 > 8. Record result.
->
 
 # 9 Nutritional Diseases
 

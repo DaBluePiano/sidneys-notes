@@ -3,9 +3,9 @@ draft: true
 tags: 
 date: 2024-12-25
 this-week's-piano-lesson: 
-title: 2024 12 25 Wednesday
+title: School 2024 12 25 Wednesday
 creation_date: Monday, February 3rd 2025, 12:59:30 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:51 pm
 journal: Year 8 2024
 journal-date: 2024-12-25
 ---

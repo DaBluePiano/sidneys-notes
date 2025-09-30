@@ -1,9 +1,9 @@
 ---
 draft: false
-title: 15 WWI Trenches
+title: 14 WWI Trenches
 tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Saturday, May 24th 2025, 4:41:26 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:46 pm
 ---
 
 # WWI TRENCHES

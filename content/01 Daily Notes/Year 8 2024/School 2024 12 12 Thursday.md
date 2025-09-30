@@ -1,20 +1,11 @@
 ---
 draft: true
-tags:
-  - SonataK330
-  - ToccataBWV914
-  - RondoCapricciosoOp14
-  - GeneralLavine-Eccentric
-  - Year8/HSIE
-  - Year8/PE
-  - Year8/FoodTech
-  - Year8/Science
-  - Year8/Maths
+tags: [SonataK330, ToccataBWV914, RondoCapricciosoOp14, GeneralLavine-Eccentric, Year8/HSIE, Year8/PE, Year8/FoodTech, Year8/Science, Year8/Maths]
 date: 
 this-week's-piano-lesson: 
-title: 2024 12 12 Thursday
+title: School 2024 12 12 Thursday
 creation_date: Monday, February 3rd 2025, 12:59:30 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:51 pm
 journal: Year 8 2024
 journal-date: 2024-12-12
 ---

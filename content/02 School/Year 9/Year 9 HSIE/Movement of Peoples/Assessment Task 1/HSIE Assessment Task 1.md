@@ -3,7 +3,7 @@ draft: true
 title: HSIE Assessment Task 1
 tags: 
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Sunday, March 23rd 2025, 2:57:45 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:47 pm
 ---
 
 # Movement of People Research Task
@@ -110,6 +110,7 @@ This source explains the British government's harsh response to Luddite uprising
 
 > [!Quote] The Industrial Revolution UK
 > Ned Ludd the leader of the Luddites would send letters to mill owners declaring his intentions. This was an incredibly scary time for the owners of these Mills and workers. A letter to a mill owner in Huddersfield suggested Ned would send one of his lieutenants with at least 300 men and destroy shearing frames and burn them to ashes.
+
 - **Topic:** Luddite threats to mill owners
 - **Origin:** A letter (described by Industrial Revolution UK)
 - **Motive:** To intimidate mill owners and stop them from using new machinery

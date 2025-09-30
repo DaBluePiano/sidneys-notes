@@ -2,10 +2,11 @@
 title: Movement of Peoples
 draft: true
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Monday, May 26th 2025, 8:44:49 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:46 pm
 ---
 
 %% Begin Waypoint %%
+
 - [[10+10b The main causes of migration from 1750 to 1901]]
 - [[11 Agricultural Revolution - Enclosure]]
 - [[12a Causes of the Industrial Revolution Clickview Video.mp4]]

@@ -1,16 +1,11 @@
 ---
 draft: true
-tags:
-  - Year9/STEM
-  - Year9/Science
-  - Year9/HSIE
-  - Year9/English
-  - Year9/Maths
+tags: [Year9/STEM, Year9/Science, Year9/HSIE, Year9/English, Year9/Maths]
 date: 2025-04-04
 this-week's-piano-lesson: 
-title: School 4th of April 2025
+title: School 2025 04 04 Friday
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
-last_edit_date: Thursday, April 17th 2025, 12:18:19 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:50 pm
 journal: Year 9 2025
 journal-date: 2025-04-04
 ---

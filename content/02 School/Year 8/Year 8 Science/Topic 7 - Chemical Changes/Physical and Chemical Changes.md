@@ -3,7 +3,7 @@ draft: false
 tags:
 title: Physical and Chemical Changes
 creation_date: Monday, February 3rd 2025, 12:59:30 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:49 pm
 ---
 
 # Physical Change
@@ -13,7 +13,6 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 > - The bonds between atoms are not broken
 > - It is generally reversible
 > - Don't make new substances
->
 
 # Chemical Change
 
@@ -35,7 +34,6 @@ A **new** substance is formed. These changes are **irreversible** or **permanent
 > - Endothermic reactions absorb energy from the atmosphere in order to proceed
 > - Endothermic reactions absorb energy, a temperature drop is measured during the reaction
 > - Endothermic reactions are characterized by positive heat flow (into the reaction)
->
 
 ## Exothermic Chemical Reactions
 

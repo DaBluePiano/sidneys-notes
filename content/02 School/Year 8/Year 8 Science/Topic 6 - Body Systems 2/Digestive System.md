@@ -3,12 +3,11 @@ draft: false
 tags:
 title: Digestive System
 creation_date: Monday, February 3rd 2025, 12:59:30 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:49 pm
 ---
 
 # 1 The Digestive System
 
->
 > [!Definition] What is the Digestive System?
 > The human digestive system is a complex series of organs and glands that processes food. In order to use the food we eat, our body has to break the food down into smaller molecules that it can process; it also has to excrete waste. The digestive system is essentially a long, twisting tube that runs from the mouth to the anus, plus a few other organs (like the liver and pancreas) that produce or store digestive chemicals.
 

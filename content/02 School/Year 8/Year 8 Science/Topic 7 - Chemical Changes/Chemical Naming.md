@@ -5,8 +5,9 @@ share_link: https://share.note.sx/2dijhvp7
 share_updated: 2024-12-13T22:31:08+11:00
 title: Chemical Naming
 creation_date: Monday, February 3rd 2025, 12:59:30 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:49 pm
 ---
+
 > [!FAQ] dont stress please :)
 > Please don't stress about the actual contents in this. I honestly just wanted to play around with the notes and also maybe help if the topic was any confusing but its basically the class notes but with a **glowup** hehe 🤣
 > Also dont overthink this topic and ur fine
@@ -97,7 +98,6 @@ The common names of particular elements have to be memorized.
 
 ## 2.4 -ate Endings
 
->
 > [!NOTE] -ate endings
 > A compound that contains a negatively charged polyatomic ion containing oxygen usually has a name ending in **-ate**.
 

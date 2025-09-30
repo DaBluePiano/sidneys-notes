@@ -3,9 +3,8 @@ draft: false
 tags:
 title: Using Graphs to Solve Inequalities
 creation_date: Monday, February 3rd 2025, 12:59:30 pm
-last_edit_date: Sunday, February 23rd 2025, 7:24:36 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:50 pm
 ---
-
 
 - A horizontal line (parallel to the x-axis) has the rule in the form of $y=c$ where $c$ is any number
 - A vertical line (parallel to the y-axis) has the rule in the form of $x=k$ where $k$ is any number

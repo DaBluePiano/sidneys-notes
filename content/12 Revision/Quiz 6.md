@@ -3,6 +3,9 @@ tags:
   - flashcards
 sources:
   - "[[Year 9 2025 Half Yearly Science Exam (The Atom and Nuclear Chemistry + Diseases) 😊]]"
+title: Quiz 6
+creation_date: Thursday, June 5th 2025, 10:58:10 pm
+last_edit_date: Saturday, September 13th 2025, 5:36:40 pm
 ---
 **True or False:** The nucleus of an atom contains protons and electrons. :: False
 
@@ -152,4 +155,3 @@ c) Negative
 **Fill in the Blank:** In nuclear fission, the nucleus of a large atom splits into `____` nuclei, releasing `____` and `____`. :: smaller, energy, radiation
 
 **Long Answer:** Describe the three lines of defense the body uses to combat pathogens. :: The first line of defense includes physical and chemical barriers preventing pathogen entry. The second line involves non-specific responses like inflammation and phagocytosis. The third line is the adaptive immune response, involving lymphocytes that recognize and target specific pathogens.
-
