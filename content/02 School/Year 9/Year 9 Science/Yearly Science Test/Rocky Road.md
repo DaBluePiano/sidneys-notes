@@ -5,9 +5,11 @@ tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
 last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 ---
-# Rocky Road Exam Notes
 
-## 1. Earth's Structure
+> [!Tip] exam tips
+> - actually a rather simple unit this one
+
+# 1. Earth's Structure
 
 - **Layers of the Earth**: The Earth is composed of several layers, each with distinct properties, composition, and thickness.
 - The structure contributes to plate tectonics through convection currents in the mantle.
@@ -22,7 +24,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 | Inner Core    | Solid due to immense pressure; hottest layer.                                                                   | ~1220 km radius | Solid iron and nickel                               |
 ![Explainer: Earth — layer by layer|480x337](https://www.sciencenewsforstudents.org/wp-content/uploads/2021/03/1030_Earthlayers.png)
 
-## 2. Plate Tectonics
+# 2. Plate Tectonics
 
 - **Theory**: Earth's lithosphere is divided into tectonic plates that move due to convection currents in the mantle (hot material rises, cools, sinks).
 - **Plate Boundaries**: Where plates interact, leading to geological activity like earthquakes and volcanoes.
@@ -34,7 +36,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 | Transform     | Plates slide past each other horizontally.          | Side by side         | Faults, earthquakes (no new crust)          | San Andreas Fault<br>                                    |
 ![2 Schematic representation of the three types of plate boundaries:... \|Download Scientific Diagram|335x479](https://www.researchgate.net/publication/305782020/figure/fig1/AS:508759652790272@1498309161471/Schematic-representation-of-the-three-types-of-plate-boundaries-convergent-top.png)|
 
-## 3. Continental Drift
+# 3. Continental Drift
 
 - **Theory**: Proposed by Alfred Wegener; continents were once joined in supercontinent Pangaea ~200-300 million years ago and drifted apart.
 - **Evidence**:
@@ -46,7 +48,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 
 ![The NYC Region - generalized reconstruction of Pangaea | U.S. Geological  Survey](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/Geology%20of%20the%20NYC%20Region83_0.jpg)
 
-## 4. Sea Floor Spreading
+# 4. Sea Floor Spreading
 
 - **Theory**: Proposed by Harry Hess; new oceanic crust forms at mid-ocean ridges from rising magma, spreads outward, and old crust subducts at trenches.
 - **Process**: Mantle convection causes divergence at ridges; crust ages away from ridge.
@@ -58,7 +60,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 
 ![Mid-ocean ridge - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mid-ocean_ridge_cut_away_view.png/500px-Mid-ocean_ridge_cut_away_view.png)
 
-## 5. Volcanoes
+# 5. Volcanoes
 
 - **Definition**: Opening in Earth's crust where magma erupts as lava; formed at plate boundaries or hot spots.
 - **Formation**: Magma rises due to pressure from gases; erupts through vent.
@@ -77,7 +79,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 
 ![[image-1.png|500x443]]
 
-## 6. Earthquakes
+# 6. Earthquakes
 
 - **Cause**: Sudden release of strain energy when locked plates snap; occurs at plate boundaries.
 - **Focus (Hypocenter)**: Point underground where rupture starts.
@@ -86,12 +88,12 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 
 ![File:Epicenter Diagram.svg - Wikimedia Commons|642x498](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Epicenter_Diagram.svg/2560px-Epicenter_Diagram.svg.png)
 
-## 7. Tsunamis
+# 7. Tsunamis
 
 - **Cause**: Undersea earthquakes displace water, generating large waves.
 - **Effects**: Devastating coastal flooding.
 
-## 8. Seismic Waves
+# 8. Seismic Waves
 
 - **Body Waves** (travel through interior): P (fastest, compressional), S (slower, shear).
 - **Surface Waves** (travel along surface, most damaging): Love (horizontal), Rayleigh (rolling).
@@ -108,7 +110,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 - **Seismometer**: Instrument to detect waves; records seismograph.
 - **Locating Epicentre**: Use time difference between P and S waves from multiple stations; triangulate.
 
-## 9. Measuring Earthquakes
+# 9. Measuring Earthquakes
 
 - **Richter Scale**: Measures magnitude (energy released); logarithmic (each unit = 10x amplitude, 30x energy).
 - **Mercalli Scale**: Measures intensity (observed effects); I (not felt) to XII (total destruction).
@@ -124,7 +126,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 
 ![Relationship Between Richter Magnitude and Modified Mercalli Intensity |Missouri Department of Natural Resources|340x595](https://dnr.mo.gov/sites/dnr/files/media/image/2020/05/earthquake-mercalli-richter.gif)
 
-## 10. Faults and Folds
+# 10. Faults and Folds
 
 - **Folds**: Bending of rock layers due to compression.
     - Anticline: Upward arch (A shape).

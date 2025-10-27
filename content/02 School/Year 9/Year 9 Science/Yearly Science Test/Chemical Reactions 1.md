@@ -5,9 +5,10 @@ tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
 last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 ---
-# Chemical Reactions 1 Exam Notes
-
-## 1. Atomic Structure
+> [!tip] Exam Tips from sidney
+> - It goes without saying that you should not be memorising the periodic table its given to you
+> not much other than that 🤣
+# 1. Atomic Structure
 
 - **Subatomic Particles**:
     - **Proton**: Positively charged (+1), located in the nucleus, determines the atomic number and element identity.
@@ -26,7 +27,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 | Electron | -1     | Orbits nucleus (energy levels) | Involved in chemical bonding and reactions.     |
 |          |        |                                |                                                 |
 
-## 2. Reading the Periodic Table
+# 2. Reading the Periodic Table
 
 - **Key Information in an Element Box**:
     - **Atomic Number**: Number of protons (and electrons in neutral atom), top of the box.
@@ -46,7 +47,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 
 ![How to Read the Periodic Table — Overview & Components - Expii|413x223](https://d20khd7ddkh5ls.cloudfront.net/how_to_read_an_element.png)
 
-## 3. Chemical Bonding
+# 3. Chemical Bonding
 
 - **Chemical Bond**: Force holding atoms together to form compounds.
 - **Ionic Bonding**:
@@ -84,7 +85,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
     - Cross charges to balance ($\ce{Mg2O2}$ simplifies to $\ce{MgO}$).
     - Use polyatomic ions if needed (e.g., $\ce{CO3^2-}$ carbonate).
 
-## 4. Chemical Reactions Basics
+# 4. Chemical Reactions Basics
 
 - **Chemical Reaction**: Process where atoms rearrange to form new substances; bonds break and form.
 - **Evidence**: Color change, gas production, temperature change, precipitate, light/sound.
@@ -99,7 +100,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 | Endothermic | Absorbs energy  | Cold       | Photosynthesis     |
 | Exothermic  | Releases energy | Hot/light  | Combustion of fuel |
 
-## 5. Specific Reactions
+# 5. Specific Reactions
 
 - **Combustion Reactions**:
     - Exothermic reaction with oxygen, releases heat/light.

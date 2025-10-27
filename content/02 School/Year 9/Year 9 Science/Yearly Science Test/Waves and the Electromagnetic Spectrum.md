@@ -5,9 +5,13 @@ tags:
 creation_date: Monday, February 3rd 2025, 12:59:31 pm
 last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 ---
-# Waves and Electromagnetic Spectrum Exam Notes
 
-## 1. Introduction to Waves
+> [!Tip] exam tips
+> - [[#3. Electromagnetic Waves]] DONT MEMORISE LIKE THE WHOLE TABLE OF VALUES
+> - the $n=\frac{\sin i}{\sin r}$ taught in our class is extension and should not be features in the exam
+> - $v=f \lambda$ could be memorised (its quite straightforward really, its kinda like S=vt)
+
+# 1. Introduction to Waves
 
 - **Definition**: A wave is a disturbance that travels through a substance, transferring energy from one place to another without transferring matter.
 - **Types of Waves**:
@@ -22,7 +26,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 
 ![1: Longitudinal and transverse waves. |Download Scientific Diagram|580x437](https://www.researchgate.net/publication/291997600/figure/fig2/AS:613877633007627@1523371241486/Longitudinal-and-transverse-waves.png)
 
-## 2. Wave Properties
+# 2. Wave Properties
 
 - **Anatomy of a Transverse Wave**:
     - **Crest**: Highest point of the wave.
@@ -42,7 +46,7 @@ Where:
 - $f$ = frequency (Hz)
 - $λ$ = wavelength (m)
 
-## 3. Electromagnetic Waves
+# 3. Electromagnetic Waves
 
 - **Characteristics**: Transverse waves that travel at the speed of light (3 × 10^8 m/s in vacuum); no medium required; consist of oscillating electric and magnetic fields.
 - **Electromagnetic Spectrum**: Waves arranged by increasing frequency (decreasing wavelength); all have same speed in vacuum but different energies/uses.
@@ -58,7 +62,7 @@ Where:
 | Gamma         | $< 10^{-11}$                   | $> 3 × 10^{19}$                  | Very High | Cancer treatment, sterilization  | Radiation sickness, mutations<br> |
 ![Electromagnetic Spectrum Diagram |MyNASAData|792x421](https://mynasadata.larc.nasa.gov/sites/default/files/inline-images/Electromagnetic_Spectrum_Diagram%20flipped_FINAL.png)
 
-## 4. Light Waves
+# 4. Light Waves
 - Light is part of the EM spectrum (visible range).
 - **Behavior**:
     - **Reflection**: Bounces off surfaces; follows Law of Reflection (angle of incidence = angle of reflection).
@@ -69,7 +73,7 @@ Where:
 
 ![Reflection of Light - GeeksforGeeks](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT58laUznRgkLO16XSLyfNpW3D3_DgrEU4mWC9D89A4Y_-Vyuo&s)
 
-## 5. Sound Waves
+# 5. Sound Waves
 
 - **Definition**: Longitudinal mechanical waves produced by vibrations; require a medium.
 - **Production**: Vibrations create alternating compressions (high pressure) and rarefactions (low pressure).
@@ -89,18 +93,3 @@ Where:
 | Medium     | Can travel in vacuum         | Requires medium (no vacuum) |
 | Speed      | $3 × 10^8$ m/s               | about $340$ m/s in air      |
 | Production | Electromagnetic oscillations | Vibrations                  |
-
-## 6. Practical Investigations
-
-- **Slinky Waves**: Model transverse (label crest, trough, etc.) and longitudinal (compressions, rarefactions) waves.
-- **EM Spectrum Video**: Answer questions on uses/misconceptions.
-- **Mind Map**: Summarize waves topic (definitions, types, equations).
-- **TikTok Task**: Create video on EM wave use or bust misconception.
-
-**Tips for Exam**:
-
-- Recall wave types and properties; practice labeling diagrams.
-- Solve wave equation problems (e.g., find f if v and λ given).
-- Memorize EM spectrum order, uses, and dangers.
-- Explain light behaviors (reflection, absorption) and sound production.
-- Compare light and sound in tables.

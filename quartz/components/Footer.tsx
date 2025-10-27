@@ -33,7 +33,8 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
-        <p>Updated {formattedDate}</p> {/* Added line for updated date */}
+        <p>Updated {formattedDate}</p>
+        <p>hai 🐰</p>
       </footer>
     )
   }
