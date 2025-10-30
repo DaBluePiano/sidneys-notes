@@ -19,6 +19,7 @@ last_edit_date: Sunday, September 14th 2025, 6:04:16 pm
 	- [[HSIE Exam Notes Movement of Peoples and WWI]]
 	- [[HSIE Semester 1 Long Form.docx]]
 	- [[HSIE Semester 1 Long Form]]
+	- **[[HSIE YEARLY]]**
 	- **[[Movement of Peoples]]**
 	- **[[World War I]]**
 - **[[Year 9 Maths]]**
