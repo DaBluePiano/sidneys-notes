@@ -14,9 +14,10 @@ font:
 [[Waves and the Electromagnetic Spectrum]]
 
 ## HSIE Yearly
+
+[[Sustainable Biomes Notes]]
 ## Music Perf
 ## Music Comp
-## Music Theory
 ## Maths Yearly
 
 🐰🐰🐰
