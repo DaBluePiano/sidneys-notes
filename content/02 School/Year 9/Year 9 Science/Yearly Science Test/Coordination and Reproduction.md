@@ -129,6 +129,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 - **Gestation**: Zygote implants in uterus, develops into embryo/fetus over ~9 months.
 
 ![6. From Fertilization to Birth Part II: Pregnancy and Birth ...](https://open.lib.umn.edu/app/uploads/sites/272/2019/07/Figure_43_07_01.jpg)
+
 # 9. Brain
 - **Function**: Acts as the control centre of the CNS; receives, processes, and sends messages; maintains homeostasis.
 - **Major Components/Lobes**: Different parts control and process specific information. The brain's cerebrum is divided into lobes.

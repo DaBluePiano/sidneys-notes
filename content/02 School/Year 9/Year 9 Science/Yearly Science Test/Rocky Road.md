@@ -34,7 +34,8 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 | Convergent    | Plates collide; denser plate subducts.              | Towards each other   | Trenches, mountains, volcanoes, earthquakes | Andes (ocean-continent), Himalayas (continent-continent) |
 | Divergent     | Plates separate; new crust forms from rising magma. | Away from each other | Mid-ocean ridges, rift valleys              | Mid-Atlantic Ridge, East African Rift                    |
 | Transform     | Plates slide past each other horizontally.          | Side by side         | Faults, earthquakes (no new crust)          | San Andreas Fault<br>                                    |
-![2 Schematic representation of the three types of plate boundaries:... \|Download Scientific Diagram|335x479](https://www.researchgate.net/publication/305782020/figure/fig1/AS:508759652790272@1498309161471/Schematic-representation-of-the-three-types-of-plate-boundaries-convergent-top.png)|
+
+![2 Schematic representation of the three types of plate boundaries:... \|Download Scientific Diagram|335x479](https://www.researchgate.net/publication/305782020/figure/fig1/AS:508759652790272@1498309161471/Schematic-representation-of-the-three-types-of-plate-boundaries-convergent-top.png)
 
 # 3. Continental Drift
 
