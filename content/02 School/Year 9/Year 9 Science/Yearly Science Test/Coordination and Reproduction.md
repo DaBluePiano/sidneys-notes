@@ -129,3 +129,22 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 - **Gestation**: Zygote implants in uterus, develops into embryo/fetus over ~9 months.
 
 ![6. From Fertilization to Birth Part II: Pregnancy and Birth ...](https://open.lib.umn.edu/app/uploads/sites/272/2019/07/Figure_43_07_01.jpg)
+# 9. Brain
+- **Function**: Acts as the control centre of the CNS; receives, processes, and sends messages; maintains homeostasis.
+- **Major Components/Lobes**: Different parts control and process specific information. The brain's cerebrum is divided into lobes.
+
+| Lobe      | Location                             | Functions                                                                 |
+| --------- | ------------------------------------ | ------------------------------------------------------------------------- |
+| Frontal   | Front of the brain                   | Emotions, reasoning, movement, problem-solving                            |
+| Parietal  | Centre of the brain                  | Managing perception of senses (taste, pain, pressure, temperature, touch) |
+| Temporal  | Region near the ears                 | Recognition of sounds and smells                                          |
+| Occipital | Back of the brain (above cerebellum) | Vision                                                                    |
+
+| Part                        | Location                                    | Functions                                                                                                                                                             |
+| --------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cerebrum                    | Largest part of the brain, upper region     | Higher functions like thinking, voluntary movement, sensory processing; includes cerebral cortex and lobes (frontal, parietal, temporal, occipital).                  |
+| Thalamus                    | Above the brain stem                        | Acts as a relay station for sensory and motor signals to the cerebral cortex; regulates consciousness, sleep, and alertness.                                          |
+| Hypothalamus                | Below the thalamus, base of the brain       | Regulates homeostasis including body temperature, hunger, thirst, sleep, circadian rhythms; links nervous system to endocrine system via pituitary gland.             |
+| Brain Stem                  | Base of the brain, connects to spinal cord  | Controls basic life functions like breathing, heart rate, blood pressure, digestion; relays information between brain and body; includes midbrain, pons, and medulla. |
+| Medulla (Medulla Oblongata) | Lowest part of the brain stem               | Controls autonomic functions such as breathing, heart rhythm, blood pressure, swallowing, vomiting, and sneezing.                                                     |
+| Cerebellum                  | Back of the brain, below the occipital lobe | Coordinates voluntary movements, balance, posture, and fine motor skills; helps with learning motor behaviors.                                                        |
