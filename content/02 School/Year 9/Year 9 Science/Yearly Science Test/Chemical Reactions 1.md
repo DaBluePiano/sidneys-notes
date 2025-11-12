@@ -147,3 +147,13 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 | Acid + Metal     | Acid + Metal → Salt + H₂            | 2HCl + Mg → MgCl₂ + H₂            |
 | Acid + Base      | Acid + Base → Salt + H₂O            | HCl + NaOH → NaCl + H₂O           |
 | Acid + Carbonate | Acid + Carbonate → Salt + H₂O + CO₂ | 2HCl + Na₂CO₃ → 2NaCl + H₂O + CO₂ |
+
+# 6. Gas Tests
+
+Common gases produced in the unit include hydrogen (H₂ from acid + metal), carbon dioxide (CO₂ from combustion, acid + carbonate), and oxygen (O₂ in combustion reactions, though often reactant).
+
+| Gas                  | Test Method                                                                    | Positive Observation                  |
+| -------------------- | ------------------------------------------------------------------------------ | ------------------------------------- |
+| Hydrogen (H₂)        | Pop test: Place a lighted splint near the gas.                                 | Produces a 'pop' sound.               |
+| Oxygen (O₂)          | Glowing splint test: Insert a glowing splint into the gas.                     | Splint relights or bursts into flame. |
+| Carbon Dioxide (CO₂) | Limewater test: Bubble the gas through limewater (calcium hydroxide solution). | Limewater turns milky (cloudy white). |

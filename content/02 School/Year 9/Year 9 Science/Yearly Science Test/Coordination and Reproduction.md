@@ -120,7 +120,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 
 - **Menstrual Cycle**: Regulated by hormones; prepares for pregnancy.
 
-![Menstrual cycle | Discover](https://www.yourhormones.info/media/1131/menstural-cycle.png)
+![Menstrual cycle |Discover|1221x641](https://www.yourhormones.info/media/1131/menstural-cycle.png)
 
 # 8. Sexual Reproduction
 
@@ -149,3 +149,5 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 | Brain Stem                  | Base of the brain, connects to spinal cord  | Controls basic life functions like breathing, heart rate, blood pressure, digestion; relays information between brain and body; includes midbrain, pons, and medulla. |
 | Medulla (Medulla Oblongata) | Lowest part of the brain stem               | Controls autonomic functions such as breathing, heart rhythm, blood pressure, swallowing, vomiting, and sneezing.                                                     |
 | Cerebellum                  | Back of the brain, below the occipital lobe | Coordinates voluntary movements, balance, posture, and fine motor skills; helps with learning motor behaviors.                                                        |
+
+![[image-4.png|500x442]]

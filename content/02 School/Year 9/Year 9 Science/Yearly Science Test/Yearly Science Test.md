@@ -6,6 +6,7 @@ last_edit_date: Sunday, February 23rd 2025, 7:24:35 pm
 ---
 
 %% Begin Waypoint %%
+
 - [[Chemical Reactions 1]]
 - [[Coordination and Reproduction]]
 - [[Rocky Road]]
