@@ -31,39 +31,39 @@ const config: QuartzConfig = {
     colors: {
       lightMode: {
         // Base Layer
-        light: "#F9F7FE",         // Soft lavender white background
-        lightgray: "#EAE7F8",     // Very subtle lavender borders
-        gray: "#C5BFE6",         // Gentle lilac for accents
+        light: "#F8F9FF",         // Very light blue-white background
+        lightgray: "#E8EFFF",     // Soft blue-gray borders
+        gray: "#C7D2FE",         // Light blue-purple accents
         
         // Text & Headers
-        darkgray: "#3A2E5C",     // Rich plum for body text
-        dark: "#6B4EBA",         // Vibrant amethyst for headers
+        darkgray: "#3730A3",     // Deep blue-purple for body text
+        dark: "#1E1B4B",         // Very dark blue for headers
         
         // Interactive Elements
-        secondary: "#5D7FDC",    // Softer sapphire blue
-        tertiary: "#D44D9A",     // Muted raspberry pink
+        secondary: "#3B82F6",    // Bright blue
+        tertiary: "#8B5CF6",     // Purple
         
         // Effects
-        highlight: "rgba(157, 178, 255, 0.2)",  // Soft periwinkle glow
-        textHighlight: "rgba(244, 187, 255, 0.35)", // Gentle lavender highlight
+        highlight: "rgba(59, 130, 246, 0.1)",  // Blue highlight
+        textHighlight: "rgba(139, 92, 246, 0.15)", // Purple highlight
       },
       darkMode: {
         // Base Layer
-        light: "#16122B",         // Deep twilight purple
-        lightgray: "#2A2545",     // Muted plum borders
-        gray: "#4A4266",         // Soft cosmic purple accents
+        light: "#0F0A19",         // Deep blue-black background
+        lightgray: "#1E1A2E",     // Dark blue-gray borders
+        gray: "#312E81",         // Medium blue-purple accents
         
         // Text & Headers
-        darkgray: "#E6DFF8",     // Pale lavender text
-        dark: "#9E8AFF",         // Bright periwinkle headers
+        darkgray: "#C7D2FE",     // Light blue text
+        dark: "#E0E7FF",         // Very light blue headers
         
         // Interactive Elements
-        secondary: "#6B8CFF",    // Electric blue
-        tertiary: "#FF7BC7",     // Vibrant pink
+        secondary: "#60A5FA",    // Light blue
+        tertiary: "#A78BFA",     // Light purple
         
         // Effects
-        highlight: "rgba(107, 140, 255, 0.25)",  // Enhanced blue glow
-        textHighlight: "rgba(90, 42, 140, 0.4)", // Deep purple text background
+        highlight: "rgba(96, 165, 250, 0.2)",  // Blue glow
+        textHighlight: "rgba(167, 139, 250, 0.25)", // Purple glow
       },
     }
     },
